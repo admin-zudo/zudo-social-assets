@@ -49,10 +49,11 @@
           "due_utc": "2026-10-31T11:17:00Z",
           "exec_id": "",
           "note": "",
-          "status": "pending",
+          "status": "posting",
           "target": "linkedin_profile",
           "title": "Booming orders, stale quotes",
-          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v2-liprofile-boom-stale-quotes.mp4"
+          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v2-liprofile-boom-stale-quotes.mp4",
+          "posting_at": "2026-10-31T11:41:43Z"
         }
       ]
     },
