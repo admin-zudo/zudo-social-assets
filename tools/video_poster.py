@@ -6,7 +6,7 @@ item whose due time has come, runs Make scenario 8132416 to post it to
 Instagram / Facebook / LinkedIn. Status changes are committed back to the repo.
 
 No AI is involved: this is a plain, deterministic script.
-A push that changes this file also runs it once (useful if a scheduled run is late).
+A push that changes this file also runs it once (useful if a scheduled run is late or missing).
 
 Queue format (queue/video_queue.json):
 {
