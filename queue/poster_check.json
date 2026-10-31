@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-10-31T07:05:07Z",
+  "make_api_ok": false,
+  "http_status": 403,
+  "scenario_id": 8132416,
+  "scenario_name": "",
+  "scenario_active": null,
+  "message": "{'type': 'https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1010/', 'title': 'Error 1010: Access denied', 'status': 403, 'detail': \"The site owner has blocked access based on your browser's signature.\", 'instance': 'a530cf3b793e11cc', 'error_cod"
+}
