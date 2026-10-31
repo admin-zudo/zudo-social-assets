@@ -1,0 +1,47 @@
+name: Video poster
+
+# Posts due videos from queue/video_queue.json through Make scenario 8132416.
+# Plain script, no AI. Runs at :23 and :53 UTC (= :53 and :23 IST).
+
+on:
+  schedule:
+    - cron: "23,53 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "post = post due videos, check = only test the Make connection"
+        default: post
+        type: choice
+        options: [post, check]
+  push:
+    branches: [main]
+    paths:
+      - tools/video_poster.py
+      - .github/workflows/video-poster.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: video-poster
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            queue
+            tools
+            .github
+      - name: Post due videos
+        env:
+          MAKE_API_TOKEN: ${{ secrets.MAKE_API_TOKEN }}
+          MAKE_BASE: https://eu1.make.com/api/v2
+          SCENARIO_ID: "8132416"
+          MODE: ${{ github.event_name == 'push' && 'check' || inputs.mode || 'post' }}
+        run: python3 tools/video_poster.py

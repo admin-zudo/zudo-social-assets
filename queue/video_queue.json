@@ -1,0 +1,77 @@
+{
+  "about": "Zudo Works video posting queue. The nightly video task adds slots; the GitHub 'Video poster' workflow posts due items via Make. Item status: pending -> posting -> done | failed.",
+  "slots": {
+    "2026-10-31_0642_v3": {
+      "slot": "2026-10-31T01:12:00Z",
+      "ist": "31 Oct 2026, 06:42",
+      "topic": "Australia flash October PMI: composite 47.7 (from 51.3), manufacturing 49.7, input costs at 5-month high: the price-cut trap (Manufacturing, Australia)",
+      "items": [
+        {
+          "caption": "Australia just slipped into contraction 📉 Don't cut prices while your costs are still climbing. 3 moves to protect your margin.\n\nLink in bio 👉 zudoworks.com\n\n#manufacturing #smallbusiness #australia #margins",
+          "cover_ms": 3000,
+          "due_utc": "2026-10-31T01:12:00Z",
+          "exec_id": "e52b4d2f883c42dd97ddd289233e3020",
+          "note": "",
+          "status": "done",
+          "target": "instagram",
+          "title": "Australia's slowdown trap",
+          "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/main/shorts/2026-10-31/v3-ig-au-slips-red-trap.mp4"
+        }
+      ]
+    },
+    "2026-10-31_1344_v1": {
+      "slot": "2026-10-31T08:14:00Z",
+      "ist": "31 Oct 2026, 13:44",
+      "topic": "AI spending forecast +49.5% in 2026; AI arriving inside existing business software (SaaS/AI, Global)",
+      "items": [
+        {
+          "caption": "Worldwide AI spending is forecast to grow 49.5% in 2026, and much of it is existing software budget being turned into AI. For manufacturers, that means AI is arriving inside the tools you already pay for. The real question is whether you'll use it well.\n\nIs AI showing up in your software bills yet?\n\nwww.zudoworks.com\n\n#AI #Manufacturing #BusinessSoftware",
+          "cover_ms": 3000,
+          "due_utc": "2026-10-31T08:14:00Z",
+          "exec_id": "",
+          "note": "",
+          "status": "pending",
+          "target": "linkedin_page",
+          "title": "AI spending is jumping. Is it on your bill?",
+          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v1-lipage-ai-spend-your-tools.mp4"
+        }
+      ]
+    },
+    "2026-10-31_1647_v2": {
+      "slot": "2026-10-31T11:17:00Z",
+      "ist": "31 Oct 2026, 16:47",
+      "topic": "US flash October PMI 56.0, strong demand and fastest selling-price rise in 4+ years: stale quotes cost margin (Manufacturing, US)",
+      "items": [
+        {
+          "caption": "US factories are booming, but selling prices are rising at the sharpest rate in over four years. On projects, I've seen how fast last month's quote turns into a lost margin. Quote expiry dates, weekly job costing and one view of capacity fix most of it.\n\nAre your quotes keeping up with your costs?\n\n#Manufacturing #Pricing",
+          "cover_ms": 3000,
+          "due_utc": "2026-10-31T11:17:00Z",
+          "exec_id": "",
+          "note": "",
+          "status": "pending",
+          "target": "linkedin_profile",
+          "title": "Booming orders, stale quotes",
+          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v2-liprofile-boom-stale-quotes.mp4"
+        }
+      ]
+    },
+    "2026-10-31_1946_v4": {
+      "slot": "2026-10-31T14:16:00Z",
+      "ist": "31 Oct 2026, 19:46",
+      "topic": "US small-business AI use about 1 in 5, smallest firms under 20%: start with one boring job (SaaS/AI, US)",
+      "items": [
+        {
+          "caption": "About 1 in 5 US businesses use AI, and most small firms haven't started yet. You don't need a robot, just one boring job taken off your plate. What's the one task you'd love to stop doing by hand?\n\nwww.zudoworks.com",
+          "cover_ms": 3000,
+          "due_utc": "2026-10-31T14:16:00Z",
+          "exec_id": "",
+          "note": "",
+          "status": "pending",
+          "target": "facebook",
+          "title": "Start AI with one boring job",
+          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v4-fb-small-biz-ai-one-job.mp4"
+        }
+      ]
+    }
+  }
+}
