@@ -86,6 +86,7 @@ def make(method, path, body=None, timeout=60):
         "Authorization": f"Token {TOKEN}",
         "Content-Type": "application/json",
         "Accept": "application/json",
+        "User-Agent": "ZudoWorksVideoPoster/1.0 (+https://www.zudoworks.com)",
     })
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
