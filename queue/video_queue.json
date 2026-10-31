@@ -30,10 +30,11 @@
           "due_utc": "2026-10-31T08:14:00Z",
           "exec_id": "",
           "note": "",
-          "status": "pending",
+          "status": "posting",
           "target": "linkedin_page",
           "title": "AI spending is jumping. Is it on your bill?",
-          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v1-lipage-ai-spend-your-tools.mp4"
+          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v1-lipage-ai-spend-your-tools.mp4",
+          "posting_at": "2026-10-31T08:51:29Z"
         }
       ]
     },
