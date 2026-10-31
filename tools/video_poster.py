@@ -318,7 +318,7 @@ def post_due():
 
         code, body = run_scenario(it)
         exec_id = str(body.get("executionId", "")) if isinstance(body, dict) else ""
-        if code != 200 or not exec_id:
+        if code not in (200, 201, 202) or not exec_id:
             msg = body.get("message") if isinstance(body, dict) else str(body)
             reason = f"Make API {code}: {msg or body}"
             if code in (401, 403):

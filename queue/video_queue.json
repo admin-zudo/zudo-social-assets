@@ -28,13 +28,13 @@
           "caption": "Worldwide AI spending is forecast to grow 49.5% in 2026, and much of it is existing software budget being turned into AI. For manufacturers, that means AI is arriving inside the tools you already pay for. The real question is whether you'll use it well.\n\nIs AI showing up in your software bills yet?\n\nwww.zudoworks.com\n\n#AI #Manufacturing #BusinessSoftware",
           "cover_ms": 3000,
           "due_utc": "2026-10-31T08:14:00Z",
-          "exec_id": "",
-          "note": "Make API 202: {'executionId': '06a2d66198f14075b265458bc459c148', 'statusUrl': 'https://eu1.make.com/api/v2/scenarios/8132416/executions/06a2d66198f14075b265458bc459c148'}",
-          "status": "failed",
+          "exec_id": "06a2d66198f14075b265458bc459c148",
+          "note": "",
+          "status": "posting",
           "target": "linkedin_page",
           "title": "AI spending is jumping. Is it on your bill?",
           "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v1-lipage-ai-spend-your-tools.mp4",
-          "posting_at": "2026-10-31T08:51:29Z"
+          "posting_at": "2026-10-31T08:51:31Z"
         }
       ]
     },
