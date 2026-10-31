@@ -47,7 +47,7 @@
           "caption": "US factories are booming, but selling prices are rising at the sharpest rate in over four years. On projects, I've seen how fast last month's quote turns into a lost margin. Quote expiry dates, weekly job costing and one view of capacity fix most of it.\n\nAre your quotes keeping up with your costs?\n\n#Manufacturing #Pricing",
           "cover_ms": 3000,
           "due_utc": "2026-10-31T11:17:00Z",
-          "exec_id": "",
+          "exec_id": "fc0d4a3fbc574c8f800227ca97967af8",
           "note": "retry: jsDelivr 50 MB repo limit (fixed with small CDN commit)",
           "status": "posting",
           "target": "linkedin_profile",
