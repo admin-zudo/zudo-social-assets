@@ -68,10 +68,11 @@
           "due_utc": "2026-10-31T14:16:00Z",
           "exec_id": "",
           "note": "",
-          "status": "pending",
+          "status": "posting",
           "target": "facebook",
           "title": "Start AI with one boring job",
-          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v4-fb-small-biz-ai-one-job.mp4"
+          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v4-fb-small-biz-ai-one-job.mp4",
+          "posting_at": "2026-10-31T14:35:56Z"
         }
       ]
     }
