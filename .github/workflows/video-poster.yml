@@ -42,6 +42,7 @@ jobs:
       - name: Post due videos
         env:
           MAKE_API_TOKEN: ${{ secrets.MAKE_API_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           MAKE_BASE: https://eu1.make.com/api/v2
           SCENARIO_ID: "8132416"
           MODE: ${{ inputs.mode || 'post' }}

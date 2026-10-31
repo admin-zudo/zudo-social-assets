@@ -47,13 +47,12 @@
           "caption": "US factories are booming, but selling prices are rising at the sharpest rate in over four years. On projects, I've seen how fast last month's quote turns into a lost margin. Quote expiry dates, weekly job costing and one view of capacity fix most of it.\n\nAre your quotes keeping up with your costs?\n\n#Manufacturing #Pricing",
           "cover_ms": 3000,
           "due_utc": "2026-10-31T11:17:00Z",
-          "exec_id": "8f538762a33c4b2389ad9bfc2970312f",
-          "note": "Package size exceeded the configured limit of 50 MB. Try https://github.com/admin-zudo/zudo-social-assets/tree/main/shorts/2026-10-31/v2-liprofile-boom-stale-quotes.mp4 instead.",
-          "status": "failed",
+          "exec_id": "",
+          "note": "retry: jsDelivr 50 MB repo limit (fixed with small CDN commit)",
+          "status": "pending",
           "target": "linkedin_profile",
           "title": "Booming orders, stale quotes",
-          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v2-liprofile-boom-stale-quotes.mp4",
-          "posting_at": "2026-10-31T11:41:43Z"
+          "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@main/shorts/2026-10-31/v2-liprofile-boom-stale-quotes.mp4"
         }
       ]
     },

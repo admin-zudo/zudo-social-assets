@@ -42,6 +42,10 @@ CHECK_FILE = "queue/poster_check.json"
 MAKE_BASE = os.environ.get("MAKE_BASE", "https://eu1.make.com/api/v2").rstrip("/")
 SCENARIO_ID = int(os.environ.get("SCENARIO_ID", "8132416"))
 TOKEN = os.environ.get("MAKE_API_TOKEN", "").strip()
+GH_TOKEN = os.environ.get("GITHUB_TOKEN", "").strip()
+GH_REPO = os.environ.get("GITHUB_REPOSITORY", "admin-zudo/zudo-social-assets")
+JSD_MAIN = f"https://cdn.jsdelivr.net/gh/{GH_REPO}@main/"
+CDN_BRANCH = "cdn"
 
 MAX_PER_RUN = 10
 MISSED_AFTER = timedelta(hours=6)          # don't post more than 6 h late
@@ -104,10 +108,55 @@ def make(method, path, body=None, timeout=60):
         return 0, {"message": f"{type(e).__name__}: {e}"}
 
 
+# ---------------------------------------------------------------- small CDN commit
+# jsDelivr refuses a repo whose files add up to more than 50 MB, and this repo is far
+# bigger. So for each jsDelivr video link we publish a tiny commit (branch "cdn",
+# no history) that contains only that video, and give Make the link pinned to that
+# commit. Nothing on main is changed or deleted.
+
+def github(method, path, body=None):
+    req = urllib.request.Request(
+        f"https://api.github.com/repos/{GH_REPO}{path}",
+        data=json.dumps(body).encode() if body is not None else None, method=method,
+        headers={"Authorization": f"Bearer {GH_TOKEN}", "Accept": "application/vnd.github+json",
+                 "User-Agent": "ZudoWorksVideoPoster/1.0", "X-GitHub-Api-Version": "2022-11-28"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read().decode() or "{}")
+
+
+def small_cdn_url(url):
+    """Return a jsDelivr link that works, or the original link if no change is needed."""
+    if not url.startswith(JSD_MAIN) or not GH_TOKEN:
+        return url
+    path = url[len(JSD_MAIN):].split("?")[0]
+    meta = github("GET", f"/contents/{urllib.request.quote(path)}?ref=main")
+    tree = github("POST", "/git/trees", {"tree": [
+        {"path": path, "mode": "100644", "type": "blob", "sha": meta["sha"]}]})
+    commit = github("POST", "/git/commits", {
+        "message": f"CDN copy of {path} (for jsDelivr; main is unchanged)", "tree": tree["sha"]})
+    try:
+        github("PATCH", f"/git/refs/heads/{CDN_BRANCH}", {"sha": commit["sha"], "force": True})
+    except urllib.error.HTTPError:
+        github("POST", "/git/refs", {"ref": f"refs/heads/{CDN_BRANCH}", "sha": commit["sha"]})
+    new = f"https://cdn.jsdelivr.net/gh/{GH_REPO}@{commit['sha']}/{path}"
+    # warm jsDelivr so the platform's fetch is quick (best effort)
+    try:
+        urllib.request.urlopen(urllib.request.Request(new, method="HEAD",
+                               headers={"User-Agent": "ZudoWorksVideoPoster/1.0"}), timeout=60)
+    except Exception as e:
+        log(f"jsDelivr warm-up for {path}: {e}")
+    return new
+
+
 def run_scenario(item):
+    video_url = item.get("video_url", "")
+    try:
+        video_url = small_cdn_url(video_url)
+    except Exception as e:
+        log(f"could not make a small CDN link, using the original: {e}")
     data = {
         "target": item["target"],
-        "video_url": item.get("video_url", ""),
+        "video_url": video_url,
         "caption": item.get("caption", ""),
         "title": item.get("title", ""),
         "cover_ms": item.get("cover_ms", 3000),
