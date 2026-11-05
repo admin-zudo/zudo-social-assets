@@ -210,6 +210,48 @@
     "publish_at": "2026-11-10T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-12": {
+   "ep": 7,
+   "name": "Zoho Expense",
+   "post_ist": "2026-11-12 00:00",
+   "post_utc": "2026-11-11T18:30:00Z",
+   "size_bytes": 4793945,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep07/zoho-explained/ep07-short.mp4",
+     "caption": "Receipts in 38+ languages, read by AI. Goodbye to the shoebox of bills.\n\nZoho Expense in 6 stations:\n01 Receipt capture\n02 Mileage tracking\n03 Corporate cards\n04 Travel booking\n05 Approvals\n06 Policy checks\n\nTip: write your expense policy before you switch it on. The software can only check rules you've actually set.\nEpisode 7 of 50 · Next: Zoho Billing.\n\n#ZohoExpense #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Expense",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep07/zoho-explained/ep07-short.mp4",
+     "caption": "Fuel slips, taxi receipts and hotel bills, stapled to a form at month end. Half are faded, and one is always missing.\n\nEpisode 7 of Zoho Explained looks at Zoho Expense: receipt capture, mileage tracking, corporate cards, travel booking, approvals and policy checks, plus connections to Books, CRM, Analytics and Payroll.\n\nFrom Zoho's page: a 14-day free trial, receipt capture in 38+ languages, and 2,500+ integrations.\n\nNext: Zoho Billing.",
+     "title": "Zoho Expense explained | Zoho Explained Ep 7"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep07/zoho-explained/ep07-short.mp4",
+     "caption": "Receipts in 38+ languages, read by AI. Goodbye to the shoebox of bills.\n\nFuel slips, taxi receipts and hotel bills, stapled to a form at month end. Half are faded, and one is always missing.\n\nZoho Expense handles business spending, from the moment a receipt is created to the moment the employee is paid back. Six stations on its line:\n\n1. Receipt capture: aI reads the receipt\n2. Mileage tracking: automatic trip distances\n3. Corporate cards: card feeds, matched automatically\n4. Travel booking: flights and hotels, built in\n5. Approvals: multi-level, with delegates\n6. Policy checks: zia flags duplicates and risks\n\nIt connects across Zoho with Books, CRM, Analytics and Payroll.\n\nFrom Zoho's page: a 14-day free trial, receipt capture in 38+ languages, and 2,500+ integrations.\n\nTip: write your expense policy before you switch it on. The software can only check rules you've actually set.\n\nEpisode 7 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Billing.\n\n#ZohoExpense #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Expense explained | Zoho Explained Ep 7"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep07/zoho-explained/ep07-short.mp4",
+     "caption": "Receipts in 38+ languages, read by AI. Goodbye to the shoebox of bills.\n\nFuel slips, taxi receipts and hotel bills, stapled to a form at month end. Half are faded, and one is always missing.\n\nZoho Expense handles business spending, from the moment a receipt is created to the moment the employee is paid back. Six stations on its line:\n\n1. Receipt capture: aI reads the receipt\n2. Mileage tracking: automatic trip distances\n3. Corporate cards: card feeds, matched automatically\n4. Travel booking: flights and hotels, built in\n5. Approvals: multi-level, with delegates\n6. Policy checks: zia flags duplicates and risks\n\nIt connects across Zoho with Books, CRM, Analytics and Payroll.\n\nFrom Zoho's page: a 14-day free trial, receipt capture in 38+ languages, and 2,500+ integrations.\n\nTip: write your expense policy before you switch it on. The software can only check rules you've actually set.\n\nEpisode 7 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Billing.\n\n#ZohoExpense #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Expense explained | Zoho Explained Ep 7"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep07/zoho-explained/ep07-short.mp4",
+    "file_name": "zoho-explained-ep07-short.mp4",
+    "title": "Zoho Expense explained in 100 seconds #shorts",
+    "description": "Zoho Expense as a metro line: Receipt capture, Mileage tracking, Corporate cards, Travel booking, Approvals, Policy checks.\n\nFacts: zoho.com/expense, Nov 2026.\nEpisode 7 of Zoho Explained. Next: Zoho Billing.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoExpense #Zoho #Shorts",
+    "publish_at": "2026-11-11T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
