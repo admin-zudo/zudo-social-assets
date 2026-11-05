@@ -1,0 +1,47 @@
+{
+ "about": "Zoho Explained daily video, 00:00 IST. Read by the daily 23:55 IST scheduled task, which fires each post through Make scenario 8132416 at 00:00:00. YouTube Shorts are uploaded ahead with publish_at. Remove an entry (or set \"hold\": true) to stop that day's post.",
+ "days": {
+  "2026-11-07": {
+   "ep": 2,
+   "name": "Zoho CRM",
+   "post_ist": "2026-11-07 00:00",
+   "post_utc": "2026-11-06T18:30:00Z",
+   "size_bytes": 4795349,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep02/zoho-explained/ep02-short.mp4",
+     "caption": "350,000 businesses run their sales on one app. Here's why. 👇\n\nZoho CRM in 6 stations:\n01 Lead capture\n02 Contacts & accounts\n03 Deal pipeline\n04 Workflow automation\n05 Reports & forecasts\n06 Zia AI\n\nTip: start with one pipeline and a few automations.\n\nEpisode 2 of 50 · Next: Bigin\n#ZohoCRM #Zoho #CRM #SalesTips #SmallBusiness #ZohoExplained",
+     "title": "Zoho CRM",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep02/zoho-explained/ep02-short.mp4",
+     "caption": "If your leads are spread across spreadsheets, WhatsApp chats and sticky notes, deals slip away quietly.\n\nEpisode 2 of Zoho Explained looks at Zoho CRM: lead capture, one timeline per customer, a deal pipeline, workflow automation, reports and forecasts, and Zia, Zoho's AI assistant. It also connects to Campaigns, SalesIQ, Desk and Books.\n\nZoho says more than 350,000 businesses use it, with 1,200+ integrations (zoho.com/crm, Nov 2026).\n\nNext episode: Bigin, Zoho's simpler CRM for small teams.",
+     "title": "Zoho CRM explained | Zoho Explained Ep 2"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep02/zoho-explained/ep02-short.mp4",
+     "caption": "Your leads are probably living in five places right now: a spreadsheet, a WhatsApp chat, a sticky note, someone's inbox and a stack of visiting cards.\n\nZoho CRM puts them in one place and follows each one from the first call to the closed deal. Six stations on the line:\n\n1. Lead capture: web forms, email and calls, straight into the CRM\n2. Contacts & accounts: every call, email and meeting on one timeline\n3. Deal pipeline: move deals stage by stage and see what is likely to close\n4. Workflow automation: rules assign leads, send follow-ups and create tasks\n5. Reports & forecasts: dashboards plus where the quarter is heading\n6. Zia: Zoho's AI assistant for questions, predictions and suggestions\n\nIt connects across Zoho: Campaigns for email, SalesIQ for live chat, Desk for support, Books for invoices.\n\nBy the numbers (zoho.com/crm, Nov 2026): 350,000+ businesses, 1,200+ integrations, 21 years in the making.\n\nPractical tip: start with one pipeline and two or three automations. Add more once your team trusts the data.\n\nEpisode 2 of Zoho Explained. Next: Bigin.\n\n#ZohoCRM #Zoho #CRM #SalesProcess #SalesAutomation #ZohoExplained",
+     "title": "Zoho CRM explained | Zoho Explained Ep 2"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep02/zoho-explained/ep02-short.mp4",
+     "caption": "Your leads are probably living in five places right now: a spreadsheet, a WhatsApp chat, a sticky note, someone's inbox and a stack of visiting cards.\n\nZoho CRM puts them in one place and follows each one from the first call to the closed deal. Six stations on the line:\n\n1. Lead capture: web forms, email and calls, straight into the CRM\n2. Contacts & accounts: every call, email and meeting on one timeline\n3. Deal pipeline: move deals stage by stage and see what is likely to close\n4. Workflow automation: rules assign leads, send follow-ups and create tasks\n5. Reports & forecasts: dashboards plus where the quarter is heading\n6. Zia: Zoho's AI assistant for questions, predictions and suggestions\n\nIt connects across Zoho: Campaigns for email, SalesIQ for live chat, Desk for support, Books for invoices.\n\nBy the numbers (zoho.com/crm, Nov 2026): 350,000+ businesses, 1,200+ integrations, 21 years in the making.\n\nPractical tip: start with one pipeline and two or three automations. Add more once your team trusts the data.\n\nEpisode 2 of Zoho Explained. Next: Bigin.\n\n#ZohoCRM #Zoho #CRM #SalesProcess #SalesAutomation #ZohoExplained",
+     "title": "Zoho CRM explained | Zoho Explained Ep 2"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep02/zoho-explained/ep02-short.mp4",
+    "file_name": "zoho-explained-ep02-short.mp4",
+    "title": "Zoho CRM in 100 seconds: 6 features that matter #shorts",
+    "description": "Zoho CRM explained as a metro line: lead capture, contacts & accounts, deal pipeline, workflow automation, reports & forecasts, and Zia AI.\n\nFacts: zoho.com/crm, Nov 2026 (350K+ businesses, 1,200+ integrations, 21 years).\nEpisode 2 of Zoho Explained. Next: Bigin.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoCRM #Zoho #Shorts",
+    "publish_at": "2026-11-06T18:30:00Z"
+   },
+   "youtube_video_id": ""
+  }
+ }
+}
