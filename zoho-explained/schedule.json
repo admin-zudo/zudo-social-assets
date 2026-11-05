@@ -42,6 +42,48 @@
     "publish_at": "2026-11-06T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-08": {
+   "ep": 3,
+   "name": "Bigin by Zoho CRM",
+   "post_ist": "2026-11-08 00:00",
+   "post_utc": "2026-11-07T18:30:00Z",
+   "size_bytes": 4788741,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep03/zoho-explained/ep03-short.mp4",
+     "caption": "A CRM you can set up in minutes. 50,000 businesses already run on it. ⚡\n\nBigin by Zoho in 6 stations:\n01 Pipelines\n02 Contacts & companies\n03 Email & WhatsApp\n04 Calls\n05 Workflows\n06 Mobile app\n\nForever-free plan for 1 user.\nEpisode 3 of 50 · Next: Zoho Books\n\n#Bigin #Zoho #SmallBusiness #CRM #WhatsAppBusiness #ZohoExplained",
+     "title": "Bigin by Zoho CRM",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep03/zoho-explained/ep03-short.mp4",
+     "caption": "Running sales from WhatsApp chats, a diary and a spreadsheet? Episode 3 of Zoho Explained looks at Bigin, Zoho's pipeline-first CRM for small businesses.\n\nPipelines, contacts, email and WhatsApp on the deal, call logging, simple workflows and a mobile app, plus connections to Zoho Books, Campaigns, Desk and Analytics.\n\nZoho says 50,000+ businesses run on Bigin, and there's a forever-free plan for one user (bigin.com, Nov 2026).\n\nNext episode: Zoho Books.",
+     "title": "Bigin by Zoho CRM explained | Zoho Explained Ep 3"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep03/zoho-explained/ep03-short.mp4",
+     "caption": "Not every business needs a big CRM. Some just need to stop losing deals.\n\nBigin is Zoho's CRM built for small businesses, and it's centred on one thing: the pipeline. Six stations on its line:\n\n1. Pipelines: every deal in a visible stage, with more than one pipeline if you need it\n2. Contacts & companies: everyone you sell to, linked to their deals\n3. Email & WhatsApp: conversations tracked on the contact or deal\n4. Calls: call logging on mobile, plus AI call transcripts\n5. Workflows: email sequences, scheduled actions, task assignment\n6. Mobile app: iOS and Android\n\nIt connects to Zoho Books, Campaigns, Desk and Analytics.\n\nBy the numbers (bigin.com, Nov 2026): 50,000+ businesses, a forever-free plan for one user, and a 15-day free trial on paid editions.\n\nTip: start simple. Zoho positions Zoho CRM as the upgrade path when you outgrow Bigin.\n\nEpisode 3 of Zoho Explained. Next: Zoho Books.\n\n#Bigin #Zoho #CRM #SmallBusiness #SalesPipeline #ZohoExplained",
+     "title": "Bigin by Zoho CRM explained | Zoho Explained Ep 3"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep03/zoho-explained/ep03-short.mp4",
+     "caption": "Not every business needs a big CRM. Some just need to stop losing deals.\n\nBigin is Zoho's CRM built for small businesses, and it's centred on one thing: the pipeline. Six stations on its line:\n\n1. Pipelines: every deal in a visible stage, with more than one pipeline if you need it\n2. Contacts & companies: everyone you sell to, linked to their deals\n3. Email & WhatsApp: conversations tracked on the contact or deal\n4. Calls: call logging on mobile, plus AI call transcripts\n5. Workflows: email sequences, scheduled actions, task assignment\n6. Mobile app: iOS and Android\n\nIt connects to Zoho Books, Campaigns, Desk and Analytics.\n\nBy the numbers (bigin.com, Nov 2026): 50,000+ businesses, a forever-free plan for one user, and a 15-day free trial on paid editions.\n\nTip: start simple. Zoho positions Zoho CRM as the upgrade path when you outgrow Bigin.\n\nEpisode 3 of Zoho Explained. Next: Zoho Books.\n\n#Bigin #Zoho #CRM #SmallBusiness #SalesPipeline #ZohoExplained",
+     "title": "Bigin by Zoho CRM explained | Zoho Explained Ep 3"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep03/zoho-explained/ep03-short.mp4",
+    "file_name": "zoho-explained-ep03-short.mp4",
+    "title": "Bigin: the CRM small teams actually use #shorts",
+    "description": "Bigin by Zoho CRM as a metro line: pipelines, contacts, email & WhatsApp, calls, workflows and the mobile app.\n\nFacts: bigin.com and bigin.com/pricing, Nov 2026 (50K+ businesses, free plan for 1 user, 15-day trial).\nEpisode 3 of Zoho Explained. Next: Zoho Books.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#Bigin #Zoho #Shorts",
+    "publish_at": "2026-11-07T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
