@@ -126,6 +126,48 @@
     "publish_at": "2026-11-08T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-10": {
+   "ep": 5,
+   "name": "Zoho Inventory",
+   "post_ist": "2026-11-10 00:00",
+   "post_utc": "2026-11-09T18:30:00Z",
+   "size_bytes": 4802201,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep05/zoho-explained/ep05-short.mp4",
+     "caption": "One stock count across Amazon, eBay, Etsy and Shopify. 📦\n\nZoho Inventory in 6 stations:\n01 Multiple warehouses\n02 Serial & batch tracking\n03 Barcodes\n04 Purchase orders\n05 Pack & ship\n06 Reorder points\n\nFree for 50 orders a month.\nEpisode 5 of 50 · Next: Zoho Invoice\n\n#ZohoInventory #Zoho #Ecommerce #Inventory #SmallBusiness #ZohoExplained",
+     "title": "Zoho Inventory",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep05/zoho-explained/ep05-short.mp4",
+     "caption": "Selling online and in a shop? Episode 5 of Zoho Explained looks at Zoho Inventory: one stock count across warehouses and channels, serial and batch tracking, barcodes, purchase orders, packing and shipping, and reorder alerts.\n\nIt connects to Amazon, eBay, Walmart, Etsy, Shopify and WooCommerce, plus Zoho Books, CRM, Commerce and Analytics. There's a free plan for 50 orders a month (zoho.com/inventory, Nov 2026).\n\nNext episode: Zoho Invoice.",
+     "title": "Zoho Inventory explained | Zoho Explained Ep 5"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep05/zoho-explained/ep05-short.mp4",
+     "caption": "Sold out on your website while twenty boxes sit in the back room? Or the reverse: selling something you don't have?\n\nZoho Inventory keeps one live stock count, updated by every purchase and every sale, across channels. Six stations on its line:\n\n1. Multiple warehouses: stock by location, transfer orders, picklists, bin locations\n2. Serial & batch tracking: trace any unit or batch to the customer who received it\n3. Barcodes: generate and scan, plus RFID support\n4. Purchase orders: order, receive, pay vendors; backorders and dropshipments\n5. Pack & ship: packages, carriers like UPS, FedEx and DHL, post-shipment tracking\n6. Reorder points: low-stock alerts before you run out\n\nChannels: Amazon, eBay, Walmart, Etsy, Shopify, WooCommerce and Zoho Commerce.\nIt connects to Zoho Books, CRM, Commerce and Analytics.\n\nFrom zoho.com/inventory (Nov 2026): a free plan with 50 orders a month, five plans in total, and a 14-day free trial.\n\nTip: do one careful stock count before you switch. Software is only as accurate as the number you start with.\n\nEpisode 5 of Zoho Explained. Next: Zoho Invoice.\n\n#ZohoInventory #Zoho #InventoryManagement #Ecommerce #SmallBusiness #ZohoExplained",
+     "title": "Zoho Inventory explained | Zoho Explained Ep 5"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep05/zoho-explained/ep05-short.mp4",
+     "caption": "Sold out on your website while twenty boxes sit in the back room? Or the reverse: selling something you don't have?\n\nZoho Inventory keeps one live stock count, updated by every purchase and every sale, across channels. Six stations on its line:\n\n1. Multiple warehouses: stock by location, transfer orders, picklists, bin locations\n2. Serial & batch tracking: trace any unit or batch to the customer who received it\n3. Barcodes: generate and scan, plus RFID support\n4. Purchase orders: order, receive, pay vendors; backorders and dropshipments\n5. Pack & ship: packages, carriers like UPS, FedEx and DHL, post-shipment tracking\n6. Reorder points: low-stock alerts before you run out\n\nChannels: Amazon, eBay, Walmart, Etsy, Shopify, WooCommerce and Zoho Commerce.\nIt connects to Zoho Books, CRM, Commerce and Analytics.\n\nFrom zoho.com/inventory (Nov 2026): a free plan with 50 orders a month, five plans in total, and a 14-day free trial.\n\nTip: do one careful stock count before you switch. Software is only as accurate as the number you start with.\n\nEpisode 5 of Zoho Explained. Next: Zoho Invoice.\n\n#ZohoInventory #Zoho #InventoryManagement #Ecommerce #SmallBusiness #ZohoExplained",
+     "title": "Zoho Inventory explained | Zoho Explained Ep 5"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep05/zoho-explained/ep05-short.mp4",
+    "file_name": "zoho-explained-ep05-short.mp4",
+    "title": "Zoho Inventory: one stock count for every channel #shorts",
+    "description": "Zoho Inventory as a metro line: warehouses, serial & batch tracking, barcodes, purchase orders, pack & ship, reorder points.\n\nFacts: zoho.com/inventory, Nov 2026 (free plan 50 orders/month, 14-day trial, 4 marketplaces).\nEpisode 5 of Zoho Explained. Next: Zoho Invoice.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoInventory #Zoho #Shorts",
+    "publish_at": "2026-11-09T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
