@@ -168,6 +168,48 @@
     "publish_at": "2026-11-09T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-11": {
+   "ep": 6,
+   "name": "Zoho Invoice",
+   "post_ist": "2026-11-11 00:00",
+   "post_utc": "2026-11-10T18:30:00Z",
+   "size_bytes": 4792096,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep06/zoho-explained/ep06-short.mp4",
+     "caption": "₹0 invoicing. So what's the catch? 🧾\n\nZoho Invoice in 6 stations:\n01 Quotes to invoices\n02 Recurring invoices\n03 Payment reminders\n04 Online payments\n05 Time & expenses\n06 Customer portal\n\nThe catch: it's invoicing, not full accounting (that's Zoho Books).\nEpisode 6 of 50 · Next: Zoho Expense\n\n#ZohoInvoice #Zoho #Freelancer #Invoicing #SmallBusiness #ZohoExplained",
+     "title": "Zoho Invoice",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep06/zoho-explained/ep06-short.mp4",
+     "caption": "Still making invoices in a word processor and chasing payments by phone? Episode 6 of Zoho Explained looks at Zoho Invoice, which Zoho offers for free: quotes, recurring invoices, automatic reminders, online payments, time and expenses, and a customer portal.\n\nInvoices can go out by email, SMS or WhatsApp, and there are apps for iOS, Android, Windows and Mac (zoho.com/invoice, Nov 2026).\n\nNext episode: Zoho Expense.",
+     "title": "Zoho Invoice explained | Zoho Explained Ep 6"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep06/zoho-explained/ep06-short.mp4",
+     "caption": "₹0. Quotes, invoices, reminders and online payments. So what's the catch?\n\nZoho Invoice is Zoho's invoicing app, and Zoho offers it for free. It does one job: getting you paid. Six stations on its line:\n\n1. Quotes to invoices: an approved quote converts into an invoice\n2. Recurring invoices: retainers and monthly bills go out on schedule\n3. Payment reminders: polite, automatic, before and after the due date\n4. Online payments: card, bank transfer or e-wallet through payment gateways\n5. Time & expenses: billable hours and costs added to the invoice\n6. Customer portal: clients see and pay their invoices\n\nSend invoices by email, SMS, or as a PDF on WhatsApp. Apps for iOS, Android, Windows and Mac. Zoho's page names 17 integrations, including Zoho CRM, Bigin, Desk and Analytics (zoho.com/invoice, Nov 2026).\n\nThe catch: it's invoicing, not full accounting. For bank reconciliation and tax reports, that's Zoho Books.\n\nEpisode 6 of Zoho Explained. Next: Zoho Expense.\n\n#ZohoInvoice #Zoho #Invoicing #Freelancers #SmallBusiness #ZohoExplained",
+     "title": "Zoho Invoice explained | Zoho Explained Ep 6"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep06/zoho-explained/ep06-short.mp4",
+     "caption": "₹0. Quotes, invoices, reminders and online payments. So what's the catch?\n\nZoho Invoice is Zoho's invoicing app, and Zoho offers it for free. It does one job: getting you paid. Six stations on its line:\n\n1. Quotes to invoices: an approved quote converts into an invoice\n2. Recurring invoices: retainers and monthly bills go out on schedule\n3. Payment reminders: polite, automatic, before and after the due date\n4. Online payments: card, bank transfer or e-wallet through payment gateways\n5. Time & expenses: billable hours and costs added to the invoice\n6. Customer portal: clients see and pay their invoices\n\nSend invoices by email, SMS, or as a PDF on WhatsApp. Apps for iOS, Android, Windows and Mac. Zoho's page names 17 integrations, including Zoho CRM, Bigin, Desk and Analytics (zoho.com/invoice, Nov 2026).\n\nThe catch: it's invoicing, not full accounting. For bank reconciliation and tax reports, that's Zoho Books.\n\nEpisode 6 of Zoho Explained. Next: Zoho Expense.\n\n#ZohoInvoice #Zoho #Invoicing #Freelancers #SmallBusiness #ZohoExplained",
+     "title": "Zoho Invoice explained | Zoho Explained Ep 6"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep06/zoho-explained/ep06-short.mp4",
+    "file_name": "zoho-explained-ep06-short.mp4",
+    "title": "Zoho Invoice is free. What's the catch? #shorts",
+    "description": "Zoho Invoice as a metro line: quotes, recurring invoices, reminders, online payments, time & expenses, customer portal.\n\nFacts: zoho.com/invoice, Nov 2026 (free, 4 platforms, 17 integrations named).\nEpisode 6 of Zoho Explained. Next: Zoho Expense.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoInvoice #Zoho #Shorts",
+    "publish_at": "2026-11-10T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
