@@ -630,6 +630,48 @@
     "publish_at": "2026-11-20T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-22": {
+   "ep": 17,
+   "name": "Zoho Forms",
+   "post_ist": "2026-11-22 00:00",
+   "post_utc": "2026-11-21T18:30:00Z",
+   "size_bytes": 4741411,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep17/zoho-explained/ep17-short.mp4",
+     "caption": "150M+ form submissions. Not one of them retyped by hand.\n\nZoho Forms in 6 stations:\n01 Drag-and-drop builder\n02 Conditional logic\n03 Payments\n04 Approvals & workflows\n05 Offline mobile app\n06 Signatures & PDFs\n\nTip: every question you remove makes the form more likely to be finished. Ask only what you'll actually use.\nEpisode 17 of 50 · Next: Zoho Survey.\n\n#ZohoForms #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Forms",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep17/zoho-explained/ep17-short.mp4",
+     "caption": "Paper forms on a clipboard, typed into a spreadsheet at the end of the day. Slow, and full of mistakes.\n\nEpisode 17 of Zoho Explained looks at Zoho Forms: drag-and-drop builder, conditional logic, payments, approvals & workflows, offline mobile app and signatures & pdfs, plus connections to CRM, Desk, Campaigns and Creator.\n\nFrom Zoho's page: 100K customers, 150M+ submissions, and integrations with 150+ apps.\n\nNext: Zoho Survey.",
+     "title": "Zoho Forms explained | Zoho Explained Ep 17"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep17/zoho-explained/ep17-short.mp4",
+     "caption": "150M+ form submissions. Not one of them retyped by hand.\n\nPaper forms on a clipboard, typed into a spreadsheet at the end of the day. Slow, and full of mistakes.\n\nZoho Forms builds online forms that send each answer straight to where it needs to go. Six stations on its line:\n\n1. Drag-and-drop builder: no code\n2. Conditional logic: show only what matters\n3. Payments: payPal, Stripe, 2Checkout\n4. Approvals & workflows: multi-level, automated\n5. Offline mobile app: collect data without signal\n6. Signatures & PDFs: e-sign, PDF forms, QR codes\n\nIt connects across Zoho with CRM, Desk, Campaigns and Creator.\n\nFrom Zoho's page: 100K customers, 150M+ submissions, and integrations with 150+ apps.\n\nTip: every question you remove makes the form more likely to be finished. Ask only what you'll actually use.\n\nEpisode 17 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Survey.\n\n#ZohoForms #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Forms explained | Zoho Explained Ep 17"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep17/zoho-explained/ep17-short.mp4",
+     "caption": "150M+ form submissions. Not one of them retyped by hand.\n\nPaper forms on a clipboard, typed into a spreadsheet at the end of the day. Slow, and full of mistakes.\n\nZoho Forms builds online forms that send each answer straight to where it needs to go. Six stations on its line:\n\n1. Drag-and-drop builder: no code\n2. Conditional logic: show only what matters\n3. Payments: payPal, Stripe, 2Checkout\n4. Approvals & workflows: multi-level, automated\n5. Offline mobile app: collect data without signal\n6. Signatures & PDFs: e-sign, PDF forms, QR codes\n\nIt connects across Zoho with CRM, Desk, Campaigns and Creator.\n\nFrom Zoho's page: 100K customers, 150M+ submissions, and integrations with 150+ apps.\n\nTip: every question you remove makes the form more likely to be finished. Ask only what you'll actually use.\n\nEpisode 17 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Survey.\n\n#ZohoForms #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Forms explained | Zoho Explained Ep 17"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep17/zoho-explained/ep17-short.mp4",
+    "file_name": "zoho-explained-ep17-short.mp4",
+    "title": "150M+ form submissions. Not one of them retyped by hand #shorts",
+    "description": "Zoho Forms as a metro line: Drag-and-drop builder, Conditional logic, Payments, Approvals & workflows, Offline mobile app, Signatures & PDFs.\n\nFacts: zoho.com/forms, Nov 2026.\nEpisode 17 of Zoho Explained. Next: Zoho Survey.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoForms #Zoho #Shorts",
+    "publish_at": "2026-11-21T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
