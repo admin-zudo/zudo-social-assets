@@ -714,6 +714,48 @@
     "publish_at": "2026-11-22T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-24": {
+   "ep": 19,
+   "name": "Zoho Sites",
+   "post_ist": "2026-11-24 00:00",
+   "post_utc": "2026-11-23T18:30:00Z",
+   "size_bytes": 4747213,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep19/zoho-explained/ep19-short.mp4",
+     "caption": "One prompt. One template. Hundreds of pages. Here's how Zoho Sites builds websites.\n\nZoho Sites in 6 stations:\n01 AI site builder\n02 Drag-and-drop\n03 Dynamic pages\n04 Member portal\n05 Blogs & forms\n06 Domain & hosting\n\nTip: let AI give you a first draft, then rewrite the words yourself. Your customers should hear your voice.\nEpisode 19 of 50 · Next: Zoho Commerce.\n\n#ZohoSites #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Sites",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep19/zoho-explained/ep19-short.mp4",
+     "caption": "An old website nobody can edit, prices from two years ago, and a developer quote for every small change.\n\nEpisode 19 of Zoho Explained looks at Zoho Sites: ai site builder, drag-and-drop, dynamic pages, member portal, blogs & forms and domain & hosting, plus connections to CRM, SalesIQ and Survey.\n\nFrom Zoho's page: a 15-day free trial with no credit card, and four plans, from 1 page up to 100.\n\nNext: Zoho Commerce.",
+     "title": "Zoho Sites explained | Zoho Explained Ep 19"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep19/zoho-explained/ep19-short.mp4",
+     "caption": "One prompt. One template. Hundreds of pages. Here's how Zoho Sites builds websites.\n\nAn old website nobody can edit, prices from two years ago, and a developer quote for every small change.\n\nZoho Sites is Zoho's website builder. You can start from a prompt, then edit everything yourself. Six stations on its line:\n\n1. AI site builder: pages from a prompt\n2. Drag-and-drop: responsive, reusable components\n3. Dynamic pages: hundreds of pages, one template\n4. Member portal: pages for logged-in members\n5. Blogs & forms: multi-author blogs, forms\n6. Domain & hosting: find, link, host on Zoho's cloud\n\nIt connects across Zoho with CRM, SalesIQ and Survey.\n\nFrom Zoho's page: a 15-day free trial with no credit card, and four plans, from 1 page up to 100.\n\nTip: let AI give you a first draft, then rewrite the words yourself. Your customers should hear your voice.\n\nEpisode 19 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Commerce.\n\n#ZohoSites #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Sites explained | Zoho Explained Ep 19"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep19/zoho-explained/ep19-short.mp4",
+     "caption": "One prompt. One template. Hundreds of pages. Here's how Zoho Sites builds websites.\n\nAn old website nobody can edit, prices from two years ago, and a developer quote for every small change.\n\nZoho Sites is Zoho's website builder. You can start from a prompt, then edit everything yourself. Six stations on its line:\n\n1. AI site builder: pages from a prompt\n2. Drag-and-drop: responsive, reusable components\n3. Dynamic pages: hundreds of pages, one template\n4. Member portal: pages for logged-in members\n5. Blogs & forms: multi-author blogs, forms\n6. Domain & hosting: find, link, host on Zoho's cloud\n\nIt connects across Zoho with CRM, SalesIQ and Survey.\n\nFrom Zoho's page: a 15-day free trial with no credit card, and four plans, from 1 page up to 100.\n\nTip: let AI give you a first draft, then rewrite the words yourself. Your customers should hear your voice.\n\nEpisode 19 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Commerce.\n\n#ZohoSites #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Sites explained | Zoho Explained Ep 19"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep19/zoho-explained/ep19-short.mp4",
+    "file_name": "zoho-explained-ep19-short.mp4",
+    "title": "Zoho Sites explained in 100 seconds #shorts",
+    "description": "Zoho Sites as a metro line: AI site builder, Drag-and-drop, Dynamic pages, Member portal, Blogs & forms, Domain & hosting.\n\nFacts: zoho.com/sites, Nov 2026.\nEpisode 19 of Zoho Explained. Next: Zoho Commerce.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoSites #Zoho #Shorts",
+    "publish_at": "2026-11-23T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
