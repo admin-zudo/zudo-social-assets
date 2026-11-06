@@ -504,6 +504,48 @@
     "publish_at": "2026-11-17T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-19": {
+   "ep": 14,
+   "name": "Zoho Campaigns",
+   "post_ist": "2026-11-19 00:00",
+   "post_utc": "2026-11-18T18:30:00Z",
+   "size_bytes": 4745406,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep14/zoho-explained/ep14-short.mp4",
+     "caption": "6,000 emails a month, free forever. Here's how to make sure they actually get opened.\n\nZoho Campaigns in 6 stations:\n01 Drag-and-drop editor\n02 Segmentation\n03 Automation\n04 A/B testing\n05 Email, SMS & WhatsApp\n06 Reports\n\nTip: send fewer, better emails to the right segment. A smaller list that opens beats a big list that ignores you.\nEpisode 14 of 50 · Next: Marketing Automation.\n\n#ZohoCampaigns #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Campaigns",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep14/zoho-explained/ep14-short.mp4",
+     "caption": "One big email, sent to everyone in BCC, from a personal inbox. Half land in spam, and nobody knows who opened it.\n\nEpisode 14 of Zoho Explained looks at Zoho Campaigns: drag-and-drop editor, segmentation, automation, a/b testing, email, sms & whatsapp and reports, plus connections to CRM, Books, Analytics and Meeting.\n\nFrom Zoho's page: forever free for 2,000 contacts and 6,000 emails a month, across email, SMS and WhatsApp.\n\nNext: Marketing Automation.",
+     "title": "Zoho Campaigns explained | Zoho Explained Ep 14"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep14/zoho-explained/ep14-short.mp4",
+     "caption": "6,000 emails a month, free forever. Here's how to make sure they actually get opened.\n\nOne big email, sent to everyone in BCC, from a personal inbox. Half land in spam, and nobody knows who opened it.\n\nZoho Campaigns is Zoho's email marketing app. Design, send, automate and measure, from one place. Six stations on its line:\n\n1. Drag-and-drop editor: mobile-first emails, no code\n2. Segmentation: the right list for each message\n3. Automation: welcome emails and follow-ups\n4. A/B testing: subject, sender, content\n5. Email, SMS & WhatsApp: three channels\n6. Reports: opens, clicks, bounces, growth\n\nIt connects across Zoho with CRM, Books, Analytics and Meeting.\n\nFrom Zoho's page: forever free for 2,000 contacts and 6,000 emails a month, across email, SMS and WhatsApp.\n\nTip: send fewer, better emails to the right segment. A smaller list that opens beats a big list that ignores you.\n\nEpisode 14 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Marketing Automation.\n\n#ZohoCampaigns #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Campaigns explained | Zoho Explained Ep 14"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep14/zoho-explained/ep14-short.mp4",
+     "caption": "6,000 emails a month, free forever. Here's how to make sure they actually get opened.\n\nOne big email, sent to everyone in BCC, from a personal inbox. Half land in spam, and nobody knows who opened it.\n\nZoho Campaigns is Zoho's email marketing app. Design, send, automate and measure, from one place. Six stations on its line:\n\n1. Drag-and-drop editor: mobile-first emails, no code\n2. Segmentation: the right list for each message\n3. Automation: welcome emails and follow-ups\n4. A/B testing: subject, sender, content\n5. Email, SMS & WhatsApp: three channels\n6. Reports: opens, clicks, bounces, growth\n\nIt connects across Zoho with CRM, Books, Analytics and Meeting.\n\nFrom Zoho's page: forever free for 2,000 contacts and 6,000 emails a month, across email, SMS and WhatsApp.\n\nTip: send fewer, better emails to the right segment. A smaller list that opens beats a big list that ignores you.\n\nEpisode 14 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Marketing Automation.\n\n#ZohoCampaigns #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Campaigns explained | Zoho Explained Ep 14"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep14/zoho-explained/ep14-short.mp4",
+    "file_name": "zoho-explained-ep14-short.mp4",
+    "title": "Zoho Campaigns explained in 100 seconds #shorts",
+    "description": "Zoho Campaigns as a metro line: Drag-and-drop editor, Segmentation, Automation, A/B testing, Email, SMS & WhatsApp, Reports.\n\nFacts: zoho.com/campaigns, Nov 2026.\nEpisode 14 of Zoho Explained. Next: Marketing Automation.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoCampaigns #Zoho #Shorts",
+    "publish_at": "2026-11-18T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
