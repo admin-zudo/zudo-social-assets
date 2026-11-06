@@ -672,6 +672,48 @@
     "publish_at": "2026-11-21T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-23": {
+   "ep": 18,
+   "name": "Zoho Survey",
+   "post_ist": "2026-11-23 00:00",
+   "post_utc": "2026-11-22T18:30:00Z",
+   "size_bytes": 4745326,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep18/zoho-explained/ep18-short.mp4",
+     "caption": "30+ question types. Three scores every business should track. Here's how to ask properly.\n\nZoho Survey in 6 stations:\n01 Survey builder\n02 Logic paths\n03 NPS, CSAT & CES\n04 Distribution\n05 Offline surveys\n06 Reports & sentiment\n\nTip: close the loop. Reply to every unhappy answer, and tell customers what you changed because of them.\nEpisode 18 of 50 · Next: Zoho Sites.\n\n#ZohoSurvey #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Survey",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep18/zoho-explained/ep18-short.mp4",
+     "caption": "Most businesses guess what customers think. A few feedback cards, a gut feeling, and the loudest complaint.\n\nEpisode 18 of Zoho Explained looks at Zoho Survey: survey builder, logic paths, nps, csat & ces, distribution, offline surveys and reports & sentiment, plus connections to CRM, Desk and Campaigns.\n\nFrom Zoho's page: 30+ question types, a free plan, and a 7-day enterprise trial with no credit card.\n\nNext: Zoho Sites.",
+     "title": "Zoho Survey explained | Zoho Explained Ep 18"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep18/zoho-explained/ep18-short.mp4",
+     "caption": "30+ question types. Three scores every business should track. Here's how to ask properly.\n\nMost businesses guess what customers think. A few feedback cards, a gut feeling, and the loudest complaint.\n\nZoho Survey builds surveys, sends them anywhere, and turns the answers into reports you can act on. Six stations on its line:\n\n1. Survey builder: 30+ question types, templates\n2. Logic paths: if-then logic per answer\n3. NPS, CSAT & CES: the three scores to track\n4. Distribution: email, SMS, QR, web, social\n5. Offline surveys: field surveys on iOS and Android\n6. Reports & sentiment: real-time, with sentiment analysis\n\nIt connects across Zoho with CRM, Desk and Campaigns.\n\nFrom Zoho's page: 30+ question types, a free plan, and a 7-day enterprise trial with no credit card.\n\nTip: close the loop. Reply to every unhappy answer, and tell customers what you changed because of them.\n\nEpisode 18 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Sites.\n\n#ZohoSurvey #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Survey explained | Zoho Explained Ep 18"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep18/zoho-explained/ep18-short.mp4",
+     "caption": "30+ question types. Three scores every business should track. Here's how to ask properly.\n\nMost businesses guess what customers think. A few feedback cards, a gut feeling, and the loudest complaint.\n\nZoho Survey builds surveys, sends them anywhere, and turns the answers into reports you can act on. Six stations on its line:\n\n1. Survey builder: 30+ question types, templates\n2. Logic paths: if-then logic per answer\n3. NPS, CSAT & CES: the three scores to track\n4. Distribution: email, SMS, QR, web, social\n5. Offline surveys: field surveys on iOS and Android\n6. Reports & sentiment: real-time, with sentiment analysis\n\nIt connects across Zoho with CRM, Desk and Campaigns.\n\nFrom Zoho's page: 30+ question types, a free plan, and a 7-day enterprise trial with no credit card.\n\nTip: close the loop. Reply to every unhappy answer, and tell customers what you changed because of them.\n\nEpisode 18 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Sites.\n\n#ZohoSurvey #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Survey explained | Zoho Explained Ep 18"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep18/zoho-explained/ep18-short.mp4",
+    "file_name": "zoho-explained-ep18-short.mp4",
+    "title": "Zoho Survey explained in 100 seconds #shorts",
+    "description": "Zoho Survey as a metro line: Survey builder, Logic paths, NPS, CSAT & CES, Distribution, Offline surveys, Reports & sentiment.\n\nFacts: zoho.com/survey, Nov 2026.\nEpisode 18 of Zoho Explained. Next: Zoho Sites.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoSurvey #Zoho #Shorts",
+    "publish_at": "2026-11-22T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
