@@ -420,6 +420,48 @@
     "publish_at": "2026-11-15T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-17": {
+   "ep": 12,
+   "name": "Zoho Desk",
+   "post_ist": "2026-11-17 00:00",
+   "post_utc": "2026-11-16T18:30:00Z",
+   "size_bytes": 4752191,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep12/zoho-explained/ep12-short.mp4",
+     "caption": "Every channel. One inbox. 125,000+ businesses. What are they doing differently?\n\nZoho Desk in 6 stations:\n01 Unified inbox\n02 Smart assignment\n03 SLAs & escalations\n04 Help center\n05 Zia AI\n06 Happiness & reports\n\nTip: write your ten most common answers as help articles first. Every article is a ticket you never have to answer again.\nEpisode 12 of 50 · Next: Zoho SalesIQ.\n\n#ZohoDesk #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Desk",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep12/zoho-explained/ep12-short.mp4",
+     "caption": "Complaints arrive by email, phone, chat and social media. Some get answered twice, and some never get answered at all.\n\nEpisode 12 of Zoho Explained looks at Zoho Desk: unified inbox, smart assignment, SLAs & escalations, help center, Zia AI and happiness & reports, plus connections to CRM, Bigin, Billing and Invoice.\n\nFrom Zoho's page: 125K+ businesses, 360+ integrations, and a 24/7 help center.\n\nNext: Zoho SalesIQ.",
+     "title": "Zoho Desk explained | Zoho Explained Ep 12"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep12/zoho-explained/ep12-short.mp4",
+     "caption": "Every channel. One inbox. 125,000+ businesses. What are they doing differently?\n\nComplaints arrive by email, phone, chat and social media. Some get answered twice, and some never get answered at all.\n\nZoho Desk is Zoho's help desk. Every customer conversation becomes a ticket, and every ticket has an owner. Six stations on its line:\n\n1. Unified inbox: every channel, one workspace\n2. Smart assignment: by skill, workload, availability\n3. SLAs & escalations: deadlines that are tracked\n4. Help center: knowledge base and community\n5. Zia AI: drafts replies, handles routine issues\n6. Happiness & reports: ratings and live dashboards\n\nIt connects across Zoho with CRM, Bigin, Billing and Invoice.\n\nFrom Zoho's page: 125K+ businesses, 360+ integrations, and a 24/7 help center.\n\nTip: write your ten most common answers as help articles first. Every article is a ticket you never have to answer again.\n\nEpisode 12 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho SalesIQ.\n\n#ZohoDesk #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Desk explained | Zoho Explained Ep 12"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep12/zoho-explained/ep12-short.mp4",
+     "caption": "Every channel. One inbox. 125,000+ businesses. What are they doing differently?\n\nComplaints arrive by email, phone, chat and social media. Some get answered twice, and some never get answered at all.\n\nZoho Desk is Zoho's help desk. Every customer conversation becomes a ticket, and every ticket has an owner. Six stations on its line:\n\n1. Unified inbox: every channel, one workspace\n2. Smart assignment: by skill, workload, availability\n3. SLAs & escalations: deadlines that are tracked\n4. Help center: knowledge base and community\n5. Zia AI: drafts replies, handles routine issues\n6. Happiness & reports: ratings and live dashboards\n\nIt connects across Zoho with CRM, Bigin, Billing and Invoice.\n\nFrom Zoho's page: 125K+ businesses, 360+ integrations, and a 24/7 help center.\n\nTip: write your ten most common answers as help articles first. Every article is a ticket you never have to answer again.\n\nEpisode 12 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho SalesIQ.\n\n#ZohoDesk #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Desk explained | Zoho Explained Ep 12"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep12/zoho-explained/ep12-short.mp4",
+    "file_name": "zoho-explained-ep12-short.mp4",
+    "title": "Zoho Desk explained in 100 seconds #shorts",
+    "description": "Zoho Desk as a metro line: Unified inbox, Smart assignment, SLAs & escalations, Help center, Zia AI, Happiness & reports.\n\nFacts: zoho.com/desk, Nov 2026.\nEpisode 12 of Zoho Explained. Next: Zoho SalesIQ.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoDesk #Zoho #Shorts",
+    "publish_at": "2026-11-16T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
