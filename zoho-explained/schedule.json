@@ -378,6 +378,48 @@
     "publish_at": "2026-11-14T18:30:00Z"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-16": {
+   "ep": 11,
+   "name": "Zoho Recruit",
+   "post_ist": "2026-11-16 00:00",
+   "post_utc": "2026-11-15T18:30:00Z",
+   "size_bytes": 4758442,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep11/zoho-explained/ep11-short.mp4",
+     "caption": "One job post. 75+ job boards. One click. Here's what happens to all those applications.\n\nZoho Recruit in 6 stations:\n01 Multi-posting\n02 Career site\n03 Resume parsing\n04 Candidate pipeline\n05 Interviews\n06 Offers & onboarding\n\nTip: reply to every applicant, even with a no. Your career site is part of your brand.\nEpisode 11 of 50 · Next: Zoho Desk.\n\n#ZohoRecruit #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Recruit",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep11/zoho-explained/ep11-short.mp4",
+     "caption": "Resumes in your inbox, on WhatsApp and on three job portals. Good candidates wait, and some accept other offers.\n\nEpisode 11 of Zoho Explained looks at Zoho Recruit: multi-posting, career site, resume parsing, candidate pipeline, interviews and offers & onboarding, plus connections to People, Cliq and Sign.\n\nFrom Zoho's page: 800K+ recruiters, 75+ job boards, and a 15-day free trial.\n\nNext: Zoho Desk.",
+     "title": "Zoho Recruit explained | Zoho Explained Ep 11"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep11/zoho-explained/ep11-short.mp4",
+     "caption": "One job post. 75+ job boards. One click. Here's what happens to all those applications.\n\nResumes in your inbox, on WhatsApp and on three job portals. Good candidates wait, and some accept other offers.\n\nZoho Recruit is Zoho's applicant tracking system. Every candidate, every stage, in one place. Six stations on its line:\n\n1. Multi-posting: one post, 75+ job boards\n2. Career site: your own jobs page\n3. Resume parsing: cVs read into profiles\n4. Candidate pipeline: every applicant, every stage\n5. Interviews: scheduling and assessments\n6. Offers & onboarding: offer letters, then hand-over\n\nIt connects across Zoho with People, Cliq and Sign.\n\nFrom Zoho's page: 800K+ recruiters, 75+ job boards, and a 15-day free trial.\n\nTip: reply to every applicant, even with a no. Your career site is part of your brand.\n\nEpisode 11 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Desk.\n\n#ZohoRecruit #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Recruit explained | Zoho Explained Ep 11"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep11/zoho-explained/ep11-short.mp4",
+     "caption": "One job post. 75+ job boards. One click. Here's what happens to all those applications.\n\nResumes in your inbox, on WhatsApp and on three job portals. Good candidates wait, and some accept other offers.\n\nZoho Recruit is Zoho's applicant tracking system. Every candidate, every stage, in one place. Six stations on its line:\n\n1. Multi-posting: one post, 75+ job boards\n2. Career site: your own jobs page\n3. Resume parsing: cVs read into profiles\n4. Candidate pipeline: every applicant, every stage\n5. Interviews: scheduling and assessments\n6. Offers & onboarding: offer letters, then hand-over\n\nIt connects across Zoho with People, Cliq and Sign.\n\nFrom Zoho's page: 800K+ recruiters, 75+ job boards, and a 15-day free trial.\n\nTip: reply to every applicant, even with a no. Your career site is part of your brand.\n\nEpisode 11 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Desk.\n\n#ZohoRecruit #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Recruit explained | Zoho Explained Ep 11"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep11/zoho-explained/ep11-short.mp4",
+    "file_name": "zoho-explained-ep11-short.mp4",
+    "title": "Zoho Recruit explained in 100 seconds #shorts",
+    "description": "Zoho Recruit as a metro line: Multi-posting, Career site, Resume parsing, Candidate pipeline, Interviews, Offers & onboarding.\n\nFacts: zoho.com/recruit and Zoho help docs, Nov 2026.\nEpisode 11 of Zoho Explained. Next: Zoho Desk.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoRecruit #Zoho #Shorts",
+    "publish_at": "2026-11-15T18:30:00Z"
+   },
+   "youtube_video_id": ""
   }
  }
 }
