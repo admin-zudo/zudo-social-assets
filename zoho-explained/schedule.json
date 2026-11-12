@@ -473,6 +473,49 @@
     "tags": "Zoho Desk,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-24": {
+   "ep": 13,
+   "name": "Zoho SalesIQ",
+   "post_ist": "2026-11-24 00:00",
+   "post_utc": "2026-11-23T18:30:00Z",
+   "size_bytes": 4742408,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep13/zoho-explained/ep13-short.mp4",
+     "caption": "2B+ website visitors tracked. Here's how to talk to the ones about to buy.\n\nZoho SalesIQ in 6 stations:\n01 Live chat\n02 Visitor tracking\n03 Lead scoring\n04 Proactive triggers\n05 Chatbots\n06 Mobile SDK\n\nTip: don't pop a chat on every page. Trigger it where people hesitate, like pricing and checkout.\nEpisode 13 of 50 · Next: Zoho Campaigns.\n\n#ZohoSalesIQ #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho SalesIQ",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep13/zoho-explained/ep13-short.mp4",
+     "caption": "Most website visitors leave without saying a word. You never learn who they were, or what stopped them.\n\nEpisode 13 of Zoho Explained looks at Zoho SalesIQ: live chat, visitor tracking, lead scoring, proactive triggers, chatbots and mobile sdk, plus connections to CRM, Desk, Campaigns and Analytics.\n\nZoho's live counters: 2B+ visitors recorded, 32M+ chats, and 30+ integrations.\n\nNext: Zoho Campaigns.",
+     "title": "Zoho SalesIQ explained | Zoho Explained Ep 13"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep13/zoho-explained/ep13-short.mp4",
+     "caption": "2B+ website visitors tracked. Here's how to talk to the ones about to buy.\n\nMost website visitors leave without saying a word. You never learn who they were, or what stopped them.\n\nZoho SalesIQ adds live chat and visitor tracking to your website, so you can start the conversation. Six stations on its line:\n\n1. Live chat: website, app and messaging\n2. Visitor tracking: who's on your site, right now\n3. Lead scoring: based on browsing behaviour\n4. Proactive triggers: start the chat at the right moment\n5. Chatbots: built in a bot builder\n6. Mobile SDK: chat inside your app\n\nIt connects across Zoho with CRM, Desk, Campaigns and Analytics.\n\nZoho's live counters: 2B+ visitors recorded, 32M+ chats, and 30+ integrations.\n\nTip: don't pop a chat on every page. Trigger it where people hesitate, like pricing and checkout.\n\nEpisode 13 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Campaigns.\n\n#ZohoSalesIQ #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho SalesIQ explained | Zoho Explained Ep 13"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep13/zoho-explained/ep13-short.mp4",
+     "caption": "2B+ website visitors tracked. Here's how to talk to the ones about to buy.\n\nMost website visitors leave without saying a word. You never learn who they were, or what stopped them.\n\nZoho SalesIQ adds live chat and visitor tracking to your website, so you can start the conversation. Six stations on its line:\n\n1. Live chat: website, app and messaging\n2. Visitor tracking: who's on your site, right now\n3. Lead scoring: based on browsing behaviour\n4. Proactive triggers: start the chat at the right moment\n5. Chatbots: built in a bot builder\n6. Mobile SDK: chat inside your app\n\nIt connects across Zoho with CRM, Desk, Campaigns and Analytics.\n\nZoho's live counters: 2B+ visitors recorded, 32M+ chats, and 30+ integrations.\n\nTip: don't pop a chat on every page. Trigger it where people hesitate, like pricing and checkout.\n\nEpisode 13 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Campaigns.\n\n#ZohoSalesIQ #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho SalesIQ explained | Zoho Explained Ep 13"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep13/zoho-explained/ep13-short.mp4",
+    "file_name": "zoho-explained-ep13-short.mp4",
+    "title": "Zoho SalesIQ explained in 100 seconds #shorts",
+    "description": "Zoho SalesIQ as a metro line: Live chat, Visitor tracking, Lead scoring, Proactive triggers, Chatbots, Mobile SDK.\n\nFacts: zoho.com/salesiq (live counters), Nov 2026.\nEpisode 13 of Zoho Explained. Next: Zoho Campaigns.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoSalesIQ #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho SalesIQ,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
