@@ -1075,6 +1075,49 @@
     "tags": "Zoho Sprints,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-08": {
+   "ep": 27,
+   "name": "Zoho Workplace",
+   "post_ist": "2026-12-08 00:00",
+   "post_utc": "2026-12-07T18:30:00Z",
+   "size_bytes": 4731118,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep27/zoho-explained/ep27-short.mp4",
+     "caption": "Nine apps. One login. 450,000+ customers. Here's what's inside.\n\nZoho Workplace in 6 stations:\n01 Mail & Calendar\n02 Cliq & Meeting\n03 WorkDrive\n04 Writer, Sheet, Show\n05 Employee engagement\n06 Security & migration\n\nTip: migrate email first, and move one team at a time. Zoho lists split delivery for exactly that.\nEpisode 27 of 50 · Next: Zoho Mail.\n\n#ZohoWorkplace #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Workplace",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep27/zoho-explained/ep27-short.mp4",
+     "caption": "Email from one company, chat from another, files somewhere else. Three bills, three logins, and nothing connected.\n\nEpisode 27 of Zoho Explained looks at Zoho Workplace: mail & calendar, cliq & meeting, workdrive, writer, sheet, show, employee engagement and security & migration, plus connections to Mail, Cliq, WorkDrive and Writer.\n\nFrom Zoho's page: 450,000+ customers, nine apps, and 24x7 support for assisted migration.\n\nNext: Zoho Mail.",
+     "title": "Zoho Workplace explained | Zoho Explained Ep 27"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep27/zoho-explained/ep27-short.mp4",
+     "caption": "Nine apps. One login. 450,000+ customers. Here's what's inside.\n\nEmail from one company, chat from another, files somewhere else. Three bills, three logins, and nothing connected.\n\nZoho Workplace is Zoho's office suite: mail, chat, meetings, files and documents, from one company, with one login. Six stations on its line:\n\n1. Mail & Calendar: business email, spam control\n2. Cliq & Meeting: chat, calls, video\n3. WorkDrive: files, sync and sharing\n4. Writer, Sheet, Show: opens Office files\n5. Employee engagement: town halls, forums, recognition\n6. Security & migration: sSO, MFA, one-touch move\n\nIt connects across Zoho with Mail, Cliq, WorkDrive and Writer.\n\nFrom Zoho's page: 450,000+ customers, nine apps, and 24x7 support for assisted migration.\n\nTip: migrate email first, and move one team at a time. Zoho lists split delivery for exactly that.\n\nEpisode 27 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Mail.\n\n#ZohoWorkplace #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Workplace explained | Zoho Explained Ep 27"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep27/zoho-explained/ep27-short.mp4",
+     "caption": "Nine apps. One login. 450,000+ customers. Here's what's inside.\n\nEmail from one company, chat from another, files somewhere else. Three bills, three logins, and nothing connected.\n\nZoho Workplace is Zoho's office suite: mail, chat, meetings, files and documents, from one company, with one login. Six stations on its line:\n\n1. Mail & Calendar: business email, spam control\n2. Cliq & Meeting: chat, calls, video\n3. WorkDrive: files, sync and sharing\n4. Writer, Sheet, Show: opens Office files\n5. Employee engagement: town halls, forums, recognition\n6. Security & migration: sSO, MFA, one-touch move\n\nIt connects across Zoho with Mail, Cliq, WorkDrive and Writer.\n\nFrom Zoho's page: 450,000+ customers, nine apps, and 24x7 support for assisted migration.\n\nTip: migrate email first, and move one team at a time. Zoho lists split delivery for exactly that.\n\nEpisode 27 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Mail.\n\n#ZohoWorkplace #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Workplace explained | Zoho Explained Ep 27"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep27/zoho-explained/ep27-short.mp4",
+    "file_name": "zoho-explained-ep27-short.mp4",
+    "title": "Nine apps. One login. 450,000+ customers. Here's what's inside #shorts",
+    "description": "Zoho Workplace as a metro line: Mail & Calendar, Cliq & Meeting, WorkDrive, Writer, Sheet, Show, Employee engagement, Security & migration.\n\nFacts: zoho.com/workplace, Nov 2026.\nEpisode 27 of Zoho Explained. Next: Zoho Mail.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoWorkplace #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Workplace,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
