@@ -860,6 +860,49 @@
     "tags": "Zoho Creator,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-03": {
+   "ep": 22,
+   "name": "Zoho Flow",
+   "post_ist": "2026-12-03 00:00",
+   "post_utc": "2026-12-02T18:30:00Z",
+   "size_bytes": 4741903,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep22/zoho-explained/ep22-short.mp4",
+     "caption": "Copy. Paste. Export. Re-type. 1,000+ apps can stop doing this for you.\n\nZoho Flow in 6 stations:\n01 Visual builder\n02 Triggers\n03 Logic\n04 Custom functions\n05 Zia AI\n06 Rerun & visibility\n\nTip: automate the copy-paste job your team hates most, first. That one flow will win everyone over.\nEpisode 22 of 50 · Next: Zoho Analytics.\n\n#ZohoFlow #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Flow",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep22/zoho-explained/ep22-short.mp4",
+     "caption": "Your apps don't talk to each other, so people do it for them. Copying data from one screen to another, every day.\n\nEpisode 22 of Zoho Explained looks at Zoho Flow: visual builder, triggers, logic, custom functions, Zia AI and rerun & visibility, plus connections to CRM, Books, Forms and Cliq.\n\nFrom Zoho's page: 1,000+ apps, a free plan with 100 tasks a month, and 99.9% uptime.\n\nNext: Zoho Analytics.",
+     "title": "Zoho Flow explained | Zoho Explained Ep 22"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep22/zoho-explained/ep22-short.mp4",
+     "caption": "Copy. Paste. Export. Re-type. 1,000+ apps can stop doing this for you.\n\nYour apps don't talk to each other, so people do it for them. Copying data from one screen to another, every day.\n\nZoho Flow connects apps and automates the work between them, without code for most tasks. Six stations on its line:\n\n1. Visual builder: drag-and-drop workflows\n2. Triggers: webhooks, polling, email, RSS\n3. Logic: decide what happens next\n4. Custom functions: deluge for anything else\n5. Zia AI: workflows from plain text\n6. Rerun & visibility: see and fix every step\n\nIt connects across Zoho with CRM, Books, Forms and Cliq.\n\nFrom Zoho's page: 1,000+ apps, a free plan with 100 tasks a month, and 99.9% uptime.\n\nTip: automate the copy-paste job your team hates most, first. That one flow will win everyone over.\n\nEpisode 22 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Analytics.\n\n#ZohoFlow #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Flow explained | Zoho Explained Ep 22"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep22/zoho-explained/ep22-short.mp4",
+     "caption": "Copy. Paste. Export. Re-type. 1,000+ apps can stop doing this for you.\n\nYour apps don't talk to each other, so people do it for them. Copying data from one screen to another, every day.\n\nZoho Flow connects apps and automates the work between them, without code for most tasks. Six stations on its line:\n\n1. Visual builder: drag-and-drop workflows\n2. Triggers: webhooks, polling, email, RSS\n3. Logic: decide what happens next\n4. Custom functions: deluge for anything else\n5. Zia AI: workflows from plain text\n6. Rerun & visibility: see and fix every step\n\nIt connects across Zoho with CRM, Books, Forms and Cliq.\n\nFrom Zoho's page: 1,000+ apps, a free plan with 100 tasks a month, and 99.9% uptime.\n\nTip: automate the copy-paste job your team hates most, first. That one flow will win everyone over.\n\nEpisode 22 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Analytics.\n\n#ZohoFlow #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Flow explained | Zoho Explained Ep 22"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep22/zoho-explained/ep22-short.mp4",
+    "file_name": "zoho-explained-ep22-short.mp4",
+    "title": "Copy. Paste. Export. Re-type. 1,000+ apps can stop doing this for you #shorts",
+    "description": "Zoho Flow as a metro line: Visual builder, Triggers, Logic, Custom functions, Zia AI, Rerun & visibility.\n\nFacts: zoho.com/flow, Nov 2026.\nEpisode 22 of Zoho Explained. Next: Zoho Analytics.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoFlow #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Flow,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
