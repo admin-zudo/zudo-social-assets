@@ -774,6 +774,49 @@
     "tags": "Zoho Sites,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-01": {
+   "ep": 20,
+   "name": "Zoho Commerce",
+   "post_ist": "2026-12-01 00:00",
+   "post_utc": "2026-11-30T18:30:00Z",
+   "size_bytes": 4747107,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep20/zoho-explained/ep20-short.mp4",
+     "caption": "Orders in DMs? Payments in screenshots? 7 gateways and 4 couriers fix that.\n\nZoho Commerce in 6 stations:\n01 Store builder\n02 Product catalogue\n03 Payments\n04 Shipping\n05 Orders\n06 SEO & marketing\n\nTip: launch with your twenty best sellers, not your whole catalogue. A small store that's finished beats a big one that isn't.\nEpisode 20 of 50 · Next: Zoho Creator.\n\n#ZohoCommerce #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Commerce",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep20/zoho-explained/ep20-short.mp4",
+     "caption": "Selling through chats works until you're busy. Then orders get missed, payments get mixed up, and stock runs out without warning.\n\nEpisode 20 of Zoho Explained looks at Zoho Commerce: store builder, product catalogue, payments, shipping, orders and seo & marketing, plus connections to Inventory, Books, CRM and SalesIQ.\n\nFrom Zoho's page: 7 payment gateways, 4 shipping partners, and a 14-day free trial.\n\nNext: Zoho Creator.",
+     "title": "Zoho Commerce explained | Zoho Explained Ep 20"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep20/zoho-explained/ep20-short.mp4",
+     "caption": "Orders in DMs? Payments in screenshots? 7 gateways and 4 couriers fix that.\n\nSelling through chats works until you're busy. Then orders get missed, payments get mixed up, and stock runs out without warning.\n\nZoho Commerce builds your online store and runs the order cycle behind it, from cart to delivery. Six stations on its line:\n\n1. Store builder: themes and a visual editor\n2. Product catalogue: categories and collections\n3. Payments: razorpay, PayU, Stripe and more\n4. Shipping: shiprocket, FedEx, DHL, UPS\n5. Orders: the order cycle, automated\n6. SEO & marketing: built-in SEO, campaigns, AI picks\n\nIt connects across Zoho with Inventory, Books, CRM and SalesIQ.\n\nFrom Zoho's page: 7 payment gateways, 4 shipping partners, and a 14-day free trial.\n\nTip: launch with your twenty best sellers, not your whole catalogue. A small store that's finished beats a big one that isn't.\n\nEpisode 20 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Creator.\n\n#ZohoCommerce #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Commerce explained | Zoho Explained Ep 20"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep20/zoho-explained/ep20-short.mp4",
+     "caption": "Orders in DMs? Payments in screenshots? 7 gateways and 4 couriers fix that.\n\nSelling through chats works until you're busy. Then orders get missed, payments get mixed up, and stock runs out without warning.\n\nZoho Commerce builds your online store and runs the order cycle behind it, from cart to delivery. Six stations on its line:\n\n1. Store builder: themes and a visual editor\n2. Product catalogue: categories and collections\n3. Payments: razorpay, PayU, Stripe and more\n4. Shipping: shiprocket, FedEx, DHL, UPS\n5. Orders: the order cycle, automated\n6. SEO & marketing: built-in SEO, campaigns, AI picks\n\nIt connects across Zoho with Inventory, Books, CRM and SalesIQ.\n\nFrom Zoho's page: 7 payment gateways, 4 shipping partners, and a 14-day free trial.\n\nTip: launch with your twenty best sellers, not your whole catalogue. A small store that's finished beats a big one that isn't.\n\nEpisode 20 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Creator.\n\n#ZohoCommerce #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Commerce explained | Zoho Explained Ep 20"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep20/zoho-explained/ep20-short.mp4",
+    "file_name": "zoho-explained-ep20-short.mp4",
+    "title": "Zoho Commerce explained in 100 seconds #shorts",
+    "description": "Zoho Commerce as a metro line: Store builder, Product catalogue, Payments, Shipping, Orders, SEO & marketing.\n\nFacts: zoho.com/commerce, Nov 2026.\nEpisode 20 of Zoho Explained. Next: Zoho Creator.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoCommerce #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Commerce,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
