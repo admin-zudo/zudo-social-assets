@@ -1161,6 +1161,49 @@
     "tags": "Zoho Mail,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-10": {
+   "ep": 29,
+   "name": "Zoho Cliq",
+   "post_ist": "2026-12-10 00:00",
+   "post_utc": "2026-12-09T18:30:00Z",
+   "size_bytes": 4743323,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep29/zoho-explained/ep29-short.mp4",
+     "caption": "Work messages buried under family groups? Half a million users fixed that with one app.\n\nZoho Cliq in 6 stations:\n01 Channels\n02 Chats\n03 Calls & meetings\n04 Voice & video notes\n05 Whiteboard, tasks, calendar\n06 Bots & workflows\n\nTip: agree simple rules. Channels for teams, chats for quick questions, email for customers. Then chat stays calm.\nEpisode 29 of 50 · Next: Zoho WorkDrive.\n\n#ZohoCliq #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Cliq",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep29/zoho-explained/ep29-short.mp4",
+     "caption": "When work chat lives on personal phones, decisions get lost between forwarded messages and family groups.\n\nEpisode 29 of Zoho Explained looks at Zoho Cliq: channels, chats, calls & meetings, voice & video notes, whiteboard, tasks, calendar and bots & workflows, plus connections to Flow, Forms and Billing.\n\nFrom Zoho's page: almost 500,000 users, and a 15-day free trial.\n\nNext: Zoho WorkDrive.",
+     "title": "Zoho Cliq explained | Zoho Explained Ep 29"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep29/zoho-explained/ep29-short.mp4",
+     "caption": "Work messages buried under family groups? Half a million users fixed that with one app.\n\nWhen work chat lives on personal phones, decisions get lost between forwarded messages and family groups.\n\nZoho Cliq is Zoho's team chat. Channels, calls and meetings, owned by the company, separate from personal life. Six stations on its line:\n\n1. Channels: per team, project or topic\n2. Chats: direct and group messages\n3. Calls & meetings: audio, video, screen share\n4. Voice & video notes: async updates\n5. Whiteboard, tasks, calendar: built into chat\n6. Bots & workflows: automate repetitive work\n\nIt connects across Zoho with Flow, Forms and Billing.\n\nFrom Zoho's page: almost 500,000 users, and a 15-day free trial.\n\nTip: agree simple rules. Channels for teams, chats for quick questions, email for customers. Then chat stays calm.\n\nEpisode 29 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho WorkDrive.\n\n#ZohoCliq #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Cliq explained | Zoho Explained Ep 29"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep29/zoho-explained/ep29-short.mp4",
+     "caption": "Work messages buried under family groups? Half a million users fixed that with one app.\n\nWhen work chat lives on personal phones, decisions get lost between forwarded messages and family groups.\n\nZoho Cliq is Zoho's team chat. Channels, calls and meetings, owned by the company, separate from personal life. Six stations on its line:\n\n1. Channels: per team, project or topic\n2. Chats: direct and group messages\n3. Calls & meetings: audio, video, screen share\n4. Voice & video notes: async updates\n5. Whiteboard, tasks, calendar: built into chat\n6. Bots & workflows: automate repetitive work\n\nIt connects across Zoho with Flow, Forms and Billing.\n\nFrom Zoho's page: almost 500,000 users, and a 15-day free trial.\n\nTip: agree simple rules. Channels for teams, chats for quick questions, email for customers. Then chat stays calm.\n\nEpisode 29 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho WorkDrive.\n\n#ZohoCliq #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Cliq explained | Zoho Explained Ep 29"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep29/zoho-explained/ep29-short.mp4",
+    "file_name": "zoho-explained-ep29-short.mp4",
+    "title": "Zoho Cliq explained in 100 seconds #shorts",
+    "description": "Zoho Cliq as a metro line: Channels, Chats, Calls & meetings, Voice & video notes, Whiteboard, tasks, calendar, Bots & workflows.\n\nFacts: zoho.com/cliq, Nov 2026.\nEpisode 29 of Zoho Explained. Next: Zoho WorkDrive.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoCliq #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Cliq,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
