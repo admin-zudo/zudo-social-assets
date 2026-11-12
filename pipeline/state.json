@@ -32,7 +32,23 @@
     "facebook_reel",
     "carousels"
    ],
-   "backfill_done": false
+   "backfill_done": true,
+   "backfill": {
+    "date": "2026-11-12",
+    "links_added": [
+     "linkedin_page",
+     "linkedin_profile"
+    ],
+    "page_commit": "eb649fe",
+    "note": "Instagram/Facebook Reels and carousels still pending; add their links when posted"
+   }
+  }
+ ],
+ "runs": [
+  {
+   "date": "2026-11-12",
+   "time_ist": "16:5x",
+   "result": "no new article; back-fill of 2 LinkedIn links only; no wave"
   }
  ]
 }
