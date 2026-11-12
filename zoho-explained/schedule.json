@@ -946,6 +946,49 @@
     "tags": "Zoho Analytics,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-05": {
+   "ep": 24,
+   "name": "Zoho DataPrep",
+   "post_ist": "2026-12-05 00:00",
+   "post_utc": "2026-12-04T18:30:00Z",
+   "size_bytes": 4753140,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep24/zoho-explained/ep24-short.mp4",
+     "caption": "Data quality from 71% to 98%, without writing a formula. Here's how.\n\nZoho DataPrep in 6 stations:\n01 Import\n02 Quality report\n03 250+ transforms\n04 Joins & appends\n05 Ask Zia\n06 Pipelines & export\n\nTip: fix data at the source too. Cleaning the same mistakes every week means the form or process that creates them needs fixing.\nEpisode 24 of 50 · Next: Zoho Projects.\n\n#ZohoDataPrep #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho DataPrep",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep24/zoho-explained/ep24-short.mp4",
+     "caption": "Duplicate customers, blank cells, three spellings of the same city. Every report built on that data is wrong.\n\nEpisode 24 of Zoho Explained looks at Zoho DataPrep: import, quality report, 250+ transforms, joins & appends, ask zia and pipelines & export, plus connections to CRM, Analytics, Books and Creator.\n\nFrom Zoho's page: 70+ sources, 250+ transforms, and a 15-day free trial with no credit card.\n\nNext: Zoho Projects.",
+     "title": "Zoho DataPrep explained | Zoho Explained Ep 24"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep24/zoho-explained/ep24-short.mp4",
+     "caption": "Data quality from 71% to 98%, without writing a formula. Here's how.\n\nDuplicate customers, blank cells, three spellings of the same city. Every report built on that data is wrong.\n\nZoho DataPrep cleans, combines and moves your data, so what reaches your reports and apps can be trusted. Six stations on its line:\n\n1. Import: 70+ sources\n2. Quality report: invalid and missing values flagged\n3. 250+ transforms: clean without formulas\n4. Joins & appends: suggested from your columns\n5. Ask Zia: prepare data in plain language\n6. Pipelines & export: scheduled, with alerts\n\nIt connects across Zoho with CRM, Analytics, Books and Creator.\n\nFrom Zoho's page: 70+ sources, 250+ transforms, and a 15-day free trial with no credit card.\n\nTip: fix data at the source too. Cleaning the same mistakes every week means the form or process that creates them needs fixing.\n\nEpisode 24 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Projects.\n\n#ZohoDataPrep #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho DataPrep explained | Zoho Explained Ep 24"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep24/zoho-explained/ep24-short.mp4",
+     "caption": "Data quality from 71% to 98%, without writing a formula. Here's how.\n\nDuplicate customers, blank cells, three spellings of the same city. Every report built on that data is wrong.\n\nZoho DataPrep cleans, combines and moves your data, so what reaches your reports and apps can be trusted. Six stations on its line:\n\n1. Import: 70+ sources\n2. Quality report: invalid and missing values flagged\n3. 250+ transforms: clean without formulas\n4. Joins & appends: suggested from your columns\n5. Ask Zia: prepare data in plain language\n6. Pipelines & export: scheduled, with alerts\n\nIt connects across Zoho with CRM, Analytics, Books and Creator.\n\nFrom Zoho's page: 70+ sources, 250+ transforms, and a 15-day free trial with no credit card.\n\nTip: fix data at the source too. Cleaning the same mistakes every week means the form or process that creates them needs fixing.\n\nEpisode 24 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Projects.\n\n#ZohoDataPrep #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho DataPrep explained | Zoho Explained Ep 24"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep24/zoho-explained/ep24-short.mp4",
+    "file_name": "zoho-explained-ep24-short.mp4",
+    "title": "Data quality from 71% to 98%, without writing a formula. Here's how #shorts",
+    "description": "Zoho DataPrep as a metro line: Import, Quality report, 250+ transforms, Joins & appends, Ask Zia, Pipelines & export.\n\nFacts: zoho.com/dataprep, Nov 2026.\nEpisode 24 of Zoho Explained. Next: Zoho Projects.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoDataPrep #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho DataPrep,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
