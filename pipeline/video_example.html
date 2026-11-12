@@ -1,0 +1,202 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--ink:#0b0f19;--red:#e8402b;--yel:#f5b234;--muted:#6b7280;--card:#f4f5f7;--line:#e5e7eb}
+body{width:1080px;height:1920px;background:#fff;font-family:Inter,sans-serif;color:var(--ink);overflow:hidden;position:relative}
+#grid{position:absolute;left:0;right:0;top:-120px;height:2160px;background-image:linear-gradient(rgba(11,15,25,.045) 2px,transparent 2px),linear-gradient(90deg,rgba(11,15,25,.045) 2px,transparent 2px);background-size:120px 120px}
+.side{position:absolute;left:0;top:0;bottom:0;width:30px;background:var(--yel);z-index:6}
+.top{position:absolute;left:72px;right:72px;top:90px;display:flex;justify-content:space-between;align-items:center;z-index:6}
+.tag{font-size:24px;font-weight:800;letter-spacing:.2em;color:var(--muted)}
+.brand{display:flex;align-items:center;gap:12px;font-weight:800;font-size:30px}.brand img{width:44px;height:44px}
+.bar{position:absolute;left:72px;right:72px;top:168px;height:8px;background:#eceef2;border-radius:4px;overflow:hidden;z-index:6}
+.bar i{display:block;height:100%;background:var(--red);width:0}
+.scene{position:absolute;left:72px;right:72px;top:230px;height:1290px;display:none;flex-direction:column;justify-content:flex-start;padding-top:30px;transform-origin:30% 40%}
+.disp{font-family:'Inter Display',Inter,sans-serif;font-weight:900;letter-spacing:-.04em;line-height:1.0}
+.wm{display:inline-block;overflow:hidden;vertical-align:top;padding:0 .02em .14em;margin-bottom:-.14em}
+.wi{display:inline-block;will-change:transform}
+.hl{background:linear-gradient(var(--yel),var(--yel)) no-repeat 0 82%/0% 34%}
+.red{color:var(--red)}
+.num{font-size:120px;font-weight:900;color:var(--red);line-height:1}
+.card{background:var(--card);border:1px solid var(--line);border-radius:28px;padding:36px 40px}
+.chk{display:flex;align-items:center;gap:28px;font-size:56px;font-weight:700;margin-top:26px}
+.chk b{width:78px;height:78px;border-radius:18px;background:var(--ink);color:#fff;display:flex;align-items:center;justify-content:center;font-size:44px;flex:0 0 78px}
+.chev{display:flex;gap:10px;margin-top:56px}
+.chev span{flex:1;height:120px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:34px;clip-path:polygon(0 0,86% 0,100% 50%,86% 100%,0 100%,12% 50%)}
+.chev span:first-child{clip-path:polygon(0 0,86% 0,100% 50%,86% 100%,0 100%)}
+.csv{display:flex;gap:24px;margin-top:64px;justify-content:center}
+.csv div{width:270px;height:330px;border-radius:24px;background:#fff;border:4px solid var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:900;font-size:56px;gap:10px;box-shadow:12px 12px 0 var(--yel)}
+.csv div small{font-size:26px;color:var(--muted);font-weight:600}
+.tree{position:relative;height:640px;margin-top:40px}
+.node{position:absolute;width:420px;padding:40px;border-radius:28px;font-size:54px;font-weight:900;box-shadow:12px 12px 0 var(--yel)}
+.node small{display:block;font-size:24px;letter-spacing:.16em;margin-bottom:8px;opacity:.85;font-weight:800}
+.arrow{position:absolute;width:12px;background:var(--ink);border-radius:6px}
+.timer{width:660px;height:660px;margin:40px auto 0;position:relative}
+.timer svg{position:absolute;inset:0;transform:rotate(-90deg)}
+.timer .c{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.rb{display:flex;align-items:center;gap:26px;margin-top:22px;padding:28px 36px;border-radius:24px;background:var(--card);border:1px solid var(--line);font-size:54px;font-weight:800;max-width:600px;position:relative;overflow:hidden}
+.rb .t{position:relative}.rb .t:after{content:"";position:absolute;left:0;top:52%;height:7px;background:var(--red);width:var(--s,0%)}
+.rb .t{color:var(--ink)}
+.rb em{font-style:normal;margin-left:auto;font-size:28px;color:#fff;background:var(--ink);padding:10px 18px;border-radius:14px}
+.cnt{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:56px}
+.cnt .card{text-align:center}.cnt .card b{display:block;font-size:104px;font-weight:900;letter-spacing:-.03em}
+.k{font-size:26px;font-weight:800;letter-spacing:.16em;color:var(--muted)}
+.match{margin-top:56px;font-size:66px;font-weight:900;color:#fff;background:var(--ink);border-radius:24px;padding:26px 34px;display:inline-block}
+.cta3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:46px}
+.cta3 div{border-top:8px solid var(--ink);background:var(--card);border-radius:0 0 22px 22px;padding:30px 24px 36px}
+.cta3 i{font-style:normal;font-size:86px;font-weight:900;color:var(--red);display:block}
+.cta3 b{font-size:36px;line-height:1.15;display:block;margin-top:6px}
+.btn{display:inline-block;margin-top:44px;background:var(--ink);color:#fff;font-weight:800;font-size:46px;padding:26px 44px;border-radius:22px}
+.person{position:absolute;right:-30px;bottom:0;width:400px;height:520px;z-index:3}
+.person img{position:absolute;left:0;bottom:0;width:100%;filter:grayscale(1) contrast(1.08) drop-shadow(6px 0 0 #fff) drop-shadow(-6px 0 0 #fff) drop-shadow(0 6px 0 #fff) drop-shadow(0 -6px 0 #fff) drop-shadow(0 0 2px rgba(0,0,0,.35)) drop-shadow(0 20px 26px rgba(0,0,0,.18));-webkit-mask-image:linear-gradient(#000 86%,transparent)}
+.badge{position:absolute;z-index:4;background:var(--red);color:#fff;font-weight:900;font-size:30px;padding:12px 20px;border-radius:14px;transform-origin:center}
+#wipe{position:absolute;inset:0;z-index:20;pointer-events:none}
+#wipe i{position:absolute;top:0;bottom:0;width:100%;display:block}
+#wipe i:nth-child(1){background:var(--yel)}#wipe i:nth-child(2){background:var(--ink)}
+.cap{position:absolute;left:72px;right:72px;bottom:150px;text-align:center;font-size:54px;font-weight:900;line-height:1.25;min-height:150px;z-index:7;letter-spacing:-.01em}
+.cap span{display:inline-block;opacity:.18;margin:0 .1em}
+.cap span.on{opacity:1}
+.cap span.now{color:#fff;background:var(--red);border-radius:12px;padding:0 .14em;opacity:1}
+.url{position:absolute;left:0;right:0;bottom:72px;text-align:center;font-size:28px;color:var(--muted);letter-spacing:.04em;z-index:7}
+</style></head><body>
+<div id="grid"></div><div class="side"></div>
+<div class="top"><div class="tag">MIGRATION PLAYBOOK</div><div class="brand"><img src="logo.svg">Zudo Works</div></div>
+<div class="bar"><i id="bar"></i></div>
+
+<div class="scene" id="s0">
+ <div class="disp" style="font-size:134px">Leaving Airtable?</div>
+ <div class="disp" style="font-size:134px;margin-top:30px">Don't lose <span class="hl">a&nbsp;single record.</span></div>
+ <div id="sub0" style="margin-top:50px;font-size:36px;color:#4b5563;font-weight:600;max-width:560px">The 8-step plan to move into <b style="color:#0b0f19">Zoho Creator</b></div>
+ <div class="person" id="p0"><img src="think.png" style="left:-30px;width:440px"></div>
+</div>
+
+<div class="scene" id="s1">
+ <div class="num" id="n1x">01</div><div class="disp" style="font-size:124px">Audit <span class="red">first.</span></div>
+ <div class="card" style="margin-top:50px;max-width:600px">
+  <div class="chk" id="c1"><b>✓</b>Every table</div>
+  <div class="chk" id="c2"><b>✓</b>Every field</div>
+  <div class="chk" id="c3"><b>✓</b>Automations</div>
+  <div class="chk" id="c4" style="color:var(--red)"><b style="background:var(--red)">✕</b>Leave behind</div>
+ </div>
+ <div class="person" id="p1"><img src="check.png" style="left:0;width:400px"></div>
+</div>
+
+<div class="scene" id="s2">
+ <div class="num">02</div><div class="disp" style="font-size:124px">Map. <span class="red">Export.</span></div>
+ <div class="chev"><span id="v1" style="background:#0b0f19;color:#fff">Map</span><span id="v2" style="background:#e8402b;color:#fff">Export</span><span id="v3" style="background:#e5e7eb;color:#9ca3af">Import</span><span id="v4" style="background:#e5e7eb;color:#9ca3af">Rebuild</span></div>
+ <div class="csv"><div id="f1">CSV<small>Orders</small></div><div id="f2">CSV<small>Customers</small></div><div id="f3">CSV<small>Products</small></div></div>
+ <div class="k" id="k2" style="text-align:center;margin-top:56px;font-size:32px;letter-spacing:.08em">ONE FILE PER TABLE · UNFILTERED GRID VIEW</div>
+</div>
+
+<div class="scene" id="s3">
+ <div class="num">03</div><div class="disp" style="font-size:124px">Parents <span class="hl">first.</span></div>
+ <div class="tree">
+  <div class="node" id="nd1" style="left:0;top:30px;background:#0b0f19;color:#fff"><small>IMPORT 1</small>Customers</div>
+  <div class="arrow" id="a1" style="left:205px;top:212px;height:0"></div>
+  <div class="node" id="nd2" style="left:0;top:420px;background:#e8402b;color:#fff"><small>IMPORT 2</small>Orders</div>
+  <div class="node" id="nd3" style="right:0;top:420px;background:#fff;border:4px solid #0b0f19"><small style="color:#e8402b">LOOKUP FOUND</small>Customer ✓</div>
+ </div>
+</div>
+
+<div class="scene" id="s4">
+ <div class="disp" style="font-size:118px">Download <span class="red">attachments fast.</span></div>
+ <div class="timer" id="tmr">
+  <svg viewBox="0 0 560 560" width="660" height="660"><circle cx="280" cy="280" r="250" fill="none" stroke="#eceef2" stroke-width="40"/><circle id="arc" cx="280" cy="280" r="250" fill="none" stroke="#e8402b" stroke-width="40" stroke-linecap="round" stroke-dasharray="1571" stroke-dashoffset="0"/></svg>
+  <div class="c"><div class="disp" style="font-size:200px;color:#e8402b" id="tm">2:00</div><div class="k" style="font-size:30px">TIME LEFT</div></div>
+ </div>
+ <div class="badge" id="exp" style="left:560px;top:520px;font-size:44px">LINKS EXPIRE</div>
+</div>
+
+<div class="scene" id="s5">
+ <div class="num">04</div><div class="disp" style="font-size:118px">Logic doesn't <span class="red">transfer.</span></div>
+ <div style="margin-top:44px">
+  <div class="rb" id="r1"><span class="t" id="t1">Formulas</span><em>REBUILD</em></div>
+  <div class="rb" id="r2"><span class="t" id="t2">Rollups</span><em>REBUILD</em></div>
+  <div class="rb" id="r3"><span class="t" id="t3">Automations</span><em>DELUGE</em></div>
+ </div>
+ <div class="person" id="p5"><img src="shrug.png" style="left:-40px;width:450px"></div>
+</div>
+
+<div class="scene" id="s6">
+ <div class="num">05</div><div class="disp" style="font-size:124px">Check. <span class="red">Switch.</span></div>
+ <div class="cnt"><div class="card"><div class="k">AIRTABLE · EXAMPLE</div><b id="q1">0</b></div><div class="card"><div class="k">CREATOR · EXAMPLE</div><b id="q2" class="red">0</b></div></div>
+ <div><div class="match" id="mt">✓ Counts match</div></div>
+</div>
+
+<div class="scene" id="s7">
+ <div class="disp" style="font-size:112px">Which mistake <span class="hl">bit you?</span></div>
+ <div class="cta3"><div id="m1"><i>01</i><b>Wrong import order</b></div><div id="m2"><i>02</i><b>Frozen formulas</b></div><div id="m3"><i>03</i><b>Live workflows</b></div></div>
+ <div style="max-width:560px"><div class="disp" style="font-size:82px;margin-top:50px">Comment <span class="red">01, 02 or 03 ↓</span></div><div class="btn" id="sv">Save this for later</div></div>
+ <div class="person" id="p7"><img src="point.png" style="left:-10px;width:410px"></div>
+</div>
+
+<div id="wipe"><i id="w1"></i><i id="w2"></i></div>
+<div class="cap" id="cap"></div>
+<div class="url">zudoworks.com/insights</div>
+
+<script>
+if(location.search.includes('nopeople')){const st=document.createElement('style');st.textContent='.person{display:none!important}';document.head.appendChild(st)}
+const TL=window.TL||[];const $=id=>document.getElementById(id);
+const cl=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const eo=x=>1-Math.pow(1-cl(x),3);
+const back=x=>{x=cl(x);const c1=1.9,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)};
+const scenes=[...document.querySelectorAll('.scene')];
+// split headline text into masked words
+document.querySelectorAll('.disp').forEach(d=>{
+ const walk=n=>{[...n.childNodes].forEach(c=>{if(c.nodeType===3){const f=document.createDocumentFragment();c.textContent.split(/(\s+)/).forEach(w=>{if(!w)return;if(/^\s+$/.test(w)){f.appendChild(document.createTextNode(' '));return}const m=document.createElement('span');m.className='wm';const i=document.createElement('span');i.className='wi';i.textContent=w;m.appendChild(i);f.appendChild(m)});c.replaceWith(f)}else if(c.nodeType===1)walk(c)})};walk(d)});
+const sceneWords=scenes.map(s=>[...s.querySelectorAll('.wi')]);
+const sceneHL=scenes.map(s=>[...s.querySelectorAll('.hl')]);
+const pop=(el,p,dy=60)=>{if(!el)return;const e=back(p);el.style.opacity=cl(p*2);el.style.transform=`translateY(${(1-e)*dy}px) scale(${.85+.15*e})`};
+const slideR=(el,p)=>{if(!el)return;const e=back(p);el.style.opacity=cl(p*3);el.style.transform=`translateX(${(1-e)*420}px) rotate(${(1-e)*8}deg)`};
+let capLine=-1,capWords=[];
+function caption(t){
+ const i=TL.findIndex(l=>t>=l.start-0.05&&t<l.end+0.3);const cap=$('cap');
+ if(i<0){cap.innerHTML='';capLine=-1;return}
+ const L=TL[i];
+ if(i!==capLine){capLine=i;capWords=L.text.split(' ');cap.innerHTML=capWords.map(w=>`<span>${w}</span>`).join(' ')}
+ const p=cl((t-L.start)/(L.end-L.start));const n=Math.min(capWords.length,Math.floor(p*capWords.length));
+ [...cap.children].forEach((s,k)=>{s.classList.toggle('on',k<n);s.classList.toggle('now',k===n&&p<1);const a=k===n?1.08:1;s.style.transform=`scale(${a})`});
+}
+const bounds=()=>scenes.map((s,i)=>[(TL[i]?TL[i].start:0)-0.25,(TL[i+1]?TL[i+1].start:1e9)-0.25]);
+window.render=function(t,T){
+ const B=bounds();
+ $('bar').style.width=(cl(t/T)*100)+'%';
+ $('grid').style.transform=`translateY(${(t*30)%120}px)`;
+ // scenes: hard cut under the wipe
+ scenes.forEach((s,i)=>{const [st,en]=B[i];const on=(i===0?t<en:t>=st&&t<en);s.style.display=on?'flex':'none';
+  if(on){const lt=t-st;const z=1.07-0.07*eo(lt/0.9)-0.012*cl((lt-0.9)/6);s.style.transform=`scale(${z})`;
+   sceneWords[i].forEach((w,k)=>{const p=(lt-0.12-k*0.07)/0.5;const e=back(p);w.style.transform=`translateY(${(1-e)*105}%)`});
+   sceneHL[i].forEach(h=>{h.style.backgroundSize=`${eo((lt-0.12-sceneWords[i].length*0.07-0.1)/0.45)*100}% 34%`});}});
+ // wipe at each scene boundary (yellow then ink panel sweep)
+ let w1=-110,w2=-110;
+ for(let i=1;i<B.length;i++){const b=B[i][0];const d=t-b;if(d>-0.32&&d<0.32){const a=eo((d+0.32)/0.3),c=eo((d)/0.3);w1=(d<0?-100+100*a:100*c);w2=(d<0?-100+100*eo((d+0.26)/0.26):100*eo((d+0.04)/0.28));}}
+ $('w1').style.transform=`translateX(${w1}%)`;$('w2').style.transform=`translateX(${w2}%)`;
+ const lt=i=>t-B[i][0];
+ // s0
+ pop($('sub0'),(lt(0)-1.6)/0.4);
+ // people slide in
+ [['p0',0],['p1',1],['p5',5],['p7',7]].forEach(([id,i])=>{const e=$(id);slideR(e,(lt(i)-0.45)/0.55);if(lt(i)>1)e.style.transform+=` translateY(${Math.sin(t*2.2)*5}px)`});
+ // s1
+ ['c1','c2','c3','c4'].forEach((id,k)=>pop($(id),(lt(1)-0.7-k*0.55)/0.35,40));
+ // s2
+ pop($('v1'),(lt(2)-0.3)/0.3,30);pop($('v2'),(lt(2)-1.2)/0.3,30);pop($('v3'),(lt(2)-1.4)/0.3,30);pop($('v4'),(lt(2)-1.55)/0.3,30);
+ ['f1','f2','f3'].forEach((id,k)=>{const e=$(id);const p=(lt(2)-2.0-k*0.3)/0.4;const b=back(p);e.style.opacity=cl(p*2);e.style.transform=`translateY(${(1-b)*-220}px) rotate(${(1-b)*(k-1)*12}deg)`});
+ pop($('k2'),(lt(2)-3.2)/0.4,20);
+ // s3
+ pop($('nd1'),(lt(3)-0.4)/0.35);$('a1').style.height=(eo((lt(3)-1.0)/0.5)*200)+'px';pop($('nd2'),(lt(3)-1.4)/0.35);pop($('nd3'),(lt(3)-2.3)/0.35);
+ // s4 timer
+ const tp=cl((lt(4)-0.5)/3.0);$('arc').style.strokeDashoffset=1571*tp;
+ const mins=Math.round(120*(1-tp));$('tm').textContent=Math.floor(mins/60)+':'+String(mins%60).padStart(2,'0');
+ const shake=lt(4)>3.5&&lt(4)<3.9?Math.sin(lt(4)*90)*10:0;$('tmr').style.transform=`translateX(${shake}px) scale(${1+0.04*Math.max(0,Math.sin(lt(4)*Math.PI*4.13))*(lt(4)<3.5?1:0)})`;
+ {const p=(lt(4)-3.5)/0.3;const e=back(p);$('exp').style.opacity=cl(p*3);$('exp').style.transform=`scale(${0.3+0.7*e}) rotate(-8deg)`}
+ // s5 strike-through then label pop
+ ['1','2','3'].forEach((k,j)=>{pop($('r'+k),(lt(5)-0.6-j*0.5)/0.35,40);$('t'+k).style.setProperty('--s',(eo((lt(5)-1.0-j*0.5)/0.3)*100)+'%');$('t'+k).style.color=lt(5)-1.0-j*0.5>0.3?'#9ca3af':'#0b0f19'});
+ // s6
+ const c1=eo((lt(6)-0.4)/1.4),c2=eo((lt(6)-0.8)/1.4);$('q1').textContent=Math.round(48250*c1).toLocaleString('en-GB');$('q2').textContent=Math.round(48250*c2).toLocaleString('en-GB');pop($('mt'),(lt(6)-2.4)/0.35);
+ // s7
+ ['m1','m2','m3'].forEach((id,k)=>pop($(id),(lt(7)-0.8-k*0.18)/0.35,50));
+ {const p=(lt(7)-1.8)/0.4;pop($('sv'),p,40);if(lt(7)>2.4)$('sv').style.transform=`scale(${1+0.04*Math.max(0,Math.sin(t*Math.PI*2*124/60/2))})`}
+ caption(t);
+};
+</script>
+</body></html>
