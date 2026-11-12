@@ -1290,6 +1290,49 @@
     "tags": "Zoho Writer,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-13": {
+   "ep": 32,
+   "name": "Zoho Sheet",
+   "post_ist": "2026-12-13 00:00",
+   "post_utc": "2026-12-12T18:30:00Z",
+   "size_bytes": 4762690,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep32/zoho-explained/ep32-short.mp4",
+     "caption": "#REF! errors and duplicate rows? This free spreadsheet fixes them, and answers questions in plain English.\n\nZoho Sheet in 6 stations:\n01 Real-time collaboration\n02 Data cleaning\n03 Pivot tables\n04 Ask Zia\n05 Data validation\n06 Live data & macros\n\nTip: lock the formula cells before you share. People can fill in data without breaking the maths.\nEpisode 32 of 50 · Next: Zoho Show.\n\n#ZohoSheet #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Sheet",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep32/zoho-explained/ep32-short.mp4",
+     "caption": "One spreadsheet, emailed to five people, comes back as five versions. Merging them takes longer than the work itself.\n\nEpisode 32 of Zoho Explained looks at Zoho Sheet: real-time collaboration, data cleaning, pivot tables, ask zia, data validation and live data & macros, plus connections to CRM, Forms, Books and Flow.\n\nFrom Zoho's page: free to use, nearly 40 chart types, and 1,000+ integration possibilities.\n\nNext: Zoho Show.",
+     "title": "Zoho Sheet explained | Zoho Explained Ep 32"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep32/zoho-explained/ep32-short.mp4",
+     "caption": "#REF! errors and duplicate rows? This free spreadsheet fixes them, and answers questions in plain English.\n\nOne spreadsheet, emailed to five people, comes back as five versions. Merging them takes longer than the work itself.\n\nZoho Sheet is Zoho's free spreadsheet app. One sheet, many people, and AI to help with the data. Six stations on its line:\n\n1. Real-time collaboration: comments and version history\n2. Data cleaning: duplicates removed in a click\n3. Pivot tables: dynamic pivot builder\n4. Ask Zia: questions in plain English\n5. Data validation: drop-downs, check boxes, pickers\n6. Live data & macros: linked data, VBA macros\n\nIt connects across Zoho with CRM, Forms, Books and Flow.\n\nFrom Zoho's page: free to use, nearly 40 chart types, and 1,000+ integration possibilities.\n\nTip: lock the formula cells before you share. People can fill in data without breaking the maths.\n\nEpisode 32 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Show.\n\n#ZohoSheet #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Sheet explained | Zoho Explained Ep 32"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep32/zoho-explained/ep32-short.mp4",
+     "caption": "#REF! errors and duplicate rows? This free spreadsheet fixes them, and answers questions in plain English.\n\nOne spreadsheet, emailed to five people, comes back as five versions. Merging them takes longer than the work itself.\n\nZoho Sheet is Zoho's free spreadsheet app. One sheet, many people, and AI to help with the data. Six stations on its line:\n\n1. Real-time collaboration: comments and version history\n2. Data cleaning: duplicates removed in a click\n3. Pivot tables: dynamic pivot builder\n4. Ask Zia: questions in plain English\n5. Data validation: drop-downs, check boxes, pickers\n6. Live data & macros: linked data, VBA macros\n\nIt connects across Zoho with CRM, Forms, Books and Flow.\n\nFrom Zoho's page: free to use, nearly 40 chart types, and 1,000+ integration possibilities.\n\nTip: lock the formula cells before you share. People can fill in data without breaking the maths.\n\nEpisode 32 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Show.\n\n#ZohoSheet #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Sheet explained | Zoho Explained Ep 32"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep32/zoho-explained/ep32-short.mp4",
+    "file_name": "zoho-explained-ep32-short.mp4",
+    "title": "Zoho Sheet explained in 100 seconds #shorts",
+    "description": "Zoho Sheet as a metro line: Real-time collaboration, Data cleaning, Pivot tables, Ask Zia, Data validation, Live data & macros.\n\nFacts: zoho.com/sheet, Nov 2026.\nEpisode 32 of Zoho Explained. Next: Zoho Show.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoSheet #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Sheet,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
