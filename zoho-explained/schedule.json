@@ -1118,6 +1118,49 @@
     "tags": "Zoho Workplace,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-09": {
+   "ep": 28,
+   "name": "Zoho Mail",
+   "post_ist": "2026-12-09 00:00",
+   "post_utc": "2026-12-08T18:30:00Z",
+   "size_bytes": 4759311,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep28/zoho-explained/ep28-short.mp4",
+     "caption": "Still emailing customers from a free personal address? 550,000+ businesses moved on.\n\nZoho Mail in 6 stations:\n01 Your own domain\n02 Ad-free & private\n03 Spam & phishing\n04 Encryption\n05 Calendar, notes, tasks\n06 Admin & retention\n\nTip: set up SPF, DKIM and DMARC on day one. It's the difference between landing in the inbox and landing in spam.\nEpisode 28 of 50 · Next: Zoho Cliq.\n\n#ZohoMail #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Mail",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep28/zoho-explained/ep28-short.mp4",
+     "caption": "A free personal address looks less professional, mixes work with personal mail, and leaves with the employee.\n\nEpisode 28 of Zoho Explained looks at Zoho Mail: your own domain, ad-free & private, spam & phishing, encryption, calendar, notes, tasks and admin & retention, plus connections to Cliq, WorkDrive and CRM.\n\nFrom Zoho's page: 550,000+ businesses, a 99.9% uptime SLA, and 10+ data centres.\n\nNext: Zoho Cliq.",
+     "title": "Zoho Mail explained | Zoho Explained Ep 28"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep28/zoho-explained/ep28-short.mp4",
+     "caption": "Still emailing customers from a free personal address? 550,000+ businesses moved on.\n\nA free personal address looks less professional, mixes work with personal mail, and leaves with the employee.\n\nZoho Mail is business email on your own domain, ad-free, with security and admin controls built in. Six stations on its line:\n\n1. Your own domain: name@yourcompany.com\n2. Ad-free & private: no ads in your inbox\n3. Spam & phishing: blocked, with SPF, DKIM, DMARC\n4. Encryption: tLS, S/MIME, AES-256\n5. Calendar, notes, tasks: built into Mail\n6. Admin & retention: policies, audit logs, eDiscovery\n\nIt connects across Zoho with Cliq, WorkDrive and CRM.\n\nFrom Zoho's page: 550,000+ businesses, a 99.9% uptime SLA, and 10+ data centres.\n\nTip: set up SPF, DKIM and DMARC on day one. It's the difference between landing in the inbox and landing in spam.\n\nEpisode 28 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Cliq.\n\n#ZohoMail #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Mail explained | Zoho Explained Ep 28"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep28/zoho-explained/ep28-short.mp4",
+     "caption": "Still emailing customers from a free personal address? 550,000+ businesses moved on.\n\nA free personal address looks less professional, mixes work with personal mail, and leaves with the employee.\n\nZoho Mail is business email on your own domain, ad-free, with security and admin controls built in. Six stations on its line:\n\n1. Your own domain: name@yourcompany.com\n2. Ad-free & private: no ads in your inbox\n3. Spam & phishing: blocked, with SPF, DKIM, DMARC\n4. Encryption: tLS, S/MIME, AES-256\n5. Calendar, notes, tasks: built into Mail\n6. Admin & retention: policies, audit logs, eDiscovery\n\nIt connects across Zoho with Cliq, WorkDrive and CRM.\n\nFrom Zoho's page: 550,000+ businesses, a 99.9% uptime SLA, and 10+ data centres.\n\nTip: set up SPF, DKIM and DMARC on day one. It's the difference between landing in the inbox and landing in spam.\n\nEpisode 28 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Cliq.\n\n#ZohoMail #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Mail explained | Zoho Explained Ep 28"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep28/zoho-explained/ep28-short.mp4",
+    "file_name": "zoho-explained-ep28-short.mp4",
+    "title": "Zoho Mail explained in 100 seconds #shorts",
+    "description": "Zoho Mail as a metro line: Your own domain, Ad-free & private, Spam & phishing, Encryption, Calendar, notes, tasks, Admin & retention.\n\nFacts: zoho.com/mail, Nov 2026.\nEpisode 28 of Zoho Explained. Next: Zoho Cliq.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoMail #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Mail,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
