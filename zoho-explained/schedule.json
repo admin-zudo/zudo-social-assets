@@ -1032,6 +1032,49 @@
     "tags": "Zoho Projects,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-07": {
+   "ep": 26,
+   "name": "Zoho Sprints",
+   "post_ist": "2026-12-07 00:00",
+   "post_utc": "2026-12-06T18:30:00Z",
+   "size_bytes": 4748659,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep26/zoho-explained/ep26-short.mp4",
+     "caption": "100,000+ agile teams ship in short sprints. Here's the board that keeps them honest.\n\nZoho Sprints in 6 stations:\n01 Backlog\n02 Sprint planning\n03 Scrum board\n04 Epics\n05 Releases\n06 Timesheets & reports\n\nTip: never add work to a sprint once it has started. Put it in the backlog, and plan it next time.\nEpisode 26 of 50 · Next: Zoho Workplace.\n\n#ZohoSprints #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Sprints",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep26/zoho-explained/ep26-short.mp4",
+     "caption": "Long projects drift. Requirements change, the backlog grows, and the release date keeps moving.\n\nEpisode 26 of Zoho Explained looks at Zoho Sprints: backlog, sprint planning, scrum board, epics, releases and timesheets & reports, plus connections to Projects, Desk, Flow and Analytics.\n\nFrom Zoho's page: 100,000+ agile teams, 15 integrations named, and free sign-up.\n\nNext: Zoho Workplace.",
+     "title": "Zoho Sprints explained | Zoho Explained Ep 26"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep26/zoho-explained/ep26-short.mp4",
+     "caption": "100,000+ agile teams ship in short sprints. Here's the board that keeps them honest.\n\nLong projects drift. Requirements change, the backlog grows, and the release date keeps moving.\n\nZoho Sprints is Zoho's agile tool. Work is planned in short sprints, and the team commits to what it can finish. Six stations on its line:\n\n1. Backlog: collect and refine work\n2. Sprint planning: commit to a short cycle\n3. Scrum board: track the current sprint\n4. Epics: group big pieces of work\n5. Releases: stages for each release\n6. Timesheets & reports: hours and agile reports\n\nIt connects across Zoho with Projects, Desk, Flow and Analytics.\n\nFrom Zoho's page: 100,000+ agile teams, 15 integrations named, and free sign-up.\n\nTip: never add work to a sprint once it has started. Put it in the backlog, and plan it next time.\n\nEpisode 26 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Workplace.\n\n#ZohoSprints #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Sprints explained | Zoho Explained Ep 26"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep26/zoho-explained/ep26-short.mp4",
+     "caption": "100,000+ agile teams ship in short sprints. Here's the board that keeps them honest.\n\nLong projects drift. Requirements change, the backlog grows, and the release date keeps moving.\n\nZoho Sprints is Zoho's agile tool. Work is planned in short sprints, and the team commits to what it can finish. Six stations on its line:\n\n1. Backlog: collect and refine work\n2. Sprint planning: commit to a short cycle\n3. Scrum board: track the current sprint\n4. Epics: group big pieces of work\n5. Releases: stages for each release\n6. Timesheets & reports: hours and agile reports\n\nIt connects across Zoho with Projects, Desk, Flow and Analytics.\n\nFrom Zoho's page: 100,000+ agile teams, 15 integrations named, and free sign-up.\n\nTip: never add work to a sprint once it has started. Put it in the backlog, and plan it next time.\n\nEpisode 26 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Workplace.\n\n#ZohoSprints #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Sprints explained | Zoho Explained Ep 26"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep26/zoho-explained/ep26-short.mp4",
+    "file_name": "zoho-explained-ep26-short.mp4",
+    "title": "Zoho Sprints explained in 100 seconds #shorts",
+    "description": "Zoho Sprints as a metro line: Backlog, Sprint planning, Scrum board, Epics, Releases, Timesheets & reports.\n\nFacts: zoho.com/sprints, Nov 2026.\nEpisode 26 of Zoho Explained. Next: Zoho Workplace.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoSprints #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Sprints,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
