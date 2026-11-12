@@ -1376,6 +1376,49 @@
     "tags": "Zoho Show,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-15": {
+   "ep": 34,
+   "name": "Zoho Meeting",
+   "post_ist": "2026-12-15 00:00",
+   "post_utc": "2026-12-14T18:30:00Z",
+   "size_bytes": 4742837,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep34/zoho-explained/ep34-short.mp4",
+     "caption": "\"You're on mute.\" \"Can you see my screen?\" \"Who's taking notes?\" Here's a meeting app free for 100 people.\n\nZoho Meeting in 6 stations:\n01 Video & audio\n02 Screen & whiteboard\n03 Recording\n04 AI transcripts\n05 Polls & Q&A\n06 Security & control\n\nTip: end every meeting by reading out the decisions and owners. The transcript then has a summary worth keeping.\nEpisode 34 of 50 · Next: Zoho Webinar.\n\n#ZohoMeeting #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Meeting",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep34/zoho-explained/ep34-short.mp4",
+     "caption": "Online meetings eat hours every week. And afterwards, nobody remembers exactly what was decided.\n\nEpisode 34 of Zoho Explained looks at Zoho Meeting: video & audio, screen & whiteboard, recording, ai transcripts, polls & q&a and security & control, plus connections to CRM, Projects and Campaigns.\n\nFrom Zoho's page: free for 100 participants, up to 60 minutes, with encrypted audio and video.\n\nNext: Zoho Webinar.",
+     "title": "Zoho Meeting explained | Zoho Explained Ep 34"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep34/zoho-explained/ep34-short.mp4",
+     "caption": "\"You're on mute.\" \"Can you see my screen?\" \"Who's taking notes?\" Here's a meeting app free for 100 people.\n\nOnline meetings eat hours every week. And afterwards, nobody remembers exactly what was decided.\n\nZoho Meeting runs video meetings, records them, and can write the transcript for you. Six stations on its line:\n\n1. Video & audio: conferencing, apps for desktop and mobile\n2. Screen & whiteboard: share, sketch, share files\n3. Recording: record, replay, download\n4. AI transcripts: transcripts and keynotes\n5. Polls & Q&A: engage the room\n6. Security & control: moderators, locking, encryption\n\nIt connects across Zoho with CRM, Projects and Campaigns.\n\nFrom Zoho's page: free for 100 participants, up to 60 minutes, with encrypted audio and video.\n\nTip: end every meeting by reading out the decisions and owners. The transcript then has a summary worth keeping.\n\nEpisode 34 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Webinar.\n\n#ZohoMeeting #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Meeting explained | Zoho Explained Ep 34"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep34/zoho-explained/ep34-short.mp4",
+     "caption": "\"You're on mute.\" \"Can you see my screen?\" \"Who's taking notes?\" Here's a meeting app free for 100 people.\n\nOnline meetings eat hours every week. And afterwards, nobody remembers exactly what was decided.\n\nZoho Meeting runs video meetings, records them, and can write the transcript for you. Six stations on its line:\n\n1. Video & audio: conferencing, apps for desktop and mobile\n2. Screen & whiteboard: share, sketch, share files\n3. Recording: record, replay, download\n4. AI transcripts: transcripts and keynotes\n5. Polls & Q&A: engage the room\n6. Security & control: moderators, locking, encryption\n\nIt connects across Zoho with CRM, Projects and Campaigns.\n\nFrom Zoho's page: free for 100 participants, up to 60 minutes, with encrypted audio and video.\n\nTip: end every meeting by reading out the decisions and owners. The transcript then has a summary worth keeping.\n\nEpisode 34 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Webinar.\n\n#ZohoMeeting #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Meeting explained | Zoho Explained Ep 34"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep34/zoho-explained/ep34-short.mp4",
+    "file_name": "zoho-explained-ep34-short.mp4",
+    "title": "Zoho Meeting explained in 100 seconds #shorts",
+    "description": "Zoho Meeting as a metro line: Video & audio, Screen & whiteboard, Recording, AI transcripts, Polls & Q&A, Security & control.\n\nFacts: zoho.com/meeting, Nov 2026.\nEpisode 34 of Zoho Explained. Next: Zoho Webinar.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoMeeting #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Meeting,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
