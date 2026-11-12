@@ -301,6 +301,49 @@
     "tags": "Zoho Billing,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-20": {
+   "ep": 9,
+   "name": "Zoho Payroll",
+   "post_ist": "2026-11-20 00:00",
+   "post_utc": "2026-11-19T18:30:00Z",
+   "size_bytes": 4757648,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep09/zoho-explained/ep09-short.mp4",
+     "caption": "28 states. Five compliance rules. One pay run. Here's how payroll stops being scary.\n\nZoho Payroll in 6 stations:\n01 Salary structures\n02 Statutory compliance\n03 Pay runs & approvals\n04 Payslips & portal\n05 Declarations & proofs\n06 Bank transfer\n\nTip: run one parallel month. Process payroll the old way and in Zoho, and compare every payslip before you switch.\nEpisode 9 of 50 · Next: Zoho People.\n\n#ZohoPayroll #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Payroll",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep09/zoho-explained/ep09-short.mp4",
+     "caption": "Salary sheets, PF and ESI, professional tax that changes by state, and income tax. One mistake, and the penalty is yours.\n\nEpisode 9 of Zoho Explained looks at Zoho Payroll: salary structures, statutory compliance, pay runs & approvals, payslips & portal, declarations & proofs and bank transfer, plus connections to Books, Expense and People.\n\nFrom Zoho: 10 countries, compliance across 28 Indian states, and a 14-day free trial.\n\nNext: Zoho People.",
+     "title": "Zoho Payroll explained | Zoho Explained Ep 9"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep09/zoho-explained/ep09-short.mp4",
+     "caption": "28 states. Five compliance rules. One pay run. Here's how payroll stops being scary.\n\nSalary sheets, PF and ESI, professional tax that changes by state, and income tax. One mistake, and the penalty is yours.\n\nZoho Payroll calculates salaries and handles the statutory deductions, then pays your team straight to their bank. Six stations on its line:\n\n1. Salary structures: custom components and deductions\n2. Statutory compliance: pF, ESI, PT, LWF and income tax\n3. Pay runs & approvals: multi-level approval before payout\n4. Payslips & portal: employee web and mobile app\n5. Declarations & proofs: tax declarations collected online\n6. Bank transfer: salary paid straight to banks\n\nIt connects across Zoho with Books, Expense and People.\n\nFrom Zoho: 10 countries, compliance across 28 Indian states, and a 14-day free trial.\n\nTip: run one parallel month. Process payroll the old way and in Zoho, and compare every payslip before you switch.\n\nEpisode 9 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho People.\n\n#ZohoPayroll #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Payroll explained | Zoho Explained Ep 9"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep09/zoho-explained/ep09-short.mp4",
+     "caption": "28 states. Five compliance rules. One pay run. Here's how payroll stops being scary.\n\nSalary sheets, PF and ESI, professional tax that changes by state, and income tax. One mistake, and the penalty is yours.\n\nZoho Payroll calculates salaries and handles the statutory deductions, then pays your team straight to their bank. Six stations on its line:\n\n1. Salary structures: custom components and deductions\n2. Statutory compliance: pF, ESI, PT, LWF and income tax\n3. Pay runs & approvals: multi-level approval before payout\n4. Payslips & portal: employee web and mobile app\n5. Declarations & proofs: tax declarations collected online\n6. Bank transfer: salary paid straight to banks\n\nIt connects across Zoho with Books, Expense and People.\n\nFrom Zoho: 10 countries, compliance across 28 Indian states, and a 14-day free trial.\n\nTip: run one parallel month. Process payroll the old way and in Zoho, and compare every payslip before you switch.\n\nEpisode 9 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho People.\n\n#ZohoPayroll #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Payroll explained | Zoho Explained Ep 9"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep09/zoho-explained/ep09-short.mp4",
+    "file_name": "zoho-explained-ep09-short.mp4",
+    "title": "Zoho Payroll explained in 100 seconds #shorts",
+    "description": "Zoho Payroll as a metro line: Salary structures, Statutory compliance, Pay runs & approvals, Payslips & portal, Declarations & proofs, Bank transfer.\n\nFacts: zoho.com/in/payroll and Zoho help docs, Nov 2026.\nEpisode 9 of Zoho Explained. Next: Zoho People.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoPayroll #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Payroll,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
