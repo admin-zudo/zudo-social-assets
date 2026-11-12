@@ -15,14 +15,21 @@
    },
    "page_video_added": true,
    "page_commit": "c0a2330",
-   "make_posts": {},
+   "make_posts": {
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7526513541290283008",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526513541290283008"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7526513634240352260",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526513634240352260"
+    }
+   },
    "zoho_schedules": {},
-   "status": "partial: Instagram Reel failed (Make Instagram token invalidated, OAuth 190); wave stopped per playbook",
+   "status": "partial: LinkedIn videos posted on Arun's request; Instagram Reel failed (Make Instagram token invalidated); Facebook Reel and carousels pending",
    "pending": [
     "instagram_reel",
     "facebook_reel",
-    "linkedin_page_video",
-    "linkedin_profile_video",
     "carousels"
    ],
    "backfill_done": false
