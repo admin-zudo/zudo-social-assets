@@ -903,6 +903,49 @@
     "tags": "Zoho Flow,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-04": {
+   "ep": 23,
+   "name": "Zoho Analytics",
+   "post_ist": "2026-12-04 00:00",
+   "post_utc": "2026-12-03T18:30:00Z",
+   "size_bytes": 4749307,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep23/zoho-explained/ep23-short.mp4",
+     "caption": "500+ data sources. One dashboard. Ask it anything in plain English.\n\nZoho Analytics in 6 stations:\n01 Data connectors\n02 Data preparation\n03 Dashboards\n04 Ask Zia\n05 AI insights\n06 Share & embed\n\nTip: start with five numbers that drive your business, not fifty. A dashboard nobody reads is just decoration.\nEpisode 23 of 50 · Next: Zoho DataPrep.\n\n#ZohoAnalytics #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Analytics",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep23/zoho-explained/ep23-short.mp4",
+     "caption": "Sales numbers in one app, finance in another, and the monthly report built by hand in a spreadsheet, a week late.\n\nEpisode 23 of Zoho Explained looks at Zoho Analytics: data connectors, data preparation, dashboards, ask zia, ai insights and share & embed, plus connections to CRM, Inventory, Billing and Campaigns.\n\nFrom Zoho's page: 3M users, 500+ data sources, and a 15-day free trial with no credit card.\n\nNext: Zoho DataPrep.",
+     "title": "Zoho Analytics explained | Zoho Explained Ep 23"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep23/zoho-explained/ep23-short.mp4",
+     "caption": "500+ data sources. One dashboard. Ask it anything in plain English.\n\nSales numbers in one app, finance in another, and the monthly report built by hand in a spreadsheet, a week late.\n\nZoho Analytics brings data from your apps together, and turns it into dashboards that update on their own. Six stations on its line:\n\n1. Data connectors: 500+ live sources\n2. Data preparation: 250+ transforms\n3. Dashboards: 50+ chart types\n4. Ask Zia: questions in plain English\n5. AI insights: trends, anomalies, forecasts\n6. Share & embed: row-level security, mobile\n\nIt connects across Zoho with CRM, Inventory, Billing and Campaigns.\n\nFrom Zoho's page: 3M users, 500+ data sources, and a 15-day free trial with no credit card.\n\nTip: start with five numbers that drive your business, not fifty. A dashboard nobody reads is just decoration.\n\nEpisode 23 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho DataPrep.\n\n#ZohoAnalytics #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Analytics explained | Zoho Explained Ep 23"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep23/zoho-explained/ep23-short.mp4",
+     "caption": "500+ data sources. One dashboard. Ask it anything in plain English.\n\nSales numbers in one app, finance in another, and the monthly report built by hand in a spreadsheet, a week late.\n\nZoho Analytics brings data from your apps together, and turns it into dashboards that update on their own. Six stations on its line:\n\n1. Data connectors: 500+ live sources\n2. Data preparation: 250+ transforms\n3. Dashboards: 50+ chart types\n4. Ask Zia: questions in plain English\n5. AI insights: trends, anomalies, forecasts\n6. Share & embed: row-level security, mobile\n\nIt connects across Zoho with CRM, Inventory, Billing and Campaigns.\n\nFrom Zoho's page: 3M users, 500+ data sources, and a 15-day free trial with no credit card.\n\nTip: start with five numbers that drive your business, not fifty. A dashboard nobody reads is just decoration.\n\nEpisode 23 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho DataPrep.\n\n#ZohoAnalytics #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Analytics explained | Zoho Explained Ep 23"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep23/zoho-explained/ep23-short.mp4",
+    "file_name": "zoho-explained-ep23-short.mp4",
+    "title": "500+ data sources. One dashboard. Ask it anything in plain English #shorts",
+    "description": "Zoho Analytics as a metro line: Data connectors, Data preparation, Dashboards, Ask Zia, AI insights, Share & embed.\n\nFacts: zoho.com/analytics, Nov 2026.\nEpisode 23 of Zoho Explained. Next: Zoho DataPrep.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoAnalytics #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Analytics,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
