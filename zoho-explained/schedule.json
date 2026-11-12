@@ -817,6 +817,49 @@
     "tags": "Zoho Commerce,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-02": {
+   "ep": 21,
+   "name": "Zoho Creator",
+   "post_ist": "2026-12-02 00:00",
+   "post_utc": "2026-12-01T18:30:00Z",
+   "size_bytes": 4734675,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep21/zoho-explained/ep21-short.mp4",
+     "caption": "7M+ apps, built on one low-code platform. Here's how to build yours.\n\nZoho Creator in 6 stations:\n01 Drag-and-drop builder\n02 AI app generation\n03 Workflows & rules\n04 Deluge scripting\n05 Native mobile apps\n06 Portals\n\nTip: build the smallest useful version first. One form, one report, one approval. Then grow it with real feedback.\nEpisode 21 of 50 · Next: Zoho Flow.\n\n#ZohoCreator #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Creator",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep21/zoho-explained/ep21-short.mp4",
+     "caption": "Every business has a process no off-the-shelf app fits. So it lives in spreadsheets, emails and paper registers.\n\nEpisode 21 of Zoho Explained looks at Zoho Creator: drag-and-drop builder, ai app generation, workflows & rules, deluge scripting, native mobile apps and portals, plus connections to Forms, Flow and Analytics.\n\nFrom Zoho's page: 6M+ users, 7M+ apps, and 1,000+ prebuilt integrations.\n\nNext: Zoho Flow.",
+     "title": "Zoho Creator explained | Zoho Explained Ep 21"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep21/zoho-explained/ep21-short.mp4",
+     "caption": "7M+ apps, built on one low-code platform. Here's how to build yours.\n\nEvery business has a process no off-the-shelf app fits. So it lives in spreadsheets, emails and paper registers.\n\nZoho Creator is a low-code platform. You build your own business app, with as little code as possible. Six stations on its line:\n\n1. Drag-and-drop builder: forms, reports, dashboards\n2. AI app generation: zia drafts the app\n3. Workflows & rules: process automation\n4. Deluge scripting: code when you need it\n5. Native mobile apps: iOS and Android, generated\n6. Portals: customers, vendors, partners\n\nIt connects across Zoho with Forms, Flow and Analytics.\n\nFrom Zoho's page: 6M+ users, 7M+ apps, and 1,000+ prebuilt integrations.\n\nTip: build the smallest useful version first. One form, one report, one approval. Then grow it with real feedback.\n\nEpisode 21 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Flow.\n\n#ZohoCreator #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Creator explained | Zoho Explained Ep 21"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep21/zoho-explained/ep21-short.mp4",
+     "caption": "7M+ apps, built on one low-code platform. Here's how to build yours.\n\nEvery business has a process no off-the-shelf app fits. So it lives in spreadsheets, emails and paper registers.\n\nZoho Creator is a low-code platform. You build your own business app, with as little code as possible. Six stations on its line:\n\n1. Drag-and-drop builder: forms, reports, dashboards\n2. AI app generation: zia drafts the app\n3. Workflows & rules: process automation\n4. Deluge scripting: code when you need it\n5. Native mobile apps: iOS and Android, generated\n6. Portals: customers, vendors, partners\n\nIt connects across Zoho with Forms, Flow and Analytics.\n\nFrom Zoho's page: 6M+ users, 7M+ apps, and 1,000+ prebuilt integrations.\n\nTip: build the smallest useful version first. One form, one report, one approval. Then grow it with real feedback.\n\nEpisode 21 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Flow.\n\n#ZohoCreator #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Creator explained | Zoho Explained Ep 21"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep21/zoho-explained/ep21-short.mp4",
+    "file_name": "zoho-explained-ep21-short.mp4",
+    "title": "7M+ apps, built on one low-code platform. Here's how to build yours #shorts",
+    "description": "Zoho Creator as a metro line: Drag-and-drop builder, AI app generation, Workflows & rules, Deluge scripting, Native mobile apps, Portals.\n\nFacts: zoho.com/creator, Nov 2026.\nEpisode 21 of Zoho Explained. Next: Zoho Flow.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoCreator #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Creator,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
