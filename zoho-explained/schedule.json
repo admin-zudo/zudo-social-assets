@@ -989,6 +989,49 @@
     "tags": "Zoho DataPrep,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-12-06": {
+   "ep": 25,
+   "name": "Zoho Projects",
+   "post_ist": "2026-12-06 00:00",
+   "post_utc": "2026-12-05T18:30:00Z",
+   "size_bytes": 4743178,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep25/zoho-explained/ep25-short.mp4",
+     "caption": "4.5M+ projects. Here's how they finish on time without a weekly status meeting.\n\nZoho Projects in 6 stations:\n01 Tasks & boards\n02 Gantt charts\n03 Timesheets\n04 Issue tracking\n05 Resources & budget\n06 Automation & reports\n\nTip: every task needs one owner and one due date. Two owners means no owner.\nEpisode 25 of 50 · Next: Zoho Sprints.\n\n#ZohoProjects #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Projects",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep25/zoho-explained/ep25-short.mp4",
+     "caption": "The plan lives in a spreadsheet, updates live in WhatsApp, and nobody knows who's doing what until the deadline is missed.\n\nEpisode 25 of Zoho Explained looks at Zoho Projects: tasks & boards, gantt charts, timesheets, issue tracking, resources & budget and automation & reports, plus connections to Invoice, CRM and Flow.\n\nFrom Zoho's page: 4.5M+ projects, 50+ integrations, and a free plan with Gantt charts.\n\nNext: Zoho Sprints.",
+     "title": "Zoho Projects explained | Zoho Explained Ep 25"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep25/zoho-explained/ep25-short.mp4",
+     "caption": "4.5M+ projects. Here's how they finish on time without a weekly status meeting.\n\nThe plan lives in a spreadsheet, updates live in WhatsApp, and nobody knows who's doing what until the deadline is missed.\n\nZoho Projects keeps the plan, the tasks, the time and the issues in one place, for the whole team. Six stations on its line:\n\n1. Tasks & boards: task lists and Kanban\n2. Gantt charts: dependencies, plan vs actual\n3. Timesheets: timers and time tracking\n4. Issue tracking: problems logged and fixed\n5. Resources & budget: who's busy, what it costs\n6. Automation & reports: drag-and-drop rules, dashboards\n\nIt connects across Zoho with Invoice, CRM and Flow.\n\nFrom Zoho's page: 4.5M+ projects, 50+ integrations, and a free plan with Gantt charts.\n\nTip: every task needs one owner and one due date. Two owners means no owner.\n\nEpisode 25 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Sprints.\n\n#ZohoProjects #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Projects explained | Zoho Explained Ep 25"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep25/zoho-explained/ep25-short.mp4",
+     "caption": "4.5M+ projects. Here's how they finish on time without a weekly status meeting.\n\nThe plan lives in a spreadsheet, updates live in WhatsApp, and nobody knows who's doing what until the deadline is missed.\n\nZoho Projects keeps the plan, the tasks, the time and the issues in one place, for the whole team. Six stations on its line:\n\n1. Tasks & boards: task lists and Kanban\n2. Gantt charts: dependencies, plan vs actual\n3. Timesheets: timers and time tracking\n4. Issue tracking: problems logged and fixed\n5. Resources & budget: who's busy, what it costs\n6. Automation & reports: drag-and-drop rules, dashboards\n\nIt connects across Zoho with Invoice, CRM and Flow.\n\nFrom Zoho's page: 4.5M+ projects, 50+ integrations, and a free plan with Gantt charts.\n\nTip: every task needs one owner and one due date. Two owners means no owner.\n\nEpisode 25 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Sprints.\n\n#ZohoProjects #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Projects explained | Zoho Explained Ep 25"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep25/zoho-explained/ep25-short.mp4",
+    "file_name": "zoho-explained-ep25-short.mp4",
+    "title": "Zoho Projects explained in 100 seconds #shorts",
+    "description": "Zoho Projects as a metro line: Tasks & boards, Gantt charts, Timesheets, Issue tracking, Resources & budget, Automation & reports.\n\nFacts: zoho.com/projects, Nov 2026.\nEpisode 25 of Zoho Explained. Next: Zoho Sprints.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoProjects #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Projects,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
