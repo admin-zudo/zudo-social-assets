@@ -258,6 +258,49 @@
     "tags": "Zoho Expense,Zoho,Zoho Explained,Shorts"
    },
    "youtube_video_id": ""
+  },
+  "2026-11-19": {
+   "ep": 8,
+   "name": "Zoho Billing",
+   "post_ist": "2026-11-19 00:00",
+   "post_utc": "2026-11-18T18:30:00Z",
+   "size_bytes": 4754875,
+   "posts": [
+    {
+     "target": "instagram",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep08/zoho-explained/ep08-short.mp4",
+     "caption": "Upgrade mid-month. Failed card. Cancel, then come back. Who bills all of that correctly?\n\nZoho Billing in 6 stations:\n01 Subscriptions\n02 Metered billing\n03 Plans, add-ons & coupons\n04 Proration\n05 Dunning\n06 Customer portal\n\nTip: set up dunning before your first renewal date, so failed payments are followed up from day one.\nEpisode 8 of 50 · Next: Zoho Payroll.\n\n#ZohoBilling #Zoho #SmallBusiness #Productivity #ZohoExplained",
+     "title": "Zoho Billing",
+     "cover_ms": 3000
+    },
+    {
+     "target": "facebook_video",
+     "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep08/zoho-explained/ep08-short.mp4",
+     "caption": "If customers pay you every month, billing gets complicated fast. Plan changes, failed payments and renewals all need handling.\n\nEpisode 8 of Zoho Explained looks at Zoho Billing: subscriptions, metered billing, plans, add-ons & coupons, proration, dunning and customer portal, plus connections to CRM, Books, Desk and Analytics.\n\nFrom Zoho's page: a 14-day free trial, 55+ reports, and no free plan. For free invoicing, Zoho points to Zoho Invoice.\n\nNext: Zoho Payroll.",
+     "title": "Zoho Billing explained | Zoho Explained Ep 8"
+    },
+    {
+     "target": "linkedin_page",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep08/zoho-explained/ep08-short.mp4",
+     "caption": "Upgrade mid-month. Failed card. Cancel, then come back. Who bills all of that correctly?\n\nIf customers pay you every month, billing gets complicated fast. Plan changes, failed payments and renewals all need handling.\n\nZoho Billing manages one-time and subscription billing, from the first invoice to every renewal after it. Six stations on its line:\n\n1. Subscriptions: trials, upgrades, cancels, comebacks\n2. Metered billing: bill for what's used\n3. Plans, add-ons & coupons: your product catalogue\n4. Proration: fair charges for mid-cycle changes\n5. Dunning: handling failed payments\n6. Customer portal: self-service and payment pages\n\nIt connects across Zoho with CRM, Books, Desk and Analytics.\n\nFrom Zoho's page: a 14-day free trial, 55+ reports, and no free plan. For free invoicing, Zoho points to Zoho Invoice.\n\nTip: set up dunning before your first renewal date, so failed payments are followed up from day one.\n\nEpisode 8 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Payroll.\n\n#ZohoBilling #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Billing explained | Zoho Explained Ep 8"
+    },
+    {
+     "target": "linkedin_profile",
+     "video_url": "https://cdn.jsdelivr.net/gh/admin-zudo/zudo-social-assets@zx-ep08/zoho-explained/ep08-short.mp4",
+     "caption": "Upgrade mid-month. Failed card. Cancel, then come back. Who bills all of that correctly?\n\nIf customers pay you every month, billing gets complicated fast. Plan changes, failed payments and renewals all need handling.\n\nZoho Billing manages one-time and subscription billing, from the first invoice to every renewal after it. Six stations on its line:\n\n1. Subscriptions: trials, upgrades, cancels, comebacks\n2. Metered billing: bill for what's used\n3. Plans, add-ons & coupons: your product catalogue\n4. Proration: fair charges for mid-cycle changes\n5. Dunning: handling failed payments\n6. Customer portal: self-service and payment pages\n\nIt connects across Zoho with CRM, Books, Desk and Analytics.\n\nFrom Zoho's page: a 14-day free trial, 55+ reports, and no free plan. For free invoicing, Zoho points to Zoho Invoice.\n\nTip: set up dunning before your first renewal date, so failed payments are followed up from day one.\n\nEpisode 8 of Zoho Explained, a 50-episode series on the Zoho ecosystem. Next: Zoho Payroll.\n\n#ZohoBilling #Zoho #SmallBusiness #BusinessSoftware #ZohoExplained",
+     "title": "Zoho Billing explained | Zoho Explained Ep 8"
+    }
+   ],
+   "youtube": {
+    "video_url": "https://raw.githubusercontent.com/admin-zudo/zudo-social-assets/refs/heads/zx-ep08/zoho-explained/ep08-short.mp4",
+    "file_name": "zoho-explained-ep08-short.mp4",
+    "title": "Zoho Billing explained in 100 seconds #shorts",
+    "description": "Zoho Billing as a metro line: Subscriptions, Metered billing, Plans, add-ons & coupons, Proration, Dunning, Customer portal.\n\nFacts: zoho.com/billing, Nov 2026.\nEpisode 8 of Zoho Explained. Next: Zoho Payroll.\nZoho and its product logos are trademarks of Zoho Corporation. Not an official Zoho video.\n\n#ZohoBilling #Zoho #Shorts",
+    "privacy": "public",
+    "tags": "Zoho Billing,Zoho,Zoho Explained,Shorts"
+   },
+   "youtube_video_id": ""
   }
  }
 }
