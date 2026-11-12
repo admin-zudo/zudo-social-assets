@@ -1,1 +1,31 @@
-{"processed":[],"waves":[]}
+{
+ "processed": [
+  "https://zudoworks.com/insights/manufacturing-operating-system-mos-vs-mes-erp/"
+ ],
+ "waves": [
+  {
+   "date": "2026-11-12",
+   "slug": "manufacturing-operating-system-mos-vs-mes-erp",
+   "url": "https://zudoworks.com/insights/manufacturing-operating-system-mos-vs-mes-erp/",
+   "released_at": "2026-11-12T02:48:32+05:30",
+   "assets": "social/2026-11-12-manufacturing-operating-system-mos-vs-mes-erp/",
+   "youtube": {
+    "video": "BSiXRLRANrw",
+    "short": "-ukRMd1lX0s"
+   },
+   "page_video_added": true,
+   "page_commit": "c0a2330",
+   "make_posts": {},
+   "zoho_schedules": {},
+   "status": "partial: Instagram Reel failed (Make Instagram token invalidated, OAuth 190); wave stopped per playbook",
+   "pending": [
+    "instagram_reel",
+    "facebook_reel",
+    "linkedin_page_video",
+    "linkedin_profile_video",
+    "carousels"
+   ],
+   "backfill_done": false
+  }
+ ]
+}
