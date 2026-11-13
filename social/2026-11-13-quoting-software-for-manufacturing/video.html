@@ -1,0 +1,290 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--ink:#0b0f19;--red:#e8402b;--yel:#f5b234;--muted:#6b7280;--card:#f4f5f7;--line:#e5e7eb}
+body{width:1080px;height:1920px;background:#fff;font-family:Inter,sans-serif;color:var(--ink);overflow:hidden;position:relative}
+#grid{position:absolute;left:0;right:0;top:-120px;height:2160px;background-image:linear-gradient(rgba(11,15,25,.045) 2px,transparent 2px),linear-gradient(90deg,rgba(11,15,25,.045) 2px,transparent 2px);background-size:120px 120px}
+.side{position:absolute;left:0;top:0;bottom:0;width:30px;background:var(--yel);z-index:6}
+.top{position:absolute;left:72px;right:72px;top:90px;display:flex;justify-content:space-between;align-items:center;z-index:6}
+.tag{font-size:24px;font-weight:800;letter-spacing:.2em;color:var(--muted)}
+.brand{display:flex;align-items:center;gap:12px;font-weight:800;font-size:30px}.brand img{width:44px;height:44px}
+.bar{position:absolute;left:72px;right:72px;top:168px;height:8px;background:#eceef2;border-radius:4px;overflow:hidden;z-index:6}
+.bar i{display:block;height:100%;background:var(--red);width:0}
+.scene{position:absolute;left:72px;right:72px;top:230px;height:1290px;display:none;flex-direction:column;justify-content:flex-start;padding-top:30px;transform-origin:30% 40%}
+.disp{font-family:'Inter Display',Inter,sans-serif;font-weight:900;letter-spacing:-.04em;line-height:1.0}
+.wm{display:inline-block;overflow:hidden;vertical-align:top;padding:0 .02em .14em;margin-bottom:-.14em}
+.wi{display:inline-block;will-change:transform}
+.hl{background:linear-gradient(var(--yel),var(--yel)) no-repeat 0 82%/0% 34%}
+.red{color:var(--red)}
+.num{font-size:120px;font-weight:900;color:var(--red);line-height:1}
+.card{background:var(--card);border:1px solid var(--line);border-radius:28px;padding:36px 40px}
+.chk{display:flex;align-items:center;gap:28px;font-size:56px;font-weight:700;margin-top:26px}
+.chk b{width:78px;height:78px;border-radius:18px;background:var(--ink);color:#fff;display:flex;align-items:center;justify-content:center;font-size:44px;flex:0 0 78px}
+.chev{display:flex;gap:10px;margin-top:56px}
+.chev span{flex:1;height:120px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:34px;clip-path:polygon(0 0,86% 0,100% 50%,86% 100%,0 100%,12% 50%)}
+.chev span:first-child{clip-path:polygon(0 0,86% 0,100% 50%,86% 100%,0 100%)}
+.csv{display:flex;gap:24px;margin-top:64px;justify-content:center}
+.csv div{width:270px;height:330px;border-radius:24px;background:#fff;border:4px solid var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:900;font-size:56px;gap:10px;box-shadow:12px 12px 0 var(--yel)}
+.csv div small{font-size:26px;color:var(--muted);font-weight:600}
+.tree{position:relative;height:640px;margin-top:40px}
+.node{position:absolute;width:420px;padding:40px;border-radius:28px;font-size:54px;font-weight:900;box-shadow:12px 12px 0 var(--yel)}
+.node small{display:block;font-size:24px;letter-spacing:.16em;margin-bottom:8px;opacity:.85;font-weight:800}
+.arrow{position:absolute;width:12px;background:var(--ink);border-radius:6px}
+.timer{width:660px;height:660px;margin:40px auto 0;position:relative}
+.timer svg{position:absolute;inset:0;transform:rotate(-90deg)}
+.timer .c{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.rb{display:flex;align-items:center;gap:26px;margin-top:22px;padding:28px 36px;border-radius:24px;background:var(--card);border:1px solid var(--line);font-size:54px;font-weight:800;max-width:600px;position:relative;overflow:hidden}
+.rb .t{position:relative}.rb .t:after{content:"";position:absolute;left:0;top:52%;height:7px;background:var(--red);width:var(--s,0%)}
+.rb .t{color:var(--ink)}
+.rb em{font-style:normal;margin-left:auto;font-size:28px;color:#fff;background:var(--ink);padding:10px 18px;border-radius:14px}
+.cnt{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:56px}
+.cnt .card{text-align:center}.cnt .card b{display:block;font-size:104px;font-weight:900;letter-spacing:-.03em}
+.k{font-size:26px;font-weight:800;letter-spacing:.16em;color:var(--muted)}
+.match{margin-top:56px;font-size:66px;font-weight:900;color:#fff;background:var(--ink);border-radius:24px;padding:26px 34px;display:inline-block}
+.cta3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:46px}
+.cta3 div{border-top:8px solid var(--ink);background:var(--card);border-radius:0 0 22px 22px;padding:30px 24px 36px}
+.cta3 i{font-style:normal;font-size:86px;font-weight:900;color:var(--red);display:block}
+.cta3 b{font-size:36px;line-height:1.15;display:block;margin-top:6px}
+.btn{display:inline-block;margin-top:44px;background:var(--ink);color:#fff;font-weight:800;font-size:46px;padding:26px 44px;border-radius:22px}
+.person{position:absolute;right:-30px;bottom:0;width:400px;height:520px;z-index:3}
+.person img{position:absolute;left:0;bottom:0;width:100%;filter:grayscale(1) contrast(1.08) drop-shadow(6px 0 0 #fff) drop-shadow(-6px 0 0 #fff) drop-shadow(0 6px 0 #fff) drop-shadow(0 -6px 0 #fff) drop-shadow(0 0 2px rgba(0,0,0,.35)) drop-shadow(0 20px 26px rgba(0,0,0,.18));-webkit-mask-image:linear-gradient(#000 86%,transparent)}
+.badge{position:absolute;z-index:4;background:var(--red);color:#fff;font-weight:900;font-size:30px;padding:12px 20px;border-radius:14px;transform-origin:center}
+#wipe{position:absolute;inset:0;z-index:20;pointer-events:none}
+#wipe i{position:absolute;top:0;bottom:0;width:100%;display:block}
+#wipe i:nth-child(1){background:var(--yel)}#wipe i:nth-child(2){background:var(--ink)}
+.cap{position:absolute;left:72px;right:72px;bottom:150px;text-align:center;font-size:54px;font-weight:900;line-height:1.25;min-height:150px;z-index:7;letter-spacing:-.01em}
+.cap span{display:inline-block;opacity:.18;margin:0 .1em}
+.cap span.on{opacity:1}
+.cap span.now{color:#fff;background:var(--red);border-radius:12px;padding:0 .14em;opacity:1}
+.url{position:absolute;left:0;right:0;bottom:72px;text-align:center;font-size:28px;color:var(--muted);letter-spacing:.04em;z-index:7}
+
+.stack{margin-top:70px;display:flex;flex-direction:column;gap:30px;max-width:936px}
+.blk{display:flex;align-items:center;gap:28px;padding:48px 40px;border-radius:26px;font-size:66px;font-weight:900;letter-spacing:-.02em;box-shadow:12px 12px 0 var(--yel)}
+.blk i{font-style:normal;font-size:30px;font-weight:800;opacity:.75;width:60px}
+.blk small{margin-left:auto;font-size:26px;font-weight:800;letter-spacing:.14em;opacity:.8}
+.flow{display:flex;flex-direction:column;gap:0;margin-top:44px;max-width:520px}
+.fl{display:flex;align-items:center;gap:22px;padding:30px 30px;border:4px solid var(--ink);border-radius:22px;background:#fff;font-size:48px;font-weight:800}
+.fl b{background:var(--ink);color:#fff;border-radius:12px;padding:6px 14px;font-size:28px}
+.dn{width:10px;height:56px;background:var(--ink);margin-left:60px;border-radius:5px;transform-origin:top}
+.eq{display:flex;align-items:center;gap:22px;margin-top:50px;flex-wrap:nowrap}
+.eq .card{text-align:center;padding:30px 30px}.eq .card b{display:block;font-size:76px;font-weight:900;letter-spacing:-.03em}
+.op{font-size:84px;font-weight:900;color:var(--red)}
+.wage{margin-top:44px;display:inline-flex;align-items:center;gap:20px;font-size:60px;align-self:flex-start;font-weight:800;position:relative;color:#9ca3af}
+.wage{overflow:visible}.wage:after{content:"";position:absolute;left:-10px;top:50%;height:8px;background:var(--red);width:calc(var(--s,0%) * 1.05 + 0px);max-width:calc(100% + 20px)}
+.ovh{margin-top:30px;display:flex;flex-direction:column;gap:26px}
+.ov{display:flex;align-items:center;gap:26px;font-size:50px;font-weight:800}
+.ov span{height:96px;border-radius:14px;display:block;transform-origin:left}
+.vs{display:grid;grid-template-columns:1fr;gap:30px;margin-top:60px;max-width:600px}
+.vs .card{padding:44px 40px}.vs .card b{display:block;font-size:84px;font-weight:900;letter-spacing:-.03em;margin-top:8px}
+.vs .card p{font-size:34px;font-weight:700;color:#4b5563;margin-top:8px}
+.ex{display:inline-block;background:var(--ink);color:#fff;font-weight:800;font-size:28px;letter-spacing:.16em;padding:10px 18px;border-radius:12px}
+.bars{margin-top:56px;display:flex;flex-direction:column;gap:46px}
+.br{position:relative}
+.br .lab{font-size:42px;font-weight:800;margin-bottom:12px;display:flex;justify-content:space-between}
+.br .trk{height:150px;border-radius:20px;background:#eceef2;position:relative;overflow:hidden}
+.br .fill{position:absolute;left:0;top:0;bottom:0;border-radius:20px;display:flex;align-items:center;justify-content:flex-end;padding-right:26px;font-size:78px;font-weight:900;color:#fff;white-space:nowrap}
+.diff{margin-top:60px;align-self:flex-start;display:inline-block;background:var(--red);color:#fff;font-size:66px;font-weight:900;padding:28px 38px;border-radius:22px;transform-origin:left center}
+.bt{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:40px}
+.bt .card{text-align:center;padding:50px 20px}.bt .card b{display:block;font-size:130px;font-weight:900;letter-spacing:-.04em;line-height:1.05}
+.bt .card .k{margin-top:6px}
+.boxes{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px;justify-content:center;min-height:200px;align-content:flex-start}
+.boxes s{width:48px;height:48px;border-radius:8px;background:var(--ink);display:block;text-decoration:none}
+.loop{position:relative;height:600px;margin-top:60px;max-width:560px;transform:scale(1.0);transform-origin:0 0}
+.lp{position:absolute;width:250px;padding:26px 24px;border-radius:24px;font-size:42px;font-weight:900;text-align:center;box-shadow:10px 10px 0 var(--yel)}
+.lp small{display:block;font-size:22px;letter-spacing:.16em;font-weight:800;opacity:.8;margin-bottom:6px}
+.ln{position:absolute;background:var(--ink);border-radius:6px}
+.url2{margin-top:20px;font-size:68px;font-weight:900;letter-spacing:-.03em}
+</style></head><body>
+<div id="grid"></div><div class="side"></div>
+<div class="top"><div class="tag">QUOTING GUIDE</div><div class="brand"><img src="logo.svg">Zudo Works</div></div>
+<div class="bar"><i id="bar"></i></div>
+
+<div class="scene" id="s0">
+ <div class="disp" style="font-size:150px;max-width:640px">A quote is a <span class="hl">promise.</span></div>
+ <div id="sub0" style="margin-top:46px;font-size:44px;font-weight:800;max-width:520px;line-height:1.2">About cost.<br><span class="red">Before the job exists.</span></div>
+ <div class="card" id="q0" style="margin-top:60px;width:520px;background:#fff;border:4px solid var(--ink);box-shadow:14px 14px 0 var(--yel)">
+  <div class="k">QUOTE · EXAMPLE</div>
+  <div style="font-size:38px;font-weight:800;margin-top:14px">Enclosure, batch of 12</div>
+  <div style="font-size:110px;font-weight:900;color:var(--red);margin-top:6px;letter-spacing:-.03em">$<span id="qp0">0.00</span></div>
+  <div class="k" style="margin-top:6px">PER UNIT</div>
+ </div>
+ <div class="person" id="p0" style="width:420px;height:640px"><img src="think.png" style="left:10px;width:400px"></div>
+</div>
+
+<div class="scene" id="s1">
+ <div class="disp" style="font-size:150px">Four <span class="red">parts.</span></div>
+ <div class="stack">
+  <div class="blk" id="b1" style="background:var(--ink);color:#fff"><i>01</i>Material<small>BOM</small></div>
+  <div class="blk" id="b2" style="background:var(--red);color:#fff"><i>02</i>Labour<small>HOURS × RATE</small></div>
+  <div class="blk" id="b3" style="background:#fff;border:4px solid var(--ink)"><i>03</i>Setup &amp; outside work<small></small></div>
+  <div class="blk" id="b4" style="background:var(--yel);box-shadow:12px 12px 0 var(--ink)"><i>04</i>Margin<small>ON TOP</small></div>
+ </div>
+ <div class="match" id="m1" style="align-self:flex-start;margin-top:60px;font-size:60px">= Your price</div>
+</div>
+
+<div class="scene" id="s2">
+ <div class="num">01</div><div class="disp" style="font-size:132px">Material <span class="hl">from the BOM.</span></div>
+ <div class="flow">
+  <div class="fl" id="f1"><b>1</b>Each component</div><div class="dn" id="d1"></div>
+  <div class="fl" id="f2"><b>2</b>Qty per unit</div><div class="dn" id="d2"></div>
+  <div class="fl" id="f3" style="border-color:var(--red)"><b style="background:var(--red)">3</b>+ Scrap allowance</div><div class="dn" id="d3"></div>
+  <div class="fl" id="f4" style="background:var(--ink);color:#fff"><b style="background:var(--yel);color:var(--ink)">4</b>Today's cost</div>
+ </div>
+ <div class="person" id="p2" style="width:440px;height:600px"><img src="check.png" style="left:0;width:440px"></div>
+</div>
+
+<div class="scene" id="s3">
+ <div class="num">02</div><div class="disp" style="font-size:132px">Labour <span class="red">= hours × rate.</span></div>
+ <div class="wage" id="wg">Wage per hour</div>
+ <div class="k" id="k3" style="margin-top:44px;font-size:30px">THE SHOP RATE RECOVERS</div>
+ <div class="ovh">
+  <div class="ov" id="o1"><span id="ob1" style="width:330px;background:var(--ink)"></span>Direct labour</div>
+  <div class="ov" id="o2"><span id="ob2" style="width:240px;background:var(--red)"></span>Fixed overhead</div>
+  <div class="ov" id="o3"><span id="ob3" style="width:170px;background:var(--yel)"></span>Variable overhead</div>
+ </div>
+ <div class="match" id="m3" style="font-size:64px;align-self:flex-start;margin-top:60px">= Your shop rate</div>
+</div>
+
+<div class="scene" id="s4">
+ <div class="disp" style="font-size:150px">The <span class="hl">trap.</span></div>
+ <div><div class="badge" id="nt" style="position:relative;display:inline-block;margin-top:36px;font-size:46px;background:var(--red)">NOT THE SAME NUMBER</div></div>
+ <div class="vs">
+  <div class="card" id="v1"><div class="k">MARKUP</div><b>Profit ÷ <span class="red">cost</span></b></div>
+  <div class="card" id="v2" style="background:var(--ink);color:#fff;border-color:var(--ink)"><div class="k" style="color:#9ca3af">MARGIN</div><b>Profit ÷ <span style="color:var(--yel)">price</span></b></div>
+ </div>
+ <div class="person" id="p4" style="width:440px;height:500px;right:-50px"><img src="shrug.png" style="left:0;width:440px"></div>
+</div>
+
+<div class="scene" id="s5">
+ <div><span class="ex" id="ex5">EXAMPLE</span></div>
+ <div class="disp" style="font-size:112px;margin-top:24px">Same 35%. <span class="red">Two prices.</span></div>
+ <div class="k" id="k5" style="margin-top:30px;font-size:32px">COST PER UNIT: $141.99</div>
+ <div class="bars">
+  <div class="br" id="br1"><div class="lab"><span>35% markup</span><span style="color:#6b7280">cost × 1.35</span></div><div class="trk"><div class="fill" id="fa" style="background:#6b7280;width:0">$<span id="na">0</span></div></div></div>
+  <div class="br" id="br2"><div class="lab"><span>35% margin</span><span style="color:#6b7280">cost ÷ 0.65</span></div><div class="trk"><div class="fill" id="fb" style="background:var(--red);width:0">$<span id="nb">0</span></div></div></div>
+ </div>
+ <div class="diff" id="df">$26.76 a unit apart</div>
+</div>
+
+<div class="scene" id="s6">
+ <div class="num">03</div><div class="disp" style="font-size:124px">Setup <span class="hl">per batch.</span></div>
+ <div style="margin-top:30px"><span class="ex" id="ex6">EXAMPLE · $78 SETUP</span></div>
+ <div class="bt">
+  <div class="card" id="c12"><div class="k">BATCH OF 12</div><b class="red">$<span id="u12">0.00</span></b><div class="k">PER UNIT</div><div class="boxes" id="bx12"></div></div>
+  <div class="card" id="c100"><div class="k">BATCH OF 100</div><b>$<span id="u100">0.00</span></b><div class="k">PER UNIT</div><div class="boxes" id="bx100"></div></div>
+ </div>
+ <div class="match" id="m6" style="font-size:60px;align-self:flex-start;margin-top:60px">Quote the real batch size</div>
+</div>
+
+<div class="scene" id="s7">
+ <div class="disp" style="font-size:124px">Quote where <span class="hl">jobs live.</span></div>
+ <div class="loop">
+  <div class="lp" id="l1" style="left:0;top:0;background:var(--ink);color:#fff"><small>1</small>Quote</div>
+  <div class="ln" id="la" style="left:250px;top:62px;height:10px;width:0"></div>
+  <div class="lp" id="l2" style="left:300px;top:0;background:#fff;border:4px solid var(--ink)"><small>2</small>Order</div>
+  <div class="ln" id="lb" style="left:420px;top:150px;width:10px;height:0"></div>
+  <div class="lp" id="l3" style="left:300px;top:280px;background:#fff;border:4px solid var(--ink)"><small>3</small>Job</div>
+  <div class="ln" id="lc" style="left:250px;top:342px;height:10px;width:0;transform-origin:right;"></div>
+  <div class="lp" id="l4" style="left:0;top:280px;background:var(--red);color:#fff"><small>4</small>Real cost</div>
+  <div class="ln" id="ld" style="left:120px;top:150px;width:10px;height:0;background:var(--red)"></div>
+ </div>
+ <div class="badge" id="cmp" style="left:0;top:1020px;font-size:50px">COMPARE · IMPROVE</div>
+ <div class="person" id="p7" style="width:400px;height:620px"><img src="cross.png" style="left:0;width:400px"></div>
+</div>
+
+<div class="scene" id="s8">
+ <div class="disp" style="font-size:124px">Margin or markup? <span class="hl">Which do you use?</span></div>
+ <div class="disp" style="font-size:90px;margin-top:50px">Comment <span class="red">below ↓</span></div>
+ <div class="k" id="k8" style="margin-top:90px;font-size:34px">THE FULL GUIDE</div>
+ <div class="url2" id="u8">zudoworks.com/<span class="red">insights</span></div>
+ <div><div class="btn" id="sv" style="font-size:52px;margin-top:60px">Save this for your next quote</div></div>
+</div>
+
+<div id="wipe"><i id="w1"></i><i id="w2"></i></div>
+<div class="cap" id="cap"></div>
+<div class="url">zudoworks.com/insights</div>
+<script>
+if(location.search.includes('nopeople')){const st=document.createElement('style');st.textContent='.person{display:none!important}';document.head.appendChild(st)}
+const TL=window.TL||[];const $=id=>document.getElementById(id);
+const cl=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const eo=x=>1-Math.pow(1-cl(x),3);
+const back=x=>{x=cl(x);const c1=1.9,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)};
+const scenes=[...document.querySelectorAll('.scene')];
+// split headline text into masked words
+document.querySelectorAll('.disp').forEach(d=>{
+ const walk=n=>{[...n.childNodes].forEach(c=>{if(c.nodeType===3){const f=document.createDocumentFragment();c.textContent.split(/(\s+)/).forEach(w=>{if(!w)return;if(/^\s+$/.test(w)){f.appendChild(document.createTextNode(' '));return}const m=document.createElement('span');m.className='wm';const i=document.createElement('span');i.className='wi';i.textContent=w;m.appendChild(i);f.appendChild(m)});c.replaceWith(f)}else if(c.nodeType===1)walk(c)})};walk(d)});
+const sceneWords=scenes.map(s=>[...s.querySelectorAll('.wi')]);
+const sceneHL=scenes.map(s=>[...s.querySelectorAll('.hl')]);
+const pop=(el,p,dy=60)=>{if(!el)return;const e=back(p);el.style.opacity=cl(p*2);el.style.transform=`translateY(${(1-e)*dy}px) scale(${.85+.15*e})`};
+const slideR=(el,p)=>{if(!el)return;const e=back(p);el.style.opacity=cl(p*3);el.style.transform=`translateX(${(1-e)*420}px) rotate(${(1-e)*8}deg)`};
+let capLine=-1,capWords=[];
+function caption(t){
+ const i=TL.findIndex(l=>t>=l.start-0.05&&t<l.end+0.3);const cap=$('cap');
+ if(i<0){cap.innerHTML='';capLine=-1;return}
+ const L=TL[i];
+ if(i!==capLine){capLine=i;capWords=L.text.split(' ');cap.innerHTML=capWords.map(w=>`<span>${w}</span>`).join(' ')}
+ const p=cl((t-L.start)/(L.end-L.start));const n=Math.min(capWords.length,Math.floor(p*capWords.length));
+ [...cap.children].forEach((s,k)=>{s.classList.toggle('on',k<n);s.classList.toggle('now',k===n&&p<1);const a=k===n?1.08:1;s.style.transform=`scale(${a})`});
+}
+const bounds=()=>scenes.map((s,i)=>[(TL[i]?TL[i].start:0)-0.25,(TL[i+1]?TL[i+1].start:1e9)-0.25]);
+window.render=function(t,T){
+ const B=bounds();
+ $('bar').style.width=(cl(t/T)*100)+'%';
+ $('grid').style.transform=`translateY(${(t*30)%120}px)`;
+ // scenes: hard cut under the wipe
+ scenes.forEach((s,i)=>{const [st,en]=B[i];const on=(i===0?t<en:t>=st&&t<en);s.style.display=on?'flex':'none';
+  if(on){const lt=t-st;const z=1.07-0.07*eo(lt/0.9)-0.012*cl((lt-0.9)/6);s.style.transform=`scale(${z})`;
+   sceneWords[i].forEach((w,k)=>{const p=(lt-0.12-k*0.07)/0.5;const e=back(p);w.style.transform=`translateY(${(1-e)*105}%)`});
+   sceneHL[i].forEach(h=>{h.style.backgroundSize=`${eo((lt-0.12-sceneWords[i].length*0.07-0.1)/0.45)*100}% 34%`});}});
+ // wipe at each scene boundary (yellow then ink panel sweep)
+ let w1=-110,w2=-110;
+ for(let i=1;i<B.length;i++){const b=B[i][0];const d=t-b;if(d>-0.32&&d<0.32){const a=eo((d+0.32)/0.3),c=eo((d)/0.3);w1=(d<0?-100+100*a:100*c);w2=(d<0?-100+100*eo((d+0.26)/0.26):100*eo((d+0.04)/0.28));}}
+ $('w1').style.transform=`translateX(${w1}%)`;$('w2').style.transform=`translateX(${w2}%)`;
+ const lt=i=>t-B[i][0];
+ const cnt=(el,v,p,d=2)=>{el.textContent=(v*eo(p)).toLocaleString('en-GB',{minimumFractionDigits:d,maximumFractionDigits:d})};
+ // people
+ [['p0',0],['p2',2],['p4',4],['p7',7]].forEach(([id,i])=>{const e=$(id);slideR(e,(lt(i)-0.45)/0.55);if(lt(i)>1)e.style.transform+=` translateY(${Math.sin(t*2.2)*5}px)`});
+ // s0
+ pop($('sub0'),(lt(0)-1.2)/0.4);pop($('q0'),(lt(0)-1.8)/0.4,80);cnt($('qp0'),218.45,(lt(0)-2.0)/1.2);
+ // s1
+ pop($('m1'),(lt(1)-3.6)/0.35,40);
+ ['b1','b2','b3','b4'].forEach((id,k)=>{const e=$(id);const p=(lt(1)-0.9-k*0.62)/0.4;const b=back(p);e.style.opacity=cl(p*2);e.style.transform=`translateX(${(1-b)*-300}px)`});
+ // s2
+ ['f1','f2','f3','f4'].forEach((id,k)=>pop($(id),(lt(2)-0.9-k*0.6)/0.35,40));
+ ['d1','d2','d3'].forEach((id,k)=>{$(id).style.transform=`scaleY(${eo((lt(2)-1.2-k*0.6)/0.3)})`});
+ // s3
+ pop($('wg'),(lt(3)-0.7)/0.3,30);$('wg').style.setProperty('--s',(eo((lt(3)-1.9)/0.35)*110)+'%');
+ pop($('k3'),(lt(3)-2.3)/0.3,20);
+ ['1','2','3'].forEach((k,j)=>{const p=(lt(3)-2.5-j*0.4)/0.4;$('o'+k).style.opacity=cl(p*3);$('ob'+k).style.transform=`scaleX(${eo(p)})`});
+ pop($('m3'),(lt(3)-3.9)/0.35,40);
+ // s4
+ pop($('v1'),(lt(4)-1.5)/0.35,50);pop($('v2'),(lt(4)-2.0)/0.35,50);
+ {const p=(lt(4)-0.7)/0.3;const e=back(p);$('nt').style.opacity=cl(p*3);$('nt').style.transform=`scale(${0.3+0.7*e}) rotate(-3deg)`}
+ // s5
+ pop($('ex5'),(lt(5)-0.1)/0.3,20);pop($('k5'),(lt(5)-1.0)/0.3,20);
+ {const pa=(lt(5)-1.8)/1.6,pb=(lt(5)-5.0)/1.6;
+  $('br1').style.opacity=cl((lt(5)-1.4)*3);$('br2').style.opacity=cl((lt(5)-4.6)*3);
+  $('fa').style.width=(eo(pa)*191.69/218.45*100)+'%';$('fb').style.width=(eo(pb)*100)+'%';
+  cnt($('na'),191.69,pa);cnt($('nb'),218.45,pb);}
+ {const p=(lt(5)-7.0)/0.35;const e=back(p);$('df').style.opacity=cl(p*3);$('df').style.transform=`scale(${0.4+0.6*e}) rotate(${(1-e)*-6}deg)`}
+ // s6
+ pop($('ex6'),(lt(6)-0.3)/0.3,20);pop($('c12'),(lt(6)-0.7)/0.35,50);pop($('c100'),(lt(6)-1.0)/0.35,50);
+ cnt($('u12'),6.5,(lt(6)-1.0)/1.0);cnt($('u100'),0.78,(lt(6)-1.3)/1.0);
+ {const n12=Math.round(12*cl((lt(6)-1.0)/0.8)),n100=Math.round(100*cl((lt(6)-1.3)/1.2));
+  const b1=$('bx12'),b2=$('bx100');if(b1.children.length!==n12)b1.innerHTML='<s></s>'.repeat(n12);
+  if(b2.children.length!==n100)b2.innerHTML='<s style="width:22px;height:22px;border-radius:4px"></s>'.repeat(n100);}
+ pop($('m6'),(lt(6)-2.4)/0.35,40);
+ // s7
+ pop($('l1'),(lt(7)-0.8)/0.3,40);$('la').style.width=(eo((lt(7)-1.1)/0.3)*50)+'px';
+ pop($('l2'),(lt(7)-1.3)/0.3,40);$('lb').style.height=(eo((lt(7)-1.6)/0.3)*130)+'px';
+ pop($('l3'),(lt(7)-1.8)/0.3,40);{const w=eo((lt(7)-2.1)/0.3)*50;$('lc').style.width=w+'px';$('lc').style.left=(300-w)+'px'}
+ pop($('l4'),(lt(7)-2.3)/0.3,40);{const h=eo((lt(7)-2.6)/0.3)*130;$('ld').style.height=h+'px';$('ld').style.top=(280-h)+'px'}
+ {const p=(lt(7)-3.0)/0.3;const e=back(p);$('cmp').style.opacity=cl(p*3);$('cmp').style.transform=`scale(${0.3+0.7*e}) rotate(-4deg)`}
+ // s8
+ pop($('k8'),(lt(8)-1.3)/0.3,20);pop($('u8'),(lt(8)-1.5)/0.4,40);
+ {const p=(lt(8)-2.0)/0.4;pop($('sv'),p,40);if(lt(8)>2.6)$('sv').style.transform=`scale(${1+0.04*Math.max(0,Math.sin(t*Math.PI*2*124/60/2))})`}
+ caption(t);
+};
+</script>
+</body></html>

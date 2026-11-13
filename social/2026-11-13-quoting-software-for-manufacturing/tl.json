@@ -1,0 +1,47 @@
+[
+ {
+  "text": "A quote is a promise about cost, made before the job exists.",
+  "start": 0.35,
+  "end": 3.93
+ },
+ {
+  "text": "Every quote has four parts: material, labour, setup and margin.",
+  "start": 4.37,
+  "end": 8.49
+ },
+ {
+  "text": "Material comes from the bill of materials, scrap included, at today's cost.",
+  "start": 8.93,
+  "end": 13.13
+ },
+ {
+  "text": "Labour is hours times a shop rate, not the wage. The rate must recover overheads.",
+  "start": 13.57,
+  "end": 18.42
+ },
+ {
+  "text": "Now the trap. Margin and markup are different numbers.",
+  "start": 18.86,
+  "end": 22.29
+ },
+ {
+  "text": "Example: on a $141.99 cost, a 35% markup gives $191.69. A 35% margin gives $218.45.",
+  "start": 22.73,
+  "end": 31.29
+ },
+ {
+  "text": "Spread setup over the real batch, or small batches lose money.",
+  "start": 31.73,
+  "end": 35.14
+ },
+ {
+  "text": "For most small job shops, quote where jobs and stock live, so each quote meets its real cost.",
+  "start": 35.58,
+  "end": 41.25
+ },
+ {
+  "text": "Read the full guide at zudoworks.com",
+  "start": 41.69,
+  "end": 44.42
+ }
+]
