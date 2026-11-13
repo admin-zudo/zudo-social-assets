@@ -1,6 +1,7 @@
 {
  "processed": [
-  "https://zudoworks.com/insights/manufacturing-operating-system-mos-vs-mes-erp/"
+  "https://zudoworks.com/insights/manufacturing-operating-system-mos-vs-mes-erp/",
+  "https://zudoworks.com/insights/quoting-software-for-manufacturing/"
  ],
  "waves": [
   {
@@ -29,8 +30,7 @@
    "status": "partial: LinkedIn videos posted on Arun's request; Instagram Reel failed (Make Instagram token invalidated); Facebook Reel and carousels pending",
    "pending": [
     "instagram_reel",
-    "facebook_reel",
-    "carousels"
+    "facebook_reel"
    ],
    "backfill_done": true,
    "backfill": {
@@ -41,7 +41,97 @@
     ],
     "page_commit": "eb649fe",
     "note": "Instagram/Facebook Reels and carousels still pending; add their links when posted"
+   },
+   "zoho_published_later": {
+    "instagram_carousel": "https://www.instagram.com/p/DfqPymeiKi2/",
+    "facebook_carousel": "https://www.facebook.com/122101071603452243/posts/122126289321452243",
+    "linkedin_page_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526789422013472768",
+    "linkedin_profile_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526789420616822784",
+    "threads": "https://www.threads.com/@zudo_works/post/DfqQKg1COzi",
+    "mastodon": "https://mastodon.social/@zudoworks/117606092518249701"
+   },
+   "backfill2": {
+    "date": "2026-11-13",
+    "links_added": [
+     "instagram_carousel",
+     "facebook_carousel",
+     "linkedin_page_carousel",
+     "linkedin_profile_carousel",
+     "threads",
+     "mastodon"
+    ],
+    "page_commit": "8d77f54"
    }
+  },
+  {
+   "date": "2026-11-13",
+   "slug": "quoting-software-for-manufacturing",
+   "url": "https://zudoworks.com/insights/quoting-software-for-manufacturing/",
+   "released_at": "2026-11-13T02:56:50+05:30",
+   "assets": "social/2026-11-13-quoting-software-for-manufacturing/",
+   "assets_commit": "389c8c7d98095b0abd2e4902bb9cdff97e78ecfa",
+   "youtube": {
+    "video": "LkiR8QpW8vo",
+    "short": "YlvTcVWFQ4w"
+   },
+   "page_video_added": true,
+   "page_commit": "e83071a",
+   "make_posts": {
+    "facebook_reel": {
+     "id": "1338314956024652_122126371617452243",
+     "url": "https://www.facebook.com/reel/1506440797972024/"
+    },
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7526972955034275840",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526972955034275840"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7526973022092693505",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526973022092693505"
+    },
+    "instagram_reel": {
+     "execution": "41735b789a8545a6955f87b4eab36ce0",
+     "status": "Make reported success but no Reel appeared on Instagram"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000099006",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000099016",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000099026",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000099036",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000098005",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000096006",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000099046",
+     "time_ist": "22:05",
+     "note": "call_to_action rejected by validate (EXTRA_KEY_FOUND_IN_JSON); link_preview used"
+    }
+   },
+   "geo_tags": "none: Zoho geolocation search returned no city locations for Instagram or Facebook",
+   "status": "YouTube video and Short, Facebook Reel, LinkedIn page and profile videos posted; 7 carousels scheduled; Instagram Reel missing",
+   "pending": [
+    "instagram_reel",
+    "carousel_links_backfill"
+   ],
+   "backfill_done": false
   }
  ],
  "runs": [
@@ -49,6 +139,18 @@
    "date": "2026-11-12",
    "time_ist": "16:5x",
    "result": "no new article; back-fill of 2 LinkedIn links only; no wave"
+  },
+  {
+   "date": "2026-11-13",
+   "time_ist": "17:2x",
+   "result": "wave for quoting-software-for-manufacturing; back-filled 6 MOS links"
+  }
+ ],
+ "skipped": [
+  {
+   "url": "https://zudoworks.com/insights/zoho-creator-vs-bubble/",
+   "released_at": "2026-11-12T17:56:50+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-13; one wave per day"
   }
  ]
 }
