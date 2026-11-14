@@ -1,0 +1,47 @@
+[
+ {
+  "text": "Zoho CRM to ChatGPT? Five ways, not one.",
+  "start": 0.35,
+  "end": 4.53
+ },
+ {
+  "text": "Two bring CRM data into ChatGPT. Three bring OpenAI into Zoho.",
+  "start": 4.97,
+  "end": 10.48
+ },
+ {
+  "text": "One: the Zoho CRM plugin. Install, sign in, ask about your deals.",
+  "start": 10.92,
+  "end": 15.16
+ },
+ {
+  "text": "Two: a Zoho MCP server. You pick every tool it may use.",
+  "start": 15.6,
+  "end": 19.59
+ },
+ {
+  "text": "Three: OpenAI inside Zia, for drafts and summaries in the CRM.",
+  "start": 20.03,
+  "end": 24.73
+ },
+ {
+  "text": "Four: Zoho Flow. A new lead starts an AI step, with no code.",
+  "start": 25.17,
+  "end": 29.5
+ },
+ {
+  "text": "Five: a Deluge function. Your prompt, your fields, your checks.",
+  "start": 29.94,
+  "end": 33.61
+ },
+ {
+  "text": "Whichever you choose, start read-only. Confirm every change.",
+  "start": 34.05,
+  "end": 37.86
+ },
+ {
+  "text": "Read the full guide at zudoworks.com",
+  "start": 38.3,
+  "end": 41.03
+ }
+]
