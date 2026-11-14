@@ -1,7 +1,8 @@
 {
  "processed": [
   "https://zudoworks.com/insights/manufacturing-operating-system-mos-vs-mes-erp/",
-  "https://zudoworks.com/insights/quoting-software-for-manufacturing/"
+  "https://zudoworks.com/insights/quoting-software-for-manufacturing/",
+  "https://zudoworks.com/insights/connect-zoho-crm-to-chatgpt/"
  ],
  "waves": [
   {
@@ -128,7 +129,90 @@
    "geo_tags": "none: Zoho geolocation search returned no city locations for Instagram or Facebook",
    "status": "YouTube video and Short, Facebook Reel, LinkedIn page and profile videos posted; 7 carousels scheduled; Instagram Reel missing",
    "pending": [
-    "instagram_reel",
+    "instagram_reel"
+   ],
+   "backfill_done": true,
+   "backfill": {
+    "date": "2026-11-14",
+    "links_added": [
+     "instagram_carousel",
+     "facebook_carousel",
+     "linkedin_page_carousel",
+     "linkedin_profile_carousel",
+     "threads",
+     "mastodon"
+    ],
+    "page_commit": "9e18395",
+    "note": "Instagram Reel never appeared; Google Business link not added (not used on pages)"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "slug": "connect-zoho-crm-to-chatgpt",
+   "url": "https://zudoworks.com/insights/connect-zoho-crm-to-chatgpt/",
+   "released_at": "2026-11-14T02:55:40+05:30",
+   "assets": "social/2026-11-14-connect-zoho-crm-to-chatgpt/",
+   "assets_commit": "db11e05",
+   "youtube": {
+    "video": "wTi7OKZJ-mc",
+    "short": "SNvrxF6zAbc"
+   },
+   "page_video_added": true,
+   "page_commit": "4600cb8",
+   "page_links_commit": "4af05fd",
+   "make_posts": {
+    "instagram_reel": {
+     "execution": "66114c44b98940cd9487eb8db536a55c",
+     "url": "https://www.instagram.com/reel/DfuIFOpHN5q/"
+    },
+    "facebook_reel": {
+     "id": "1338314956024652_122126552043452243",
+     "url": "https://www.facebook.com/reel/1842988113401586/"
+    },
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7527336569570152448",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527336569570152448"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7527336633680121856",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527336633680121856"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000098020",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000099058",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000098030",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000096020",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000097013",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000096030",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000098040",
+     "time_ist": "22:05",
+     "note": "call_to_action rejected again (EXTRA_KEY_FOUND_IN_JSON); link_preview used"
+    }
+   },
+   "geo_tags": "none: getSocialGeolocations returned REQUIRED_PARAM_MISSING",
+   "lighthouse_seo": 100,
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
+   "pending": [
     "carousel_links_backfill"
    ],
    "backfill_done": false
@@ -144,6 +228,11 @@
    "date": "2026-11-13",
    "time_ist": "17:2x",
    "result": "wave for quoting-software-for-manufacturing; back-filled 6 MOS links"
+  },
+  {
+   "date": "2026-11-14",
+   "time_ist": "16:5x-17:5x",
+   "result": "wave for connect-zoho-crm-to-chatgpt; back-filled 6 quoting links"
   }
  ],
  "skipped": [
@@ -151,6 +240,11 @@
    "url": "https://zudoworks.com/insights/zoho-creator-vs-bubble/",
    "released_at": "2026-11-12T17:56:50+05:30",
    "reason": "not the newest unprocessed release on 2026-11-13; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/machine-shop-erp-comparison/",
+   "released_at": "2026-11-13T18:03:29+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-14; one wave per day"
   }
  ]
 }
