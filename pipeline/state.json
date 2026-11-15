@@ -212,10 +212,29 @@
    "geo_tags": "none: getSocialGeolocations returned REQUIRED_PARAM_MISSING",
    "lighthouse_seo": 100,
    "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
-   "pending": [
-    "carousel_links_backfill"
-   ],
-   "backfill_done": false
+   "pending": [],
+   "backfill_done": true,
+   "zoho_published": {
+    "instagram_carousel": "https://www.instagram.com/p/DfuU3llje6N/",
+    "facebook_carousel": "https://www.facebook.com/122101071603452243/posts/122126576709452243",
+    "linkedin_page_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527371037664153600",
+    "linkedin_profile_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527378585947451392",
+    "threads": "https://www.threads.com/@zudo_works/post/Dfuityajbrj",
+    "mastodon": "https://mastodon.social/@zudoworks/117615644246933390"
+   },
+   "backfill": {
+    "date": "2026-11-15",
+    "links_added": [
+     "instagram_carousel",
+     "facebook_carousel",
+     "linkedin_page_carousel",
+     "linkedin_profile_carousel",
+     "threads",
+     "mastodon"
+    ],
+    "page_commit": "d63fea2",
+    "note": "Google Business link not added (not used on pages)"
+   }
   }
  ],
  "runs": [
@@ -233,6 +252,11 @@
    "date": "2026-11-14",
    "time_ist": "16:5x-17:5x",
    "result": "wave for connect-zoho-crm-to-chatgpt; back-filled 6 quoting links"
+  },
+  {
+   "date": "2026-11-15",
+   "time_ist": "16:5x-17:1x",
+   "result": "Sunday: no wave (no build, no posting); back-filled 6 carousel links for connect-zoho-crm-to-chatgpt. erp-implementation-timeline-manufacturing (released 2026-11-15T02:47:50+05:30) and deluge-for-each-while-loop left unprocessed for Monday"
   }
  ],
  "skipped": [
