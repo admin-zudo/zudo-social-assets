@@ -1,0 +1,47 @@
+[
+ {
+  "text": "Zoho to Claude? Five routes, not one.",
+  "start": 0.35,
+  "end": 3.27
+ },
+ {
+  "text": "Two routes bring Zoho data into Claude. Three put Claude to work inside Zoho.",
+  "start": 3.71,
+  "end": 8.41
+ },
+ {
+  "text": "No. 1: Zoho's own connectors in Claude's directory. Fast, but some tools delete records.",
+  "start": 8.85,
+  "end": 14.46
+ },
+ {
+  "text": "No. 2: your own Zoho MCP server. Only the tools you choose.",
+  "start": 14.9,
+  "end": 19.31
+ },
+ {
+  "text": "No. 3: an Anthropic key in Zia Agents or Zoho Creator.",
+  "start": 19.75,
+  "end": 23.7
+ },
+ {
+  "text": "No. 4: Zoho Flow. A new lead sends text to Claude, with no code.",
+  "start": 24.14,
+  "end": 28.83
+ },
+ {
+  "text": "No. 5: a Deluge function that calls the Claude API. Full control.",
+  "start": 29.27,
+  "end": 34.12
+ },
+ {
+  "text": "Whichever you choose, start read-only. Keep every change behind an approval.",
+  "start": 34.56,
+  "end": 39.1
+ },
+ {
+  "text": "Read the full guide at zudoworks.com",
+  "start": 39.54,
+  "end": 42.27
+ }
+]

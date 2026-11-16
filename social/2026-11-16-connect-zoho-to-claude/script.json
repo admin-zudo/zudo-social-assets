@@ -1,0 +1,11 @@
+{"lines":[
+{"say":"Zoho to Claude? Five routes, not one.","show":"Zoho to Claude? Five routes, not one."},
+{"say":"Two routes bring Zoho data into Claude. Three put Claude to work inside Zoho.","show":"Two routes bring Zoho data into Claude. Three put Claude to work inside Zoho."},
+{"say":"Number one, Zoho's own connectors in Claude's directory. Fast, but some tools delete records.","show":"No. 1: Zoho's own connectors in Claude's directory. Fast, but some tools delete records."},
+{"say":"Number two, your own Zoho MCP server. Only the tools you choose.","show":"No. 2: your own Zoho MCP server. Only the tools you choose."},
+{"say":"Number three, an Anthropic key in Zeeya Agents or Zoho Creator.","show":"No. 3: an Anthropic key in Zia Agents or Zoho Creator."},
+{"say":"Number four, Zoho Flow. A new lead sends text to Claude, with no code.","show":"No. 4: Zoho Flow. A new lead sends text to Claude, with no code."},
+{"say":"Number five, a Deluge function that calls the Claude API. Full control.","show":"No. 5: a Deluge function that calls the Claude API. Full control."},
+{"say":"Whichever you choose, start read only. Keep every change behind an approval.","show":"Whichever you choose, start read-only. Keep every change behind an approval."},
+{"say":"Read the full guide at Zoo doe works dot com.","show":"Read the full guide at zudoworks.com"}
+]}
