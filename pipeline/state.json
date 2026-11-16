@@ -2,7 +2,8 @@
  "processed": [
   "https://zudoworks.com/insights/manufacturing-operating-system-mos-vs-mes-erp/",
   "https://zudoworks.com/insights/quoting-software-for-manufacturing/",
-  "https://zudoworks.com/insights/connect-zoho-crm-to-chatgpt/"
+  "https://zudoworks.com/insights/connect-zoho-crm-to-chatgpt/",
+  "https://zudoworks.com/insights/connect-zoho-to-claude/"
  ],
  "waves": [
   {
@@ -235,6 +236,84 @@
     "page_commit": "d63fea2",
     "note": "Google Business link not added (not used on pages)"
    }
+  },
+  {
+   "date": "2026-11-16",
+   "slug": "connect-zoho-to-claude",
+   "url": "https://zudoworks.com/insights/connect-zoho-to-claude/",
+   "released_at": "2026-11-16T03:11:59+05:30",
+   "assets": "social/2026-11-16-connect-zoho-to-claude/",
+   "assets_commit": "0909a4e",
+   "youtube": {
+    "video": "XHqRobNwp7E",
+    "short": "BNjsnyT3pGs"
+   },
+   "page_video_added": true,
+   "page_commit": "2083e77",
+   "page_links_commit": "aab4ae8",
+   "make_posts": {
+    "instagram_reel": {
+     "url": "https://www.instagram.com/reel/DfzQWKaDyOM/",
+     "id": "18124930012734368",
+     "duplicate": {
+      "url": "https://www.instagram.com/reel/DfzQ1O_k0Kx/",
+      "id": "18113481605080535",
+      "note": "first Make run reported an OAuthException error but had posted; the retry posted again. Arun asked to delete this duplicate"
+     }
+    },
+    "facebook_reel": {
+     "id": "1338314956024652_122126873685452243",
+     "url": "https://www.facebook.com/reel/1805925170699076/"
+    },
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7528058968263249920",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528058968263249920"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7528059038274826242",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528059038274826242"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000099074",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000096046",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000096056",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000098049",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000099085",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000096066",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000098059",
+     "time_ist": "22:05",
+     "note": "link_preview used (call_to_action rejected on earlier runs)"
+    }
+   },
+   "geo_tags": "none: getSocialGeolocations returned REQUIRED_PARAM_MISSING",
+   "people_images": "none: Hugging Face ZeroGPU quota exhausted; carousel and video built in a no-people layout (v916_np identical to v916)",
+   "lighthouse_seo": 100,
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
+   "pending": [
+    "backfill carousel links tomorrow",
+    "delete duplicate Instagram Reel DfzQ1O_k0Kx"
+   ],
+   "backfill_done": false
   }
  ],
  "runs": [
@@ -257,6 +336,11 @@
    "date": "2026-11-15",
    "time_ist": "16:5x-17:1x",
    "result": "Sunday: no wave (no build, no posting); back-filled 6 carousel links for connect-zoho-crm-to-chatgpt. erp-implementation-timeline-manufacturing (released 2026-11-15T02:47:50+05:30) and deluge-for-each-while-loop left unprocessed for Monday"
+  },
+  {
+   "date": "2026-11-16",
+   "time_ist": "16:4x-17:1x",
+   "result": "wave for connect-zoho-to-claude; no back-fill due (previous article already back-filled); no people images (HF quota)"
   }
  ],
  "skipped": [
@@ -269,6 +353,21 @@
    "url": "https://zudoworks.com/insights/machine-shop-erp-comparison/",
    "released_at": "2026-11-13T18:03:29+05:30",
    "reason": "not the newest unprocessed release on 2026-11-14; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/zoho-creator-vs-caspio/",
+   "released_at": "2026-11-15T17:54:34+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-16; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/erp-implementation-timeline-manufacturing/",
+   "released_at": "2026-11-15T02:47:50+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-16; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/deluge-for-each-while-loop/",
+   "released_at": "2026-11-14T17:57:04+05:30",
+   "reason": "older than 48 hours on 2026-11-16"
   }
  ]
 }
