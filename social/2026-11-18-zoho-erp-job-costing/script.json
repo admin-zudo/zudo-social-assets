@@ -1,0 +1,11 @@
+{"lines":[
+{"say":"Does Zoho E R P do job costing? Not by that name.","show":"Does Zoho ERP do job costing? Not by that name."},
+{"say":"It costs each manufacturing order. Components, plus operations.","show":"It costs each manufacturing order: components, plus operations."},
+{"say":"Cost templates price each operation. Each line is a fixed amount, or an hourly rate.","show":"Cost templates price each operation: each line a fixed amount or an hourly rate."},
+{"say":"Job card time turns the hourly lines into labour cost.","show":"Job card time turns the hourly lines into labour cost."},
+{"say":"A Cost Overview shows estimated against actual on a completed order.","show":"A Cost Overview shows estimated against actual on a completed order."},
+{"say":"The catch. Zoho has no version for the U S, U K, Australia or New Zealand. And it is not in Zoho One.","show":"The catch: no version for the US, UK, Australia or New Zealand. And it is not in Zoho One."},
+{"say":"Other Zoho apps can't cost a production job, with material and labour together.","show":"Other Zoho apps can't cost a production job with material and labour together."},
+{"say":"Zed moss costs the job itself. Material issued, less returns, plus hours at your rate.","show":"ZMOS costs the job itself: material issued, less returns, plus hours at your rate."},
+{"say":"Read the full guide at Zoo doe works dot com.","show":"Read the full guide at zudoworks.com"}
+]}

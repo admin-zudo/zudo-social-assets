@@ -1,0 +1,47 @@
+[
+ {
+  "text": "Does Zoho ERP do job costing? Not by that name.",
+  "start": 0.35,
+  "end": 4.43
+ },
+ {
+  "text": "It costs each manufacturing order: components, plus operations.",
+  "start": 4.87,
+  "end": 9.07
+ },
+ {
+  "text": "Cost templates price each operation: each line a fixed amount or an hourly rate.",
+  "start": 9.51,
+  "end": 14.76
+ },
+ {
+  "text": "Job card time turns the hourly lines into labour cost.",
+  "start": 15.2,
+  "end": 18.55
+ },
+ {
+  "text": "A Cost Overview shows estimated against actual on a completed order.",
+  "start": 18.99,
+  "end": 23.19
+ },
+ {
+  "text": "The catch: no version for the US, UK, Australia or New Zealand. And it is not in Zoho One.",
+  "start": 23.63,
+  "end": 30.86
+ },
+ {
+  "text": "Other Zoho apps can't cost a production job with material and labour together.",
+  "start": 31.3,
+  "end": 35.7
+ },
+ {
+  "text": "ZMOS costs the job itself: material issued, less returns, plus hours at your rate.",
+  "start": 36.14,
+  "end": 41.62
+ },
+ {
+  "text": "Read the full guide at zudoworks.com",
+  "start": 42.06,
+  "end": 44.79
+ }
+]
