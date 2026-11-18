@@ -3,7 +3,8 @@
   "https://zudoworks.com/insights/manufacturing-operating-system-mos-vs-mes-erp/",
   "https://zudoworks.com/insights/quoting-software-for-manufacturing/",
   "https://zudoworks.com/insights/connect-zoho-crm-to-chatgpt/",
-  "https://zudoworks.com/insights/connect-zoho-to-claude/"
+  "https://zudoworks.com/insights/connect-zoho-to-claude/",
+  "https://zudoworks.com/insights/zoho-erp-job-costing/"
  ],
  "waves": [
   {
@@ -310,8 +311,101 @@
    "lighthouse_seo": 100,
    "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
    "pending": [
-    "backfill carousel links tomorrow",
-    "delete duplicate Instagram Reel DfzQ1O_k0Kx"
+    "delete duplicate Instagram Reel DfzQ1O_k0Kx (still live on 2026-11-18)"
+   ],
+   "backfill_done": true,
+   "backfill": {
+    "date": "2026-11-18",
+    "links_added": [
+     "instagram_carousel",
+     "facebook_carousel",
+     "linkedin_page_carousel",
+     "linkedin_profile_carousel",
+     "threads",
+     "mastodon"
+    ],
+    "page_commit": "906bdc4",
+    "note": "Google Business link not added (not used on pages)"
+   },
+   "zoho_published": {
+    "instagram_carousel": "https://www.instagram.com/p/DfzedsVDQVP/",
+    "facebook_carousel": "https://www.facebook.com/122101071603452243/posts/122126905857452243",
+    "linkedin_page_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528095814951419904",
+    "linkedin_profile_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528103361212993538",
+    "threads": "https://www.threads.com/@zudo_works/post/DfzsT3tDeol",
+    "mastodon": "https://mastodon.social/@zudoworks/117626968959682465"
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "slug": "zoho-erp-job-costing",
+   "url": "https://zudoworks.com/insights/zoho-erp-job-costing/",
+   "released_at": "2026-11-16T18:10:22+05:30",
+   "assets": "social/2026-11-18-zoho-erp-job-costing/",
+   "assets_commit": "069d3c1",
+   "youtube": {
+    "video": "cnxJgimyCeQ",
+    "short": "TtF2mo2Ddt0"
+   },
+   "page_video_added": true,
+   "page_commit": "b832d34",
+   "page_links_commit": "71bf25b",
+   "make_posts": {
+    "instagram_reel": {
+     "id": "18184566700442367",
+     "url": "https://www.instagram.com/reel/Df4aOG8kx5v/"
+    },
+    "facebook_reel": {
+     "id": "1338314956024652_122127240783452243",
+     "url": "https://www.facebook.com/reel/1719979966212406/"
+    },
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7528784167799762944",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528784167799762944"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7528784243007610880",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528784243007610880"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000096083",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000102005",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000097034",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000097044",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000098074",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000102015",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000098084",
+     "time_ist": "22:05",
+     "note": "link_preview used"
+    }
+   },
+   "geo_tags": "none: getSocialGeolocations returned REQUIRED_PARAM_MISSING",
+   "people_images": "2 of 4 (HF ZeroGPU quota ran out after two); people used on slides 1, 2, 4 and video scenes 0, 3, 8",
+   "lighthouse_seo": 100,
+   "live_check": "WebFetch blocked from sandbox (zudoworks.com not in allowed domains); Lighthouse mobile SEO 100, no failed SEO checks",
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
+   "pending": [
+    "backfill carousel links tomorrow"
    ],
    "backfill_done": false
   }
@@ -341,6 +435,11 @@
    "date": "2026-11-16",
    "time_ist": "16:4x-17:1x",
    "result": "wave for connect-zoho-to-claude; no back-fill due (previous article already back-filled); no people images (HF quota)"
+  },
+  {
+   "date": "2026-11-18",
+   "time_ist": "16:4x-17:2x",
+   "result": "wave for zoho-erp-job-costing (released 2026-11-16 evening; no newer release in 48 h); back-filled 6 carousel links for connect-zoho-to-claude"
   }
  ],
  "skipped": [
