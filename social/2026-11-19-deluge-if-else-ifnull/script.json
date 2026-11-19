@@ -1,0 +1,40 @@
+{
+"lines": [
+{
+"say": "One Deluge condition. Two different answers.",
+"show": "One Deluge condition. Two different answers."
+},
+{
+"say": "Deluge has if, else if, and else. The first true test wins. The rest are skipped.",
+"show": "Deluge has if, else if and else. The first true test wins; the rest are skipped."
+},
+{
+"say": "So put the narrowest test first. Or the later branches never run.",
+"show": "So put the narrowest test first, or the later branches never run."
+},
+{
+"say": "Here's the trap. Zoho Creator works out OR before annd. Every other Zoho service works out annd first.",
+"show": "The trap: Zoho Creator works out OR before AND. Every other Zoho service works out AND first."
+},
+{
+"say": "Put brackets round each group, and the test reads the same everywhere.",
+"show": "Put brackets round each group, and the test reads the same everywhere."
+},
+{
+"say": "Empty is not one test. The checks is null, is blank and is empty all give different answers.",
+"show": "Empty is not one test. isNull, isBlank and isEmpty all give different answers."
+},
+{
+"say": "For text, test is null, or is blank. That covers null, empty text and spaces.",
+"show": "For text, test isNull or isBlank. That covers null, empty text and spaces."
+},
+{
+"say": "Need a default? Use if null. And there's no switch, so use a map lookup.",
+"show": "Need a default? Use ifNull. And there's no switch, so use a map lookup."
+},
+{
+"say": "Read the full guide at Zoo doe works dot com.",
+"show": "Read the full guide at zudoworks.com"
+}
+]
+}

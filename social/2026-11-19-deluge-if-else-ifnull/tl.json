@@ -1,0 +1,47 @@
+[
+ {
+  "text": "One Deluge condition. Two different answers.",
+  "start": 0.35,
+  "end": 3.27
+ },
+ {
+  "text": "Deluge has if, else if and else. The first true test wins; the rest are skipped.",
+  "start": 3.71,
+  "end": 8.94
+ },
+ {
+  "text": "So put the narrowest test first, or the later branches never run.",
+  "start": 9.38,
+  "end": 13.45
+ },
+ {
+  "text": "The trap: Zoho Creator works out OR before AND. Every other Zoho service works out AND first.",
+  "start": 13.89,
+  "end": 20.74
+ },
+ {
+  "text": "Put brackets round each group, and the test reads the same everywhere.",
+  "start": 21.18,
+  "end": 24.87
+ },
+ {
+  "text": "Empty is not one test. isNull, isBlank and isEmpty all give different answers.",
+  "start": 25.31,
+  "end": 30.8
+ },
+ {
+  "text": "For text, test isNull or isBlank. That covers null, empty text and spaces.",
+  "start": 31.24,
+  "end": 36.27
+ },
+ {
+  "text": "Need a default? Use ifNull. And there's no switch, so use a map lookup.",
+  "start": 36.71,
+  "end": 41.77
+ },
+ {
+  "text": "Read the full guide at zudoworks.com",
+  "start": 42.21,
+  "end": 44.94
+ }
+]
