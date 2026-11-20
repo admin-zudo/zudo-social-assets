@@ -1,0 +1,272 @@
+[
+{
+"t": 1.1,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 1.5,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 2.4,
+"type": "swoosh",
+"gain": 0.3
+},
+{
+"t": 2.6,
+"type": "pop",
+"gain": 0.25
+},
+{
+"t": 2.72,
+"type": "pop",
+"gain": 0.25
+},
+{
+"t": 2.84,
+"type": "pop",
+"gain": 0.25
+},
+{
+"t": 2.96,
+"type": "pop",
+"gain": 0.25
+},
+{
+"t": 3.08,
+"type": "pop",
+"gain": 0.25
+},
+{
+"t": 3.2,
+"type": "pop",
+"gain": 0.25
+},
+{
+"t": 4.52,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 4.82,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 5.12,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 5.12,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 6.32,
+"type": "pop",
+"gain": 0.25
+},
+{
+"t": 8.98,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 9.43,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 9.88,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 10.68,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 10.98,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 11.28,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 12.28,
+"type": "impact",
+"gain": 0.3
+},
+{
+"t": 14.76,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 15.06,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 15.46,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 16.06,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 16.66,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 18.16,
+"type": "ding",
+"gain": 0.3
+},
+{
+"t": 20.84,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 21.74,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 22.04,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 23.14,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 23.44,
+"type": "tick",
+"gain": 0.2
+},
+{
+"t": 23.54,
+"type": "tick",
+"gain": 0.2
+},
+{
+"t": 23.64,
+"type": "tick",
+"gain": 0.2
+},
+{
+"t": 23.74,
+"type": "tick",
+"gain": 0.2
+},
+{
+"t": 26.47,
+"type": "swoosh",
+"gain": 0.3
+},
+{
+"t": 27.77,
+"type": "swoosh",
+"gain": 0.25
+},
+{
+"t": 28.47,
+"type": "swoosh",
+"gain": 0.3
+},
+{
+"t": 31.31,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 32.61,
+"type": "ding",
+"gain": 0.25
+},
+{
+"t": 34.21,
+"type": "ding",
+"gain": 0.25
+},
+{
+"t": 34.81,
+"type": "impact",
+"gain": 0.3
+},
+{
+"t": 36.94,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 37.54,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 38.14,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 38.84,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 39.19,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 39.54,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 40.24,
+"type": "riser",
+"gain": 0.35
+},
+{
+"t": 42.22,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 42.47,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 42.72,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 43.12,
+"type": "pop",
+"gain": 0.4
+},
+{
+"t": 43.62,
+"type": "ding",
+"gain": 0.3
+}
+]

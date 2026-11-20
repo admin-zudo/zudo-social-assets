@@ -1,0 +1,14 @@
+1.00 | said: Zoho and QuickBooks. | heard: Zoho and QuickBooks.
+1.00 | said: There's no single switch. | heard: There's no single switch.
+1.00 | said: Zoho CRM syncs customers, vendors and products both ways. | heard: Zoho CRM syncs customers, vendors, and products both ways.
+1.00 | said: Estimates, invoices and purchase orders come from QuickBooks into CRM. | heard: Estimates, invoices and purchase orders come from QuickBooks into CRM.
+1.00 | said: Read only. | heard: Read Only
+1.00 | said: Zoho Inventory and Billing send invoices, credit notes and payments to QuickBooks Online. | heard: Zoho Inventory and Billing send invoices, credit notes and payments to QuickBooks Online.
+1.00 | said: Zoho Expense sends approved reports as bills or journals. | heard: Zoho Expense sends approved reports as bills or journals.
+1.00 | said: Analytics only reads. | heard: Analytics only reads.
+1.00 | said: One QuickBooks company per Zoho organization, and the same base currency. | heard: One QuickBooks company per Zoho organization and the same base currency.
+1.00 | said: Tax rates must match exactly. | heard: Tax rates must match exactly.
+0.94 | said: Map non-taxable lines to a zero percent tax. | heard: map non-taxable lines to a 0% tax.
+1.00 | said: Invoice when a deal is won? | heard: Invoice when a deal is won.
+0.88 | said: Use Zoho Flow, Deluge, or a custom build. | heard: Use Soho Flow Deluge or a custom build.
+0.62 | said: Read the full guide at Zoo doe works dot com. | heard: Read the full guide at zudoworks.com

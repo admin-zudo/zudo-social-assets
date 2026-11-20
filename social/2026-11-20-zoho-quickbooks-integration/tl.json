@@ -1,0 +1,47 @@
+[
+ {
+  "text": "Zoho and QuickBooks? There's no single switch.",
+  "start": 0.35,
+  "end": 3.53
+ },
+ {
+  "text": "Zoho CRM syncs customers, vendors and products both ways.",
+  "start": 3.97,
+  "end": 7.89
+ },
+ {
+  "text": "Estimates, invoices and purchase orders come from QuickBooks into CRM, read-only.",
+  "start": 8.33,
+  "end": 14.07
+ },
+ {
+  "text": "Zoho Inventory and Billing send invoices, credit notes and payments to QuickBooks Online.",
+  "start": 14.51,
+  "end": 19.95
+ },
+ {
+  "text": "Zoho Expense sends approved reports as bills or journals. Analytics only reads.",
+  "start": 20.39,
+  "end": 25.68
+ },
+ {
+  "text": "One QuickBooks company per Zoho organisation, and the same base currency.",
+  "start": 26.12,
+  "end": 30.62
+ },
+ {
+  "text": "Tax rates must match exactly. Map non-taxable lines to a zero per cent tax.",
+  "start": 31.06,
+  "end": 36.25
+ },
+ {
+  "text": "Invoice when a deal is won? Use Zoho Flow, Deluge or a custom build.",
+  "start": 36.69,
+  "end": 41.43
+ },
+ {
+  "text": "Read the full guide at zudoworks.com",
+  "start": 41.87,
+  "end": 44.6
+ }
+]

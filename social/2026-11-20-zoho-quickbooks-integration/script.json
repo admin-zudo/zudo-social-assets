@@ -1,0 +1,40 @@
+{
+ "lines": [
+  {
+   "say": "Zoho and QuickBooks. There's no single switch.",
+   "show": "Zoho and QuickBooks? There's no single switch."
+  },
+  {
+   "say": "Zoho CRM syncs customers, vendors and products both ways.",
+   "show": "Zoho CRM syncs customers, vendors and products both ways."
+  },
+  {
+   "say": "Estimates, invoices and purchase orders come from QuickBooks into CRM. Read only.",
+   "show": "Estimates, invoices and purchase orders come from QuickBooks into CRM, read-only."
+  },
+  {
+   "say": "Zoho Inventory and Billing send invoices, credit notes and payments to QuickBooks Online.",
+   "show": "Zoho Inventory and Billing send invoices, credit notes and payments to QuickBooks Online."
+  },
+  {
+   "say": "Zoho Expense sends approved reports as bills or journals. Analytics only reads.",
+   "show": "Zoho Expense sends approved reports as bills or journals. Analytics only reads."
+  },
+  {
+   "say": "One QuickBooks company per Zoho organization, and the same base currency.",
+   "show": "One QuickBooks company per Zoho organisation, and the same base currency."
+  },
+  {
+   "say": "Tax rates must match exactly. Map non-taxable lines to a zero percent tax.",
+   "show": "Tax rates must match exactly. Map non-taxable lines to a zero per cent tax."
+  },
+  {
+   "say": "Invoice when a deal is won? Use Zoho Flow, Deluge, or a custom build.",
+   "show": "Invoice when a deal is won? Use Zoho Flow, Deluge or a custom build."
+  },
+  {
+   "say": "Read the full guide at Zoo doe works dot com.",
+   "show": "Read the full guide at zudoworks.com"
+  }
+ ]
+}
