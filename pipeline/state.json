@@ -5,7 +5,8 @@
   "https://zudoworks.com/insights/connect-zoho-crm-to-chatgpt/",
   "https://zudoworks.com/insights/connect-zoho-to-claude/",
   "https://zudoworks.com/insights/zoho-erp-job-costing/",
-  "https://zudoworks.com/insights/deluge-if-else-ifnull/"
+  "https://zudoworks.com/insights/deluge-if-else-ifnull/",
+  "https://zudoworks.com/insights/zoho-quickbooks-integration/"
  ],
  "waves": [
   {
@@ -497,8 +498,105 @@
    "live_check": "WebFetch blocked from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
    "notes": "Make YouTube runs returned no outputs; video IDs read from Zoho Social's YouTube channel feed. First Reels calls returned Bad Gateway but both executions succeeded; no retries, no duplicates.",
    "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
+   "pending": [],
+   "backfill_done": true,
+   "zoho_published": {
+    "instagram_carousel": "https://www.instagram.com/p/Df7M2JTjbp2/",
+    "facebook_carousel": "https://www.facebook.com/122101071603452243/posts/122127450033452243",
+    "linkedin_page_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529182972827291648",
+    "linkedin_profile_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529190529855553536",
+    "threads": "https://www.threads.com/@zudo_works/post/Df7asVWDbMJ",
+    "mastodon": "https://mastodon.social/@zudoworks/117643955775711754"
+   },
+   "backfill": {
+    "date": "2026-11-20",
+    "links_added": [
+     "instagram_reel",
+     "facebook_reel",
+     "linkedin_page",
+     "linkedin_profile",
+     "instagram_carousel",
+     "facebook_carousel",
+     "linkedin_page_carousel",
+     "linkedin_profile_carousel",
+     "threads",
+     "mastodon"
+    ],
+    "page_commit": "0e88569",
+    "note": "Google Business link not added (not used on pages)"
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "slug": "zoho-quickbooks-integration",
+   "url": "https://zudoworks.com/insights/zoho-quickbooks-integration/",
+   "released_at": "2026-11-20T02:55:05+05:30",
+   "assets": "social/2026-11-20-zoho-quickbooks-integration/",
+   "assets_commit": "0a9e4c1",
+   "youtube": {
+    "video": "JMZUS-8-gsE",
+    "short": "CxNibSG6BXo"
+   },
+   "page_video_added": true,
+   "page_commit": "0e88569",
+   "make_posts": {
+    "instagram_reel": {
+     "id": "18142669846627232",
+     "url": "https://www.instagram.com/reel/Df9j_y4jCoX/",
+     "execution": "9ebb6563fb06496e8f74f2b71dfe6c38"
+    },
+    "facebook_reel": {
+     "id": "1338314956024652_122127602835452243",
+     "url": "https://www.facebook.com/reel/1804004067818215/"
+    },
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7529508479615635458",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529508479615635458"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7529508546464415744",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529508546464415744"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000117002",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000117012",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000117022",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000114008",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000117032",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000118002",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000117042",
+     "time_ist": "22:05",
+     "note": "link_preview used"
+    }
+   },
+   "geo_tags": "none (not attempted; lookup failed on every earlier run)",
+   "people_images": "none: Hugging Face ZeroGPU quota exhausted; carousel and video built in a no-people layout (v916_np identical to v916)",
+   "lighthouse_seo": 100,
+   "live_check": "WebFetch blocked from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
+   "notes": "Make YouTube runs returned no outputs; IDs read from Zoho Social's YouTube feed. Instagram and Facebook Reels calls returned Bad Gateway but both executions succeeded; no retries, no duplicates. Sandbox fixes: kit scripts run with python3.13; voice.py resampling switched from torchaudio to scipy (PyTorch host blocked) in the work copy only.",
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
    "pending": [
-    "backfill carousel links tomorrow"
+    "backfill carousel links on next run"
    ],
    "backfill_done": false
   }
@@ -538,6 +636,11 @@
    "date": "2026-11-19",
    "time_ist": "16:4x-17:2x",
    "result": "wave for deluge-if-else-ifnull (released 2026-11-19 night); back-filled 6 carousel links for zoho-erp-job-costing; bom-revision-control skipped"
+  },
+  {
+   "date": "2026-11-20",
+   "time_ist": "16:4x-17:2x",
+   "result": "wave for zoho-quickbooks-integration (released 2026-11-20 night); back-filled 10 links for deluge-if-else-ifnull; zoho-consultant-uk-local-or-remote skipped; no people images (HF quota)"
   }
  ],
  "skipped": [
@@ -570,6 +673,11 @@
    "url": "https://zudoworks.com/insights/bom-revision-control/",
    "released_at": "2026-11-18T17:52:55+05:30",
    "reason": "not the newest unprocessed release on 2026-11-19; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/zoho-consultant-uk-local-or-remote/",
+   "released_at": "2026-11-19T17:51:31+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-20; one wave per day"
   }
  ]
 }
