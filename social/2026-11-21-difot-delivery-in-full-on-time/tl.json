@@ -1,0 +1,47 @@
+[
+ {
+  "text": "DIFOT: delivery in full, on time.",
+  "start": 0.35,
+  "end": 3.14
+ },
+ {
+  "text": "A line passes only if the full quantity arrives by the agreed date. Late or short? It fails.",
+  "start": 3.58,
+  "end": 10.37
+ },
+ {
+  "text": "Lines in full and on time \u00f7 lines due \u00d7 100.",
+  "start": 10.81,
+  "end": 15.25
+ },
+ {
+  "text": "Example: 150 lines due. 129 passed. 86%.",
+  "start": 15.69,
+  "end": 22.37
+ },
+ {
+  "text": "The trap: never multiply on-time by in-full. Lines failing both count twice.",
+  "start": 22.81,
+  "end": 28.25
+ },
+ {
+  "text": "Example: count by whole order, and the same month drops to 75%.",
+  "start": 28.69,
+  "end": 32.74
+ },
+ {
+  "text": "So agree five rules first: unit, date, ship or receipt, limits and splits.",
+  "start": 33.18,
+  "end": 37.85
+ },
+ {
+  "text": "Then give every failed line a cause. Fix the biggest first.",
+  "start": 38.29,
+  "end": 41.96
+ },
+ {
+  "text": "Read the full guide at zudoworks.com",
+  "start": 42.4,
+  "end": 45.13
+ }
+]

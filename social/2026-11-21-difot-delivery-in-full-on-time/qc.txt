@@ -1,0 +1,18 @@
+1.00 | said: Delivery in full, on time. | heard: Delivery in full on time.
+0.00 | said: Dee fot. | heard: Defod.
+1.00 | said: A line passes only if the full quantity arrives by the agreed date. | heard: A line passes only if the full quantity arrives by the agreed date.
+1.00 | said: Late or short? | heard: Late or short.
+1.00 | said: It fails. | heard: It fails.
+0.88 | said: Lines in full and on time, divided by lines due, times one hundred. | heard: Lines in full and on time divided by lines due, times 100.
+0.46 | said: For example: one hundred and fifty lines due. | heard: For example, 150 lines do.
+0.25 | said: One hundred and twenty nine passed. | heard: 129 passed.
+0.00 | said: Eighty six percent. | heard: 86%
+1.00 | said: The trap. | heard: the trap.
+1.00 | said: Never multiply on time by in full. | heard: Never multiply on time by in full.
+1.00 | said: Lines failing both count twice. | heard: Lines failing both count twice.
+0.83 | said: Count by whole order, and the same month drops to seventy five percent. | heard: Count by whole order and the same month drops to 75%.
+1.00 | said: So agree five rules first. | heard: So agree five rules first.
+1.00 | said: Unit, date, ship or receipt, limits, and splits. | heard: unit date, ship or receipt, limits and splits.
+1.00 | said: Then give every failed line a cause. | heard: then give every failed line a cause.
+1.00 | said: Fix the biggest first. | heard: fix the biggest first
+0.62 | said: Read the full guide at Zoo doe works dot com. | heard: Read the full guide at zudoworks.com

@@ -1,0 +1,40 @@
+{
+ "lines": [
+  {
+   "say": "Delivery in full, on time. Dee fot.",
+   "show": "DIFOT: delivery in full, on time."
+  },
+  {
+   "say": "A line passes only if the full quantity arrives by the agreed date. Late or short? It fails.",
+   "show": "A line passes only if the full quantity arrives by the agreed date. Late or short? It fails."
+  },
+  {
+   "say": "Lines in full and on time, divided by lines due, times one hundred.",
+   "show": "Lines in full and on time ÷ lines due × 100."
+  },
+  {
+   "say": "For example: one hundred and fifty lines due. One hundred and twenty nine passed. Eighty six percent.",
+   "show": "Example: 150 lines due. 129 passed. 86%."
+  },
+  {
+   "say": "The trap. Never multiply on time by in full. Lines failing both count twice.",
+   "show": "The trap: never multiply on-time by in-full. Lines failing both count twice."
+  },
+  {
+   "say": "Count by whole order, and the same month drops to seventy five percent.",
+   "show": "Example: count by whole order, and the same month drops to 75%."
+  },
+  {
+   "say": "So agree five rules first. Unit, date, ship or receipt, limits, and splits.",
+   "show": "So agree five rules first: unit, date, ship or receipt, limits and splits."
+  },
+  {
+   "say": "Then give every failed line a cause. Fix the biggest first.",
+   "show": "Then give every failed line a cause. Fix the biggest first."
+  },
+  {
+   "say": "Read the full guide at Zoo doe works dot com.",
+   "show": "Read the full guide at zudoworks.com"
+  }
+ ]
+}
