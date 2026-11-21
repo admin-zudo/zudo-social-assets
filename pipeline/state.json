@@ -6,7 +6,8 @@
   "https://zudoworks.com/insights/connect-zoho-to-claude/",
   "https://zudoworks.com/insights/zoho-erp-job-costing/",
   "https://zudoworks.com/insights/deluge-if-else-ifnull/",
-  "https://zudoworks.com/insights/zoho-quickbooks-integration/"
+  "https://zudoworks.com/insights/zoho-quickbooks-integration/",
+  "https://zudoworks.com/insights/difot-delivery-in-full-on-time/"
  ],
  "waves": [
   {
@@ -595,6 +596,103 @@
    "live_check": "WebFetch blocked from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
    "notes": "Make YouTube runs returned no outputs; IDs read from Zoho Social's YouTube feed. Instagram and Facebook Reels calls returned Bad Gateway but both executions succeeded; no retries, no duplicates. Sandbox fixes: kit scripts run with python3.13; voice.py resampling switched from torchaudio to scipy (PyTorch host blocked) in the work copy only.",
    "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
+   "pending": [],
+   "backfill_done": true,
+   "zoho_published": {
+    "instagram_carousel": "https://www.instagram.com/p/Df9xo7cDVkE/",
+    "facebook_carousel": "https://www.facebook.com/122101071603452243/posts/122127628497452243",
+    "linkedin_page_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529545359615000576",
+    "linkedin_profile_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529552913824792577",
+    "threads": "https://www.threads.com/@zudo_works/post/Df9_fQ7DdZi",
+    "mastodon": "https://mastodon.social/@zudoworks/117649618132585563"
+   },
+   "backfill": {
+    "date": "2026-11-21",
+    "links_added": [
+     "instagram_reel",
+     "facebook_reel",
+     "linkedin_page",
+     "linkedin_profile",
+     "instagram_carousel",
+     "facebook_carousel",
+     "linkedin_page_carousel",
+     "linkedin_profile_carousel",
+     "threads",
+     "mastodon"
+    ],
+    "page_commit": "3cb31535"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "slug": "difot-delivery-in-full-on-time",
+   "url": "https://zudoworks.com/insights/difot-delivery-in-full-on-time/",
+   "released_at": "2026-11-21T02:51:48+05:30",
+   "assets": "social/2026-11-21-difot-delivery-in-full-on-time/",
+   "assets_commit": "4711514",
+   "youtube": {
+    "video": "LXmumZISqHM",
+    "short": "T7zoY97Hf84"
+   },
+   "page_video_added": true,
+   "page_commit": "3cb31535",
+   "make_posts": {
+    "instagram_reel": {
+     "id": "18461841778132648",
+     "url": "https://www.instagram.com/reel/DgAJIV-jO_6/",
+     "execution": "0b0ab9b4948a473bbfb309ce0b546e48"
+    },
+    "facebook_reel": {
+     "id": "1338314956024652_122127806439452243",
+     "url": "https://www.facebook.com/reel/1029883746807165/",
+     "execution": "260f628fc2e14e5884f346f87c1cc632"
+    },
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7529871836638273536",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529871836638273536"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7529871928791126016",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529871928791126016"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000116013",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000114022",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000118017",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000116023",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000117053",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000116033",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000114032",
+     "time_ist": "22:05",
+     "note": "link_preview used (call_to_action rejected on earlier runs)"
+    }
+   },
+   "geo_tags": "none (lookup failed on every earlier run)",
+   "people_images": "none: Hugging Face ZeroGPU quota exhausted; no-people layout (v916_np identical to v916)",
+   "lighthouse_seo": 100,
+   "live_check": "WebFetch blocked from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
+   "notes": "Make YouTube runs returned no outputs; IDs read from Zoho Social's YouTube feed. Instagram and Facebook Reels calls returned Bad Gateway but both executions succeeded; no retries. Voice QC: low scores only from digits vs spelled numbers and the coined term DIFOT (heard 'Defod'); final transcript matched. Sandbox fixes: kit scripts run with python3.13 and headless-shell 1243 path; officemaintenance clone deepened so build.py dates are correct.",
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
    "pending": [
     "backfill carousel links on next run"
    ],
@@ -641,6 +739,11 @@
    "date": "2026-11-20",
    "time_ist": "16:4x-17:2x",
    "result": "wave for zoho-quickbooks-integration (released 2026-11-20 night); back-filled 10 links for deluge-if-else-ifnull; zoho-consultant-uk-local-or-remote skipped; no people images (HF quota)"
+  },
+  {
+   "date": "2026-11-21",
+   "time_ist": "16:4x-17:3x",
+   "result": "wave for difot-delivery-in-full-on-time (released 2026-11-21 night); back-filled 10 links for zoho-quickbooks-integration; zoho-projects-vs-quickbase skipped; no people images (HF quota)"
   }
  ],
  "skipped": [
@@ -678,6 +781,11 @@
    "url": "https://zudoworks.com/insights/zoho-consultant-uk-local-or-remote/",
    "released_at": "2026-11-19T17:51:31+05:30",
    "reason": "not the newest unprocessed release on 2026-11-20; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/zoho-projects-vs-quickbase/",
+   "released_at": "2026-11-20T17:53:58+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-21; one wave per day"
   }
  ]
 }
