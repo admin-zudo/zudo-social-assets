@@ -7,7 +7,8 @@
   "https://zudoworks.com/insights/zoho-erp-job-costing/",
   "https://zudoworks.com/insights/deluge-if-else-ifnull/",
   "https://zudoworks.com/insights/zoho-quickbooks-integration/",
-  "https://zudoworks.com/insights/difot-delivery-in-full-on-time/"
+  "https://zudoworks.com/insights/difot-delivery-in-full-on-time/",
+  "https://zudoworks.com/insights/mrpeasy-vs-katana/"
  ],
  "waves": [
   {
@@ -719,6 +720,79 @@
     ],
     "page_commit": "e36cb8c0"
    }
+  },
+  {
+   "date": "2026-11-23",
+   "slug": "mrpeasy-vs-katana",
+   "url": "https://zudoworks.com/insights/mrpeasy-vs-katana/",
+   "released_at": "2026-11-23T02:47:35+05:30",
+   "assets": "social/2026-11-23-mrpeasy-vs-katana/",
+   "assets_commit": "2065455",
+   "youtube": {
+    "video": "aYcfdqRkgJE",
+    "short": "6hVgE7VmFLU"
+   },
+   "page_video_added": true,
+   "page_commit": "f52a2157",
+   "make_posts": {
+    "instagram_reel": {
+     "id": "18143455606623104",
+     "url": "https://www.instagram.com/reel/DgFSjBtiAh_/",
+     "execution": "7bf6330f089c4bd6bc70d2da27fe7db5"
+    },
+    "facebook_reel": {
+     "id": "1338314956024652_122128170867452243",
+     "url": "https://www.facebook.com/reel/2081240452579673/",
+     "execution": "6613891a46f74c70a08ec469933e046c"
+    },
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7530596766757621760",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7530596766757621760"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7530596828023619584",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7530596828023619584"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000116049",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000114042",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000116059",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000118034",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000117069",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000116069",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000114052",
+     "time_ist": "22:05",
+     "note": "link_preview used (call_to_action rejected: EXTRA_KEY_FOUND_IN_JSON)"
+    }
+   },
+   "geo_tags": "none (getSocialGeolocations: REQUIRED_PARAM_MISSING)",
+   "people_images": "4 fresh portraits (tablet, arms crossed, shrug, pointing); with-people and no-people videos differ",
+   "lighthouse_seo": 100,
+   "live_check": "WebFetch blocked from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
+   "notes": "Make YouTube and Reels runs returned no outputs; IDs read from Zoho Social feeds. Reels calls returned Bad Gateway but executions succeeded; no retries. Voice QC low scores only from spelled acronyms (MRP easy, MYOB, SKUs, zudoworks.com); final transcript matched. Sandbox fixes: voice.py resample via scipy (no torch), playwright headless-shell 1255 symlinked to 1243, bs4 and markdownify installed for llms.py.",
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
+   "pending": [],
+   "backfill_done": false
   }
  ],
  "runs": [
@@ -771,6 +845,11 @@
    "date": "2026-11-22",
    "time_ist": "16:4x-17:1x",
    "result": "Sunday: no wave (no build, no posting); back-filled 10 links for difot-delivery-in-full-on-time. zoho-ai-explained (2026-11-21 evening) and wip-inventory-work-in-progress (2026-11-22 night) left unprocessed for Monday"
+  },
+  {
+   "date": "2026-11-23",
+   "time_ist": "16:4x-17:2x",
+   "result": "wave for mrpeasy-vs-katana (released 2026-11-23 night); no back-fill due (difot already back-filled 2026-11-22); zoho-ai-explained, wip-inventory-work-in-progress and zoho-creator-customer-portal-pricing skipped"
   }
  ],
  "skipped": [
@@ -813,6 +892,21 @@
    "url": "https://zudoworks.com/insights/zoho-projects-vs-quickbase/",
    "released_at": "2026-11-20T17:53:58+05:30",
    "reason": "not the newest unprocessed release on 2026-11-21; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/zoho-creator-customer-portal-pricing/",
+   "released_at": "2026-11-22T17:56:28+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-23; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/zoho-ai-explained/",
+   "released_at": "2026-11-21T17:51:07+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-23; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/wip-inventory-work-in-progress/",
+   "released_at": "2026-11-22T02:47:45+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-23; one wave per day"
   }
  ]
 }
