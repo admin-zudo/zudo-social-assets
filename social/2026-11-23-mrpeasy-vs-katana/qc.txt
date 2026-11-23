@@ -1,0 +1,18 @@
+0.20 | said: M R P easy versus Katana. | heard: MRP EZ vs Katana
+1.00 | said: Not the same job. | heard: Not the same job.
+0.38 | said: M R P easy is a manufacturing E R P. | heard: MRP-EZ is a manufacturing ERP.
+0.75 | said: Planning, C R M and accounts, in every plan. | heard: Planning CRM and Accounts in Every Plan
+1.00 | said: Katana is cloud inventory software for product businesses. | heard: Katana is cloud inventory software for product businesses.
+1.00 | said: Production is one part of it. | heard: Production is one part of it.
+1.00 | said: They charge in opposite ways. | heard: They charge in opposite ways.
+0.76 | said: M R P easy is per user, per month, on four plans. | heard: MRPEZ is per user per month on four plans.
+0.62 | said: Katana is free up to thirty S K U's. | heard: Katana is free up to 30 SKUs.
+1.00 | said: After that, one annual price, not per user. | heard: after that one annual price not per user.
+0.75 | said: And raw materials count as S K U's too. | heard: and raw materials count as SKUs too.
+1.00 | said: Both connect to Xero and QuickBooks Online. | heard: Both connect to Xero and QuickBooks Online.
+0.44 | said: Neither lists M Y O B. | heard: Neither lists MYOB.
+1.00 | said: Hard part is planning? | heard: Hard part is planning.
+0.00 | said: M R P easy. | heard: MRPEZ.
+1.00 | said: Selling online? | heard: Selling online.
+1.00 | said: Katana. | heard: Katana
+0.62 | said: Read the full comparison at Zoo doe works dot com. | heard: Read the full comparison at zudoworks.com

@@ -1,0 +1,40 @@
+{
+ "lines": [
+  {
+   "say": "M R P easy versus Katana. Not the same job.",
+   "show": "MRPeasy vs Katana. Not the same job."
+  },
+  {
+   "say": "M R P easy is a manufacturing E R P. Planning, C R M and accounts, in every plan.",
+   "show": "MRPeasy is a manufacturing ERP. Planning, CRM and accounts in every plan."
+  },
+  {
+   "say": "Katana is cloud inventory software for product businesses. Production is one part of it.",
+   "show": "Katana is cloud inventory software for product businesses. Production is one part of it."
+  },
+  {
+   "say": "They charge in opposite ways. M R P easy is per user, per month, on four plans.",
+   "show": "They charge in opposite ways. MRPeasy: per user, per month, on four plans."
+  },
+  {
+   "say": "Katana is free up to thirty S K U's. After that, one annual price, not per user.",
+   "show": "Katana: free up to 30 SKUs. After that, one annual price, not per user."
+  },
+  {
+   "say": "And raw materials count as S K U's too.",
+   "show": "And raw materials count as SKUs too."
+  },
+  {
+   "say": "Both connect to Xero and QuickBooks Online. Neither lists M Y O B.",
+   "show": "Both connect to Xero and QuickBooks Online. Neither lists MYOB."
+  },
+  {
+   "say": "Hard part is planning? M R P easy. Selling online? Katana.",
+   "show": "Hard part is planning? MRPeasy. Selling online? Katana."
+  },
+  {
+   "say": "Read the full comparison at Zoo doe works dot com.",
+   "show": "Read the full comparison at zudoworks.com"
+  }
+ ]
+}
