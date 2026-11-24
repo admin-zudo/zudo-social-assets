@@ -1,0 +1,237 @@
+[
+{
+"t": 1.5,
+"type": "pop",
+"gain": 0.35
+},
+{
+"t": 1.8,
+"type": "impact",
+"gain": 0.25
+},
+{
+"t": 2.1,
+"type": "pop",
+"gain": 0.35
+},
+{
+"t": 7.44,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 7.57,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 7.7,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 7.83,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 7.96,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 8.09,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 8.22,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 8.35,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 8.48,
+"type": "tick",
+"gain": 0.22
+},
+{
+"t": 8.81,
+"type": "swoosh",
+"gain": 0.35
+},
+{
+"t": 11.88,
+"type": "swoosh",
+"gain": 0.22
+},
+{
+"t": 12.23,
+"type": "swoosh",
+"gain": 0.22
+},
+{
+"t": 12.58,
+"type": "swoosh",
+"gain": 0.22
+},
+{
+"t": 12.93,
+"type": "swoosh",
+"gain": 0.22
+},
+{
+"t": 13.28,
+"type": "swoosh",
+"gain": 0.22
+},
+{
+"t": 18.27,
+"type": "pop",
+"gain": 0.35
+},
+{
+"t": 18.87,
+"type": "impact",
+"gain": 0.25
+},
+{
+"t": 19.17,
+"type": "pop",
+"gain": 0.35
+},
+{
+"t": 23.89,
+"type": "ding",
+"gain": 0.3
+},
+{
+"t": 25.79,
+"type": "ding",
+"gain": 0.3
+},
+{
+"t": 29.44,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 29.74,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 30.04,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 31.74,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 32.34,
+"type": "swoosh",
+"gain": 0.3
+},
+{
+"t": 35.07,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 35.37,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 35.57,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 35.77,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 35.97,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 36.17,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 36.37,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 36.57,
+"type": "tick",
+"gain": 0.25
+},
+{
+"t": 36.77,
+"type": "ding",
+"gain": 0.3
+},
+{
+"t": 39.09,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 39.29,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 39.49,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 39.69,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 40.79,
+"type": "swoosh",
+"gain": 0.3
+},
+{
+"t": 41.39,
+"type": "riser",
+"gain": 0.3
+},
+{
+"t": 43.79,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 43.97,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 44.15,
+"type": "pop",
+"gain": 0.3
+},
+{
+"t": 44.79,
+"type": "ding",
+"gain": 0.35
+}
+]

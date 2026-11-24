@@ -1,0 +1,40 @@
+{
+ "lines": [
+  {
+   "say": "Zoho or Microsoft Dynamics 365? It's not two C R M screens.",
+   "show": "Zoho or Microsoft Dynamics 365? It's not two CRM screens."
+  },
+  {
+   "say": "Zoho One is a bundle. Dozens of apps, one licence per user.",
+   "show": "Zoho One is a bundle. Dozens of apps, one licence per user."
+  },
+  {
+   "say": "Dynamics 365 is a family of separate products, each with its own plans.",
+   "show": "Dynamics 365 is a family of separate products, each with its own plans."
+  },
+  {
+   "say": "Need two of them? You hold a base licence, then an attach licence.",
+   "show": "Need two of them? You hold a base licence, then an attach licence."
+  },
+  {
+   "say": "Forecasting and custom records start at Zoho C R M Standard. On Microsoft, at Sales Enterprise.",
+   "show": "Forecasting and custom records start at Zoho CRM Standard. On Microsoft, at Sales Enterprise."
+  },
+  {
+   "say": "For E R P, Microsoft goes deeper. Business Central Premium includes manufacturing.",
+   "show": "For ERP, Microsoft goes deeper. Business Central Premium includes manufacturing."
+  },
+  {
+   "say": "And agents? Both charge for heavy use in credits.",
+   "show": "And agents? Both charge for heavy use in credits."
+  },
+  {
+   "say": "So list people by role. Then find the plan where each feature starts.",
+   "show": "So list people by role. Then find the plan where each feature starts."
+  },
+  {
+   "say": "Read the full comparison at Zoo doe works dot com.",
+   "show": "Read the full comparison at zudoworks.com"
+  }
+ ]
+}

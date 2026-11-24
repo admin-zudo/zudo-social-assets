@@ -1,0 +1,16 @@
+1.00 | said: Zoho or Microsoft Dynamics 365? | heard: Zoho or Microsoft Dynamics 365.
+0.67 | said: It's not two C R M screens. | heard: It's not two CRM screens.
+1.00 | said: Zoho One is a bundle. | heard: Zoho One is a bundle.
+0.86 | said: Dozens of apps, one licence per user. | heard: Dozens of apps, one license per user.
+1.00 | said: Dynamics 365 is a family of separate products, each with its own plans. | heard: Dynamics 365 is a family of separate products, each with its own plans.
+1.00 | said: Need two of them? | heard: Need two of them.
+0.78 | said: You hold a base licence, then an attach licence. | heard: You hold a base license, then an attach license.
+0.80 | said: Forecasting and custom records start at Zoho C R M Standard. | heard: Forecasting and custom records start at Zoho CRM Standard.
+1.00 | said: On Microsoft, at Sales Enterprise. | heard: on Microsoft at Sales Enterprise.
+0.67 | said: For E R P, Microsoft goes deeper. | heard: For ERP, Microsoft goes deeper.
+1.00 | said: Business Central Premium includes manufacturing. | heard: Business Central Premium includes manufacturing.
+1.00 | said: And agents? | heard: and agents.
+1.00 | said: Both charge for heavy use in credits. | heard: both charge for heavy use in credits.
+0.80 | said: So list people by role. | heard: So list people by roll.
+1.00 | said: Then find the plan where each feature starts. | heard: Then find the plan where each feature starts.
+0.62 | said: Read the full comparison at Zoo doe works dot com. | heard: Read the full comparison at zudoworks.com
