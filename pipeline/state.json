@@ -8,7 +8,8 @@
   "https://zudoworks.com/insights/deluge-if-else-ifnull/",
   "https://zudoworks.com/insights/zoho-quickbooks-integration/",
   "https://zudoworks.com/insights/difot-delivery-in-full-on-time/",
-  "https://zudoworks.com/insights/mrpeasy-vs-katana/"
+  "https://zudoworks.com/insights/mrpeasy-vs-katana/",
+  "https://zudoworks.com/insights/zoho-vs-microsoft-dynamics-365/"
  ],
  "waves": [
   {
@@ -792,6 +793,103 @@
    "notes": "Make YouTube and Reels runs returned no outputs; IDs read from Zoho Social feeds. Reels calls returned Bad Gateway but executions succeeded; no retries. Voice QC low scores only from spelled acronyms (MRP easy, MYOB, SKUs, zudoworks.com); final transcript matched. Sandbox fixes: voice.py resample via scipy (no torch), playwright headless-shell 1255 symlinked to 1243, bs4 and markdownify installed for llms.py.",
    "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
    "pending": [],
+   "backfill_done": true,
+   "zoho_published": {
+    "instagram_carousel": "https://www.instagram.com/p/DgFgBcODXsA/",
+    "facebook_carousel": "https://www.facebook.com/122101071603452243/posts/122128219455452243",
+    "linkedin_page_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7530632537879273472",
+    "linkedin_profile_carousel": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7530640076381323264",
+    "threads": "https://www.threads.com/@zudo_works/post/DgFt3sdDV44",
+    "mastodon": "https://mastodon.social/@zudoworks/117666605248514882"
+   },
+   "backfill": {
+    "date": "2026-11-24",
+    "links_added": [
+     "instagram_reel",
+     "facebook_reel",
+     "linkedin_page",
+     "linkedin_profile",
+     "instagram_carousel",
+     "facebook_carousel",
+     "linkedin_page_carousel",
+     "linkedin_profile_carousel",
+     "threads",
+     "mastodon"
+    ],
+    "page_commit": "7f70db48"
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "slug": "zoho-vs-microsoft-dynamics-365",
+   "url": "https://zudoworks.com/insights/zoho-vs-microsoft-dynamics-365/",
+   "released_at": "2026-11-23T17:57:13+05:30",
+   "assets": "social/2026-11-24-zoho-vs-microsoft-dynamics-365/",
+   "assets_commit": "ca71c56",
+   "youtube": {
+    "video": "2FGoQJrEP38",
+    "short": "k_DOwfpWad8"
+   },
+   "page_video_added": true,
+   "page_commit": "7f70db48",
+   "make_posts": {
+    "instagram_reel": {
+     "id": "18107259875376732",
+     "url": "https://www.instagram.com/reel/DgH3c1IEbOe/",
+     "execution": "9de37b754b05443ebc97bce87ad24dae"
+    },
+    "facebook_reel": {
+     "id": "1338314956024652_122128355115452243",
+     "url": "https://www.facebook.com/reel/4648949458673426/",
+     "execution": "7030caf3bfb5447b86d5e126c8152706"
+    },
+    "linkedin_page": {
+     "id": "urn:li:ugcPost:7530958259436953600",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7530958259436953600"
+    },
+    "linkedin_profile": {
+     "id": "urn:li:ugcPost:7530958320623308801",
+     "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7530958320623308801"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000114065",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000114075",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000118047",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000116086",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000118057",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000118067",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000114085",
+     "time_ist": "22:05",
+     "note": "link_preview used"
+    }
+   },
+   "geo_tags": "none (lookup failed on every earlier run)",
+   "people_images": "4 fresh portraits (thinking, tablet, arms crossed, pointing); with-people and no-people videos differ",
+   "lighthouse_seo": 100,
+   "live_check": "WebFetch blocked from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
+   "notes": "Video 50.0 s (voice 46.9 s + 3.1 s tail, capped at 50 s). Make YouTube runs returned no outputs; IDs read from Zoho Social's YouTube feed. Instagram and Facebook Reels calls returned Bad Gateway but executions succeeded; no retries. Voice QC low scores only from spelled acronyms and licence/license spelling; final transcript matched. Page commit includes only the article source and the two article pages; other build output (date stamps and markdown drift from the shallow clone and other work) was not committed.",
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
+   "pending": [],
    "backfill_done": false
   }
  ],
@@ -850,6 +948,11 @@
    "date": "2026-11-23",
    "time_ist": "16:4x-17:2x",
    "result": "wave for mrpeasy-vs-katana (released 2026-11-23 night); no back-fill due (difot already back-filled 2026-11-22); zoho-ai-explained, wip-inventory-work-in-progress and zoho-creator-customer-portal-pricing skipped"
+  },
+  {
+   "date": "2026-11-24",
+   "time_ist": "16:4x-17:3x",
+   "result": "wave for zoho-vs-microsoft-dynamics-365 (released 2026-11-23 evening; no night release on 24 Nov); back-filled 10 links for mrpeasy-vs-katana"
   }
  ],
  "skipped": [
