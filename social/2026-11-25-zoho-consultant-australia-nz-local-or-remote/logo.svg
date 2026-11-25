@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none">
+  <!-- 1. TOP WING (UNCHANGED: Solid Zoho Red #E42528 with original crisp cuts) -->
+  <path d="M 48 84 
+           A 36 36 0 0 1 84 48 
+           L 180 48 
+           L 156 72 
+           L 84 72 
+           A 12 12 0 0 0 72 84 
+           L 72 156 
+           L 48 180 
+           Z" 
+        fill="#E42528"/>
+
+  <!-- 2. UPPER DIAGONAL BEAM (Zoho Yellow #F8B600 - Outer Tip ONLY Rounded) -->
+  <path d="M 124 116 
+           L 186 54 
+           A 11.31 11.31 0 0 1 202 70 
+           L 140 132 
+           Z" 
+        fill="#F8B600"/>
+
+  <!-- 3. LOWER DIAGONAL BEAM (Zoho Blue #1E88E5 - Outer Tip ONLY Rounded) -->
+  <path d="M 132 140 
+           L 70 202 
+           A 11.31 11.31 0 0 1 54 186 
+           L 116 124 
+           Z" 
+        fill="#1E88E5"/>
+
+  <!-- 4. BOTTOM WING (UNCHANGED: Solid Zoho Green #00A859 with original crisp cuts) -->
+  <path d="M 208 172 
+           A 36 36 0 0 1 172 208 
+           L 76 208 
+           L 100 184 
+           L 172 184 
+           A 12 12 0 0 0 184 172 
+           L 184 100 
+           L 208 76 
+           Z" 
+        fill="#00A859"/>
+</svg>
