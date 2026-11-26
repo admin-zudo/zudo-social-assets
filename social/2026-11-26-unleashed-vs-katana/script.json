@@ -1,0 +1,40 @@
+{
+"lines": [
+{
+"say": "Unleashed or Katana? Same shortlist. Different strengths.",
+"show": "Unleashed or Katana? Same shortlist. Different strengths."
+},
+{
+"say": "Unleashed is inventory software first. Stock, wholesale and sales channels.",
+"show": "Unleashed is inventory software first. Stock, wholesale and sales channels."
+},
+{
+"say": "Katana puts production at the centre. Routings, and a shop floor app for operators.",
+"show": "Katana puts production at the centre. Routings, and a Shop Floor App for operators."
+},
+{
+"say": "In Unleashed, production is a module. It's not on the Light package.",
+"show": "In Unleashed, production is a module. It's not on the Lite package."
+},
+{
+"say": "Unleashed has three packages. Light. Core. Or Pro. Plus paid extras.",
+"show": "Unleashed has three packages. Lite, Core or Pro. Plus paid extras."
+},
+{
+"say": "Katana is free up to thirty skews. Then one annual price, not per user.",
+"show": "Katana is free up to 30 SKUs. Then one annual price, not per user."
+},
+{
+"say": "Both connect to Zero and QuickBooks Online. Neither has a native My-ob connection.",
+"show": "Both connect to Xero and QuickBooks Online. Neither has a native MYOB connection."
+},
+{
+"say": "Stock is the hard part? Unleashed. Production? Katana.",
+"show": "Stock is the hard part? Unleashed. Production? Katana."
+},
+{
+"say": "Read the full comparison at Zoo doe works dot com.",
+"show": "Read the full comparison at zudoworks.com"
+}
+]
+}

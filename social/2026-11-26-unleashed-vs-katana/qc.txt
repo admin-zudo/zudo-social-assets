@@ -1,0 +1,23 @@
+1.00 | said: Unleashed or Katana? | heard: Unleashed or Katana.
+1.00 | said: Same shortlist. | heard: Same shortlist.
+1.00 | said: Different strengths. | heard: Different Strengths
+1.00 | said: Unleashed is inventory software first. | heard: Unleashed is inventory software first.
+1.00 | said: Stock, wholesale and sales channels. | heard: stock wholesale and sales channels.
+0.83 | said: Katana puts production at the centre. | heard: Katana puts production at the center.
+1.00 | said: Routings, and a shop floor app for operators. | heard: routings and a shop floor app for operators.
+1.00 | said: In Unleashed, production is a module. | heard: In Unleashed, production is a module.
+1.00 | said: It's not on the Light package. | heard: It's not on the light package.
+1.00 | said: Unleashed has three packages. | heard: Unleashed has three packages.
+1.00 | said: Light. | heard: Light
+1.00 | said: Core. | heard: Core.
+1.00 | said: Or Pro. | heard: or pro.
+1.00 | said: Plus paid extras. | heard: Plus paid extras.
+0.71 | said: Katana is free up to thirty skews. | heard: Katana is free up to 30 SKUs.
+0.86 | said: Then one annual price, not per user. | heard: than one annual price, not per user.
+0.86 | said: Both connect to Zero and QuickBooks Online. | heard: Both connect to Xero and QuickBooks Online.
+0.77 | said: Neither has a native My-ob connection. | heard: neither has a native MyOb connection.
+1.00 | said: Stock is the hard part? | heard: Stock is the hard part.
+1.00 | said: Unleashed. | heard: Unleashed.
+1.00 | said: Production? | heard: Production
+1.00 | said: Katana. | heard: Katana
+0.62 | said: Read the full comparison at Zoo doe works dot com. | heard: Read the full comparison at zudoworks.com.
