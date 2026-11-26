@@ -10,7 +10,8 @@
   "https://zudoworks.com/insights/difot-delivery-in-full-on-time/",
   "https://zudoworks.com/insights/mrpeasy-vs-katana/",
   "https://zudoworks.com/insights/zoho-vs-microsoft-dynamics-365/",
-  "https://zudoworks.com/insights/zoho-consultant-australia-nz-local-or-remote/"
+  "https://zudoworks.com/insights/zoho-consultant-australia-nz-local-or-remote/",
+  "https://zudoworks.com/insights/unleashed-vs-katana/"
  ],
  "waves": [
   {
@@ -985,7 +986,81 @@
    "live_check": "WebFetch and curl cannot reach zudoworks.com from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
    "notes": "Video 50.0 s (voice 46.2 s). YouTube IDs read from Zoho Social's YouTube feed. Voice QC low scores only from spelled acronyms and respellings (Deluge, zoho.com.au, APP 8, GST, zudoworks.com); final transcript matched. Social copy avoids the article's India-time hours section. Sandbox fixes: voice.py resample via scipy, headless-shell 1255 symlinked to 1243, logo copied from officemaintenance (download blocked).",
    "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
-   "backfill_done": false
+   "backfill_done": true,
+   "backfill": {
+    "date": "2026-11-26",
+    "links": 10,
+    "page_commit": "df8427c4"
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "slug": "unleashed-vs-katana",
+   "url": "https://zudoworks.com/insights/unleashed-vs-katana/",
+   "released_at": "2026-11-26T02:49:44+05:30",
+   "assets": "social/2026-11-26-unleashed-vs-katana/",
+   "assets_commit": "08c245a",
+   "youtube": {
+    "video": "4G3W3nzCNUg",
+    "short": "oHa47f6I2g0"
+   },
+   "page_video_added": true,
+   "page_commit": "df8427c4",
+   "make_posts": {
+    "instagram_reel": {
+     "execution": "4b30cf35dfae4fcf81c105b339ee65ef",
+     "note": "SUCCESS; permalink to read at back-fill"
+    },
+    "facebook_reel": {
+     "execution": "24579c346a1b43438b51b9d8248a13c3",
+     "note": "SUCCESS; permalink to read at back-fill"
+    },
+    "linkedin_page": {
+     "execution": "5f8a22ca59e0456ea902d8a8e9c24ac3",
+     "note": "SUCCESS; permalink to read at back-fill"
+    },
+    "linkedin_profile": {
+     "execution": "d2342eadf32242dfab2023ef677ea22a",
+     "note": "SUCCESS; permalink to read at back-fill"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000127005",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000129005",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000127015",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000130007",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000127025",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000129015",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000127035",
+     "time_ist": "22:05",
+     "note": "link_preview used; call_to_action rejected (EXTRA_KEY_FOUND_IN_JSON)"
+    }
+   },
+   "geo_tags": "none (getSocialGeolocations returned REQUIRED_PARAM_MISSING)",
+   "people_images": "none: Hugging Face ZeroGPU quota exhausted; no-people layout (v916_np identical to v916)",
+   "lighthouse_seo": 100,
+   "live_check": "WebFetch cannot reach zudoworks.com from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
+   "notes": "Video 50.0 s (voice 46.6 s). Short and video IDs read from Zoho Social's YouTube feed. Voice QC low scores only from respellings (centre, Lite, SKUs, Xero, MYOB, zudoworks.com); final transcript matched. LinkedIn video captions carry the link in the text (no first comment in Make). Build: link_guides and llms.py changed unrelated pages/markdown copies in the sandbox; reverted, only the two article pages committed.",
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled"
   }
  ],
  "runs": [
@@ -1053,6 +1128,11 @@
    "date": "2026-11-25",
    "time_ist": "16:4x-17:1x",
    "result": "wave for zoho-consultant-australia-nz-local-or-remote (released 2026-11-25 night); back-filled 10 links for zoho-vs-microsoft-dynamics-365; zoho-desk-blended-agents skipped"
+  },
+  {
+   "date": "2026-11-26",
+   "time_ist": "16:4x-17:1x",
+   "result": "wave for unleashed-vs-katana (released 2026-11-26 night); back-filled 10 links for zoho-consultant-australia-nz-local-or-remote; zoho-expense-vs-expensify skipped; no people images (HF quota)"
   }
  ],
  "skipped": [
@@ -1115,6 +1195,11 @@
    "url": "https://zudoworks.com/insights/zoho-desk-blended-agents/",
    "released_at": "2026-11-24T23:08:34+05:30",
    "reason": "not the newest unprocessed release on 2026-11-25; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/zoho-expense-vs-expensify/",
+   "released_at": "2026-11-25T17:59:53+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-26; one wave per day"
   }
  ]
 }
