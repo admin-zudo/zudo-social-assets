@@ -1,0 +1,17 @@
+1.00 | said: Setting up Zoho CRM? | heard: Setting up Zoho CRM
+1.00 | said: The order matters more than the features. | heard: The order matters more than the features.
+1.00 | said: Start with company settings. | heard: Start with company settings.
+1.00 | said: Time zone, currency, fiscal year and hierarchy. | heard: time zone, currency, fiscal year and hierarchy.
+1.00 | said: Then access. | heard: then access.
+1.00 | said: Roles, profiles and sharing, before you invite anyone. | heard: Roles, profiles, and sharing before you invite anyone.
+1.00 | said: Records are private by default. | heard: Records are private by default.
+1.00 | said: Sharing rules can only widen access. | heard: Sharing rules can only widen access.
+1.00 | said: Shape the pipeline to how you really sell. | heard: Shape the pipeline to how you really sell.
+1.00 | said: Then connect email. | heard: Then connect email.
+1.00 | said: Rules before data. | heard: Rules before data.
+1.00 | said: Zoho says set up automation before you import. | heard: Zoho says set up automation before you import.
+0.75 | said: Import fifty rows first. | heard: Import 50 rows first.
+1.00 | said: Once an import starts, it can't be cancelled. | heard: Once an import starts, it can't be cancelled.
+1.00 | said: Launch with a pilot group. | heard: Launch with a pilot group.
+0.92 | said: Then review after two to four weeks. | heard: then review after 2-4 weeks.
+0.73 | said: Read the full step by step guide at Zoo doe works dot com. | heard: Read the full step-by-step guide at zudoworks.com.

@@ -1,0 +1,47 @@
+[
+ {
+  "text": "Setting up Zoho CRM? The order matters more than the features.",
+  "start": 0.35,
+  "end": 4.49
+ },
+ {
+  "text": "Start with company settings. Time zone, currency, fiscal year and hierarchy.",
+  "start": 4.93,
+  "end": 9.69
+ },
+ {
+  "text": "Then access. Roles, profiles and sharing, before you invite anyone.",
+  "start": 10.13,
+  "end": 14.61
+ },
+ {
+  "text": "Records are private by default. Sharing rules can only widen access.",
+  "start": 15.05,
+  "end": 19.34
+ },
+ {
+  "text": "Shape the pipeline to how you really sell. Then connect email.",
+  "start": 19.78,
+  "end": 23.51
+ },
+ {
+  "text": "Rules before data. Zoho says set up automation before you import.",
+  "start": 23.95,
+  "end": 28.6
+ },
+ {
+  "text": "Import 50 rows first. Once an import starts, it can't be cancelled.",
+  "start": 29.04,
+  "end": 33.33
+ },
+ {
+  "text": "Launch with a pilot group. Then review after two to four weeks.",
+  "start": 33.77,
+  "end": 37.57
+ },
+ {
+  "text": "Read the full step-by-step guide at zudoworks.com",
+  "start": 38.01,
+  "end": 41.65
+ }
+]
