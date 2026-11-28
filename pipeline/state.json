@@ -12,7 +12,8 @@
   "https://zudoworks.com/insights/zoho-vs-microsoft-dynamics-365/",
   "https://zudoworks.com/insights/zoho-consultant-australia-nz-local-or-remote/",
   "https://zudoworks.com/insights/unleashed-vs-katana/",
-  "https://zudoworks.com/insights/how-to-set-up-zoho-crm/"
+  "https://zudoworks.com/insights/how-to-set-up-zoho-crm/",
+  "https://zudoworks.com/insights/what-is-zoho-one/"
  ],
  "waves": [
   {
@@ -1136,6 +1137,81 @@
    "lighthouse_seo": 100,
    "live_check": "WebFetch cannot reach zudoworks.com from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
    "notes": "Video 46.6 s (voice 42.1 s). First Short upload failed: 9:16 file 5.3 MB was over Make's 5 MB free-plan file limit; re-encoded to 4.96 MB (2-pass 700k) and the retry succeeded. Commit-pinned raw URLs used to avoid raw cache. Voice QC low scores only from digit normalisation (50, 2-4, zudoworks.com); final transcript matched. Sandbox fixes: voice.py resample via scipy, pip packages in python3.13, headless-shell 1255 symlinked to 1243.",
+   "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled",
+   "backfill_done": true,
+   "backfill": {
+    "date": "2026-11-28",
+    "links": 10,
+    "page_commit": "465aa14a"
+   }
+  },
+  {
+   "date": "2026-11-28",
+   "slug": "what-is-zoho-one",
+   "url": "https://zudoworks.com/insights/what-is-zoho-one/",
+   "released_at": "2026-11-28T02:47:36+05:30",
+   "assets": "social/2026-11-28-what-is-zoho-one/",
+   "assets_commit": "755e7a9",
+   "youtube": {
+    "video": "gcCxRhVcw5A",
+    "short": "TNYFy8qx5sE"
+   },
+   "page_video_added": true,
+   "page_commit": "465aa14a",
+   "make_posts": {
+    "instagram_reel": {
+     "execution": "ff6827a0d91e48b981399d9dd8da3a3f",
+     "note": "SUCCESS; permalink to read at back-fill"
+    },
+    "facebook_reel": {
+     "execution": "2f8c7bbf0b544581bf4d6938f0206f5a",
+     "note": "SUCCESS; permalink to read at back-fill"
+    },
+    "linkedin_page": {
+     "execution": "5d38577562b04d17a6f6b060418e4ebb",
+     "note": "SUCCESS; permalink to read at back-fill"
+    },
+    "linkedin_profile": {
+     "execution": "fd0a0b2de2aa47fe89453a1c07e01438",
+     "note": "SUCCESS; permalink to read at back-fill"
+    }
+   },
+   "zoho_schedules": {
+    "instagram": {
+     "id": "426275000000136032",
+     "time_ist": "19:05"
+    },
+    "linkedin_page": {
+     "id": "426275000000136042",
+     "time_ist": "19:35"
+    },
+    "linkedin_profile": {
+     "id": "426275000000138022",
+     "time_ist": "20:05"
+    },
+    "facebook": {
+     "id": "426275000000138032",
+     "time_ist": "20:35"
+    },
+    "threads": {
+     "id": "426275000000135037",
+     "time_ist": "21:05"
+    },
+    "mastodon": {
+     "id": "426275000000135047",
+     "time_ist": "21:35"
+    },
+    "google_business": {
+     "id": "426275000000135057",
+     "time_ist": "22:05",
+     "note": "link_preview used, cover slide only"
+    }
+   },
+   "geo_tags": "none (lookup failed on earlier runs; not attempted)",
+   "people_images": "none: Hugging Face ZeroGPU quota exhausted; no-people layout (v916_np identical to v916)",
+   "lighthouse_seo": 100,
+   "live_check": "WebFetch and curl cannot reach zudoworks.com from sandbox; Lighthouse mobile SEO 100, no failed SEO checks",
+   "notes": "Video 47.3 s (voice 42.8 s). YouTube IDs read from Zoho Social's YouTube feed. Voice QC low scores only from digit normalisation and respellings (45, ERP, zudoworks.com); final transcript matched. Instagram and Facebook Reel calls returned Bad Gateway but both executions succeeded (checked in Make; no retry). Build: date-stamp churn on unrelated pages reverted; only source and the two article pages committed. Local http.server blocked by sandbox policy; page checked in Playwright with files served from disk.",
    "status": "YouTube video and Short, Instagram and Facebook Reels, LinkedIn page and profile videos posted; 7 carousels scheduled"
   }
  ],
@@ -1214,6 +1290,11 @@
    "date": "2026-11-27",
    "time_ist": "16:4x-17:1x",
    "result": "wave for how-to-set-up-zoho-crm (released 2026-11-27 night); back-filled 10 links for unleashed-vs-katana; job-traveler-manufacturing skipped"
+  },
+  {
+   "date": "2026-11-28",
+   "time_ist": "16:4x-17:1x",
+   "result": "wave for what-is-zoho-one (released 2026-11-28 night); back-filled 10 links for how-to-set-up-zoho-crm; capacity-planning-manufacturing skipped; no people images (HF quota)"
   }
  ],
  "skipped": [
@@ -1286,6 +1367,11 @@
    "url": "https://zudoworks.com/insights/job-traveler-manufacturing/",
    "released_at": "2026-11-26T17:49:02+05:30",
    "reason": "not the newest unprocessed release on 2026-11-27; one wave per day"
+  },
+  {
+   "url": "https://zudoworks.com/insights/capacity-planning-manufacturing/",
+   "released_at": "2026-11-27T17:49:29+05:30",
+   "reason": "not the newest unprocessed release on 2026-11-28; one wave per day"
   }
  ]
 }
