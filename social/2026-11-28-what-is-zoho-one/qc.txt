@@ -1,0 +1,14 @@
+1.00 | said: What is Zoho One? | heard: What is Zoho One?
+0.71 | said: One licence for more than forty five Zoho apps. | heard: one license for more than 45 Zoho apps.
+1.00 | said: One sign in. | heard: One Sign In
+1.00 | said: One admin panel. | heard: One admin panel.
+1.00 | said: One invoice. | heard: One Invoice
+1.00 | said: Add a person once, then give them only the apps they need. | heard: Add a person once, then give them only the apps they need.
+1.00 | said: Two ways to pay. | heard: Two ways to pay.
+1.00 | said: All Employee pricing licenses everyone on payroll, at a lower rate. | heard: All employee pricing licenses everyone on payroll at a lower rate.
+1.00 | said: Flexible User pricing licenses only the people you choose, at a higher rate. | heard: Flexible user pricing licenses only the people you choose at a higher rate.
+1.00 | said: It is not everything Zoho makes. | heard: It is not everything Zoho makes.
+0.80 | said: Zoho E-R-P, Catalyst and field service are outside it. | heard: Zoho ERP, Catalyst and Field Service are outside it.
+1.00 | said: In Australia, New Zealand and the UK, payroll is not included. | heard: In Australia, New Zealand and the UK, payroll is not included.
+1.00 | said: It suits a business using four or more Zoho apps across several teams. | heard: It suits a business using four or more Zoho apps across several teams.
+0.62 | said: Read the full guide at Zoo doe works dot com. | heard: Read the full guide at zudoworks.com
